@@ -16,6 +16,11 @@ Candidate technologies:
 
 {% embed url="https://www.hyperledger.org/projects/fabric" %}
 
+Required API:
+
+* Register care transaction
+* Confirm care transaction
+
 ## Reference
 
 The following provides a good overview of RDBMS, NoSQL, Ledger DB.

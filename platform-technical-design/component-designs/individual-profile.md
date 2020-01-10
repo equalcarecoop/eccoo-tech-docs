@@ -8,13 +8,15 @@ The individual profile component represents about the user within the platform.
 
 ## ​C​ritical requirements
 
-
-
 ## ​Implementation
 
+This may not be a viable component on its own, but may actually be a facet of the 
 
+On the other hand, this might be the core user data (e.g. name, gender, address). If so, this should be a database of some kind. A SQL (Relational) Database could do this, as could a NoSQL Database.
 
-## Roles or Hats
+## Reference
+
+### Roles or Hats
 
 ![](../../.gitbook/assets/image.png)
 

@@ -9,11 +9,26 @@ The care notes component is responsible for tracking notes associated with a car
 
 ## Implementation
 
-This could be implemented as a NoSQL database with the following structure.
+This should be implemented as a NoSQL database with the following structure.
 
-```yaml
-crid: care receiver ID - reference to recipent of care
-date: timestamp for entry
-visibility: permissions required to view read
-note: formatted care note
+```json
+{
+  "pid": "112-121af123-a",
+  "permissions": {},
+  "timestamp": "20200101T103002Z",
+  "notes": "Care note content."
+}
 ```
+
+* `pid` is the reference to the person identifier in the platform
+* `permissions` is an object defining who can see and edit the note
+* `timestamp` is an ISO 8901 formatted timestamp
+* `notes` is a string containing the notes
+
+The notes will need to be encrypted to prevent data loss.
+
+The API for the service will need to enable the following actions:
+
+* Create note for case
+* Limit readership
+* Retreive note for case

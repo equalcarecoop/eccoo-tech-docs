@@ -6,3 +6,6 @@ On occasion, eccoo employees will perform system actions on behalf of the platfo
 
 * Temporary grant of access to user account - by challenge?
 
+## Implementation
+
+TBC
