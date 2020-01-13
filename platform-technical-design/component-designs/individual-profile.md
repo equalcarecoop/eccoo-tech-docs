@@ -8,11 +8,14 @@ The individual profile component represents about the user within the platform.
 
 ## ​C​ritical requirements
 
+* Enctyption of personal data
+* Provision of unique identifier - the Person ID \(PID\).
+
 ## ​Implementation
 
-This may not be a viable component on its own, but may actually be a facet of the 
+This may not be a viable component on its own, but may actually be a facet of the relationship component.
 
-On the other hand, this might be the core user data (e.g. name, gender, address). If so, this should be a database of some kind. A SQL (Relational) Database could do this, as could a NoSQL Database.
+On the other hand, this might be the core user data (e.g. name, gender, address). If so, this should be a database of some kind. A SQL (Relational) Database could do this, as could a NoSQL Database. Selection of database technology should be based on other choices of database.
 
 ## Reference
 

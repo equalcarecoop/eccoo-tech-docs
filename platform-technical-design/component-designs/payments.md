@@ -1,6 +1,10 @@
 # payments
 
-## Critical Requirements
+## Critical requirements
+
+## Implementation
+
+## Reference
 
 ### Regulation
 
@@ -32,11 +36,4 @@ Payment partner?
 
 Payment partner?
 
-Reconciliation with 
-
-
-
-
-
-
-
+Reconciliation with eccoo bank / accounting
