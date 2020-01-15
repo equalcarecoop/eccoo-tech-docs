@@ -1,8 +1,26 @@
 # payments
 
+The Payments component is responsible for managing financial transactions mediated by the platform. Initially this will include payments by and to platform users, but will extend to managing financial 'pots' which might contain funds from Local Authorities, NHS or other sources.
+
+The payments will interface with the following 'external' systems:
+
+* payment service: initiating payment transactions
+* eccoo accounting system: reconciliation of transactions
+
 ## Critical requirements
 
+More detail is required on the processes surrounding payment to define the data that is required to be managed.
+
+* Must be possible to create invoices (required for reclaims / payments)
+* Must be able to track multiple different types of accounts based on platform user role
+    * outgoing payment account for care givers
+    * incoming payment account for care receivers
+    * managed fund account(s) for care receivers 
+    * care coins account for any user
+
 ## Implementation
+
+This is likely to be another implementation of Ledger DB technology to manage the transactions in and out of the various accounts / pots.
 
 ## Reference
 
