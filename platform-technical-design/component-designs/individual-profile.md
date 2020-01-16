@@ -8,7 +8,7 @@ The individual profile component represents about the user within the platform.
 
 ## ​C​ritical requirements
 
-* Enctyption of personal data
+* Encryption of personal data
 * Provision of unique identifier - the Person ID \(PID\).
 
 ## ​Implementation
