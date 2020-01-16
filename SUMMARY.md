@@ -11,7 +11,7 @@
     * [individual profile](platform-technical-design/component-designs/individual-profile.md)
     * [relationships](platform-technical-design/component-designs/relationship-graph.md)
     * [role manager](platform-technical-design/component-designs/role-manager.md)
-    * [matching](platform-technical-design/component-designs/matching.md)
+    * [matching](platform-technical-design/component-walkthroughs/matching.md)
     * [appointment booking](platform-technical-design/component-designs/appointment-booking.md)
     * [care notes](platform-technical-design/component-designs/care-notes.md)
     * [care logging](platform-technical-design/component-designs/care-logging.md)
