@@ -22,7 +22,7 @@
       * [authorisation](platform-technical-design/component-designs/security/authorisation.md)
     * [guided performance](platform-technical-design/component-designs/guided-performance.md)
   * [component walkthroughs](platform-technical-design/component-walkthroughs/README.md)
-    * [matching](platform-technical-design/component-walkthroughs/matching.md)
+    * [person matching](platform-technical-design/component-walkthroughs/person-matching.md)
     * [appointment arranging](platform-technical-design/component-walkthroughs/appointment-arranging.md)
     * [care logging](platform-technical-design/component-walkthroughs/care-logging.md)
     * [care worker payment](platform-technical-design/component-walkthroughs/care-worker-payment.md)
