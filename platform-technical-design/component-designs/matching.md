@@ -22,4 +22,5 @@ It is suggested that an initial implemention of the matching component errs on t
 
 ## Implementation
 
-The implementation of Matching will rely heavily on information stored in the relationships component. The initial implementation may be simply a query against the graph. As the algorithm is fine tuned, the core could replaced by AI techniques such as Machine Learning (using user feedback to improve future matches).
+The implementation of Matching will rely heavily on information stored in the relationships component. The initial implementation may be simply a query against the graph. As the algorithm is fine tuned, the core could replaced by AI techniques such as Machine Learning \(using user feedback to improve future matches\).
+
