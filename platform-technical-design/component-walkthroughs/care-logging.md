@@ -15,5 +15,3 @@ In this 'sunny day' scenario, each system user will simply agree with the record
 3. The care giver and care receiver log their agreement with the recorded details.
 4. Once consensus has been logged by all participants, the care log will store the entry on the ledger, and the care logging interaction ends.
 
-
-

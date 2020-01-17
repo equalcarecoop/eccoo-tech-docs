@@ -5,3 +5,4 @@ The notification component is responsible for transmission of notifications to p
 ## Critical requirements
 
 ## Implementation
+

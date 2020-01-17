@@ -14,7 +14,7 @@ This could be an application for distributed ledger \(blockchain\) technology.
 
 Candidate technologies:
 
-{% embed url="https://www.hyperledger.org/projects/fabric" %}
+{% embed url="https://www.hyperledger.org/projects/fabric" caption="" %}
 
 Required API:
 
@@ -25,9 +25,5 @@ Required API:
 
 The following provides a good overview of RDBMS, NoSQL, Ledger DB.
 
-{% embed url="https://hackernoon.com/relational-nosql-ledger-databases-work-not-permissioned-blockchains-9ccaef7b3139" %}
-
-
-
-
+{% embed url="https://hackernoon.com/relational-nosql-ledger-databases-work-not-permissioned-blockchains-9ccaef7b3139" caption="" %}
 

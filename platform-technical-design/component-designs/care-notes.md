@@ -11,7 +11,7 @@ The care notes component is responsible for tracking notes associated with a car
 
 This should be implemented as a NoSQL database with the following structure.
 
-```json
+```javascript
 {
   "pid": "112-121af123-a",
   "permissions": {},
@@ -32,3 +32,4 @@ The API for the service will need to enable the following actions:
 * Create note for case
 * Limit readership
 * Retreive note for case
+
