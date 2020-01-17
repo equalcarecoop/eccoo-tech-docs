@@ -19,5 +19,5 @@ The UI components must be designed to appropriate accessibility standards. At a 
 
 There are excellent resources available at the [W3C Web Accessibility Initiative page](https://www.w3.org/WAI/).
 
-The system should support users with complex needs.
+The system should support users with complex needs. Hyper-accessibility.
 
