@@ -13,6 +13,7 @@
     * [role manager](platform-technical-design/component-designs/role-manager.md)
     * [appointment booking](platform-technical-design/component-designs/appointment-booking.md)
     * [care notes](platform-technical-design/component-designs/care-notes.md)
+    * [matching](platform-technical-design/component-designs/matching.md)
     * [care logging](platform-technical-design/component-designs/care-logging.md)
     * [payments](platform-technical-design/component-designs/payments.md)
     * [notification management](platform-technical-design/component-designs/notification-management.md)
