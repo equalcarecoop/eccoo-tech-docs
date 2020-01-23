@@ -21,6 +21,10 @@ There are excellent resources available at the [W3C Web Accessibility Initiative
 
 The system should support users with complex needs. Hyper-accessibility.
 
+References:
+
+* [https://alistapart.com/article/standards-for-writing-accessibly/](https://alistapart.com/article/standards-for-writing-accessibly/)
+
 ### Internationalisation \(i18n\) and Localisation \(l10n\)
 
 The platform may ultimately be used in multiple countries: as such, all platform components should be internationalised so that they can be easily localised.
