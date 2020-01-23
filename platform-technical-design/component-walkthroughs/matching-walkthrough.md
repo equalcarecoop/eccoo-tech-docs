@@ -3,7 +3,7 @@
 Preconditions:
 
 * Care Receiver registered in system
-* Care needs are captured (How???)
+* Care needs are captured \(How???\)
 
 Scenario: Simple match
 

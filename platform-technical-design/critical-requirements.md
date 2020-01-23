@@ -21,12 +21,13 @@ There are excellent resources available at the [W3C Web Accessibility Initiative
 
 The system should support users with complex needs. Hyper-accessibility.
 
-### Internationalisation (i18n) and Localisation (l10n)
+### Internationalisation \(i18n\) and Localisation \(l10n\)
 
 The platform may ultimately be used in multiple countries: as such, all platform components should be internationalised so that they can be easily localised.
 
-https://en.wikipedia.org/wiki/Internationalization_and_localization
+[https://en.wikipedia.org/wiki/Internationalization\_and\_localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 ### Audit
 
 * All access to data should be logged for later querying.
+
