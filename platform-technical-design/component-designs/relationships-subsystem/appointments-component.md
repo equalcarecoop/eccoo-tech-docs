@@ -1,4 +1,4 @@
-# appointment booking
+# appointments
 
 Appointment booking is responsible for facilitating the booking and completion of appointments.
 
