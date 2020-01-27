@@ -19,7 +19,7 @@
       * [audit](platform-technical-design/component-designs/identity-and-access-subsystem/audit-component.md)
     * [relationships subsystem](platform-technical-design/component-designs/relationships-subsystem/README.md)
       * [appointment booking](platform-technical-design/component-designs/relationships-subsystem/appointment-booking.md)
-      * [matching](platform-technical-design/component-designs/relationships-subsystem/matching.md)
+      * [matching](platform-technical-design/component-designs/relationships-subsystem/matching-component.md)
       * [care notes](platform-technical-design/component-designs/relationships-subsystem/care-notes.md)
       * [relationships](platform-technical-design/component-designs/relationships-subsystem/relationship-graph.md)
     * [transactions subsystem](platform-technical-design/component-designs/transactions-subsystem/README.md)
