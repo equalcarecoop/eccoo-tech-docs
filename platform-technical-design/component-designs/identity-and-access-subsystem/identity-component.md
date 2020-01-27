@@ -2,7 +2,7 @@
 description: A description of the individual profile component
 ---
 
-# individual profile
+# identity
 
 The individual profile component represents about the user within the platform.
 
@@ -21,11 +21,11 @@ On the other hand, this might be the core user data \(e.g. name, gender, address
 
 ### Roles or Hats
 
-![](../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
 
 This concept allows for 'personalisation' of the core platform based on the role or roles that the individual is playing within Equal Care Co-op. Each person may, at times, wear multiple hats. The primacy of the individual profile means that each person is uniquely known to the platform, but can switch seamlessly between the hats. A hat is needed if the individual has different informational or process needs.
 
-![Data Object model for the ur-roles](../../.gitbook/assets/image%20%281%29.png)
+![Data Object model for the ur-roles](../../../.gitbook/assets/image%20%281%29.png)
 
 What that diagram says in English is:
 
