@@ -1,42 +1,23 @@
 # care giver payments
 
-The Payments component is responsible for managing financial transactions mediated by the platform. Initially this will include payments by and to platform users, but will extend to managing financial 'pots' which might contain funds from Local Authorities, NHS or other sources.
+The Care Giver Payments component is responsible for managing financial transactions to care givers mediated by the platform.
 
-The payments will interface with the following 'external' systems:
+The component will interface with the following 'external' systems:
 
 * payment service: initiating payment transactions
 * eccoo accounting system: reconciliation of transactions
 
 ## Critical requirements
 
-More detail is required on the processes surrounding payment to define the data that is required to be managed.
+More detail is required on the business design of processes surrounding payment to define the data that is required to be managed.
 
-* Must be possible to create invoices \(required for reclaims / payments\)
-* Must be able to track multiple different types of accounts based on platform user role
-  * outgoing payment account for care givers
-  * incoming payment account for care receivers
-  * managed fund account\(s\) for care receivers 
-  * care coins account for any user
+* Must be possible to initiate a payment to a care givers registered bank details
+* Must use the stored data about the care transactions from the care log to determine the payment
+* Should be possible to reconcile transactions with the eccoo bank payments \(for accounting purposes\)
 
 ## Implementation
 
 This is likely to be another implementation of Ledger DB technology to manage the transactions in and out of the various accounts / pots.
-
-## Reference
-
-### Regulation
-
-It is possible that eccoo will be subject to financial regulation as it aspires to manage and distribute funds on behalf of end users. Even in the initial iteration, the management of funds transfers between care receivers and care givers may have
-
-The Financial Conduct Authority is the UK body which managed regulation and authorisation of companies engaged in financial activities.
-
-The following references may help clarify the requirement. It is worth undertaking due diligence, perhaps by contacting the FCA in an advisory capacity.
-
-{% embed url="https://www.fca.org.uk/firms/authorisation/how-to-apply/activities" caption="" %}
-
-The FCA handbook may define what eccoo are doing as a Payment Account.
-
-{% embed url="https://www.handbook.fca.org.uk/handbook/PERG/15/3.html" caption="" %}
 
 ## Invoicing
 

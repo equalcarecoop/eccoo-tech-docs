@@ -6,15 +6,12 @@ This will be some form of ledger DB.
 
 ## Critical requirements
 
-* Non-repudiable storage of transactions \(i.e. a non-editable and therefore trustworthy record\)
+* Must be a non-repudiable storage of transactions \(i.e. a non-editable and therefore trustworthy record\)
+* Should facilitate the 'eccoo transaction fee' \(?\)
 
 ## Implementation
 
 This could be an application for distributed ledger \(blockchain\) technology.
-
-Candidate technologies:
-
-{% embed url="https://www.hyperledger.org/projects/fabric" caption="" %}
 
 Required API:
 
