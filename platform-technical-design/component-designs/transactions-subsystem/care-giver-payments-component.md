@@ -1,4 +1,4 @@
-# payments
+# care giver payments
 
 The Payments component is responsible for managing financial transactions mediated by the platform. Initially this will include payments by and to platform users, but will extend to managing financial 'pots' which might contain funds from Local Authorities, NHS or other sources.
 

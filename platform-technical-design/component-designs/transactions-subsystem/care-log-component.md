@@ -1,4 +1,4 @@
-# care logging
+# care log
 
 Care logging is the record of caring interactions that have taken place, and captures the transfer of value enabled by the platform. It is the other half of the platform core along with the [relationships](../relationships-subsystem/relationship-component.md) component.
 

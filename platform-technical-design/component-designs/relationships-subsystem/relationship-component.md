@@ -1,6 +1,6 @@
 # relationships
 
-The relationships component is one half of the platform core, with [care logging](../transactions-subsystem/care-logging.md). This component enables the multiple relationships enabled and required by the platform to be tracked:
+The relationships component is one half of the platform core, with [care logging](../transactions-subsystem/care-log-component.md). This component enables the multiple relationships enabled and required by the platform to be tracked:
 
 * person-person: I provide care to you
 * person-role: I am a care giver and a circle administrator - a.k.a. hats
