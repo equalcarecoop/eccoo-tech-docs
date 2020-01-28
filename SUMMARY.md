@@ -17,6 +17,7 @@
       * [authentication](platform-technical-design/component-designs/identity-and-access-subsystem/authentication.md)
       * [authorisation](platform-technical-design/component-designs/identity-and-access-subsystem/authorisation.md)
       * [audit](platform-technical-design/component-designs/identity-and-access-subsystem/audit-component.md)
+      * [registration](platform-technical-design/component-designs/identity-and-access-subsystem/registration.md)
     * [relationships subsystem](platform-technical-design/component-designs/relationships-subsystem/README.md)
       * [relationships](platform-technical-design/component-designs/relationships-subsystem/relationship-component.md)
       * [matching](platform-technical-design/component-designs/relationships-subsystem/matching-component.md)
