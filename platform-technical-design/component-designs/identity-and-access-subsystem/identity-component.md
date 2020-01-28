@@ -8,9 +8,9 @@ The identity component represents the user within the platform. All other record
 
 ## ​C​ritical requirements
 
-* Must provide of unique identifier - the Person ID \(PID\).
-* Must store core profile, including name and email address
-* Should encryption personal data
+* Provision of unique identifier - the Person ID \(PID\).
+* Encryption of personal data
+* Storage of core profile, including name and email address
 
 ## ​Implementation
 
