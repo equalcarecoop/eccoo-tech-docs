@@ -5,6 +5,8 @@ The registration component is responsible for ensuring that users are correctly 
 ## Critical Requirements
 
 * Must support the User Experience defined in the sign-on workflow, in conjunction with the [sign-up](../channels-subsystem/sign-up-component.md) channel component.
+* Must register the identity as a person within the relationship graph
+* Could create security artefacts such as certificates and API tokens.
 
 ## Implementation
 
