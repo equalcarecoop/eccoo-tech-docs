@@ -4,7 +4,7 @@ description: A description of the identity component
 
 # identity
 
-The identity component represents the user within the platform.
+The identity component represents the user within the platform. All other records within the system will refer to the identity provided by this component, whether for building the relationship graph, registering exchange of value or auditing data access.
 
 ## ​C​ritical requirements
 
