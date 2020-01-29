@@ -8,7 +8,7 @@ Examples of hats might be: paid, independent care and support worker, person pay
 
 Some examples of how this might show up in eccoo are:
 
-* A tech specification that relies on a single core identify for authentication purposes but then assigns roles \("hats"\) based on graph technology rather than fixed databases.
+* A tech specification that relies on a single core identity \(i.e. a human being\) for authentication purposes but then assigns roles \("hats"\) based on graph technology rather than fixed databases.
 * An agnostic view over who has the potential to wear these hats and user journey flows that model ways in which people might transition from hat to hat and add a hat to their hatstand.
 
 ### Visibility, coupled with control
@@ -34,6 +34,17 @@ Some examples of how this might show up in eccoo are:
 * Making full use of the scope of technology communication and participation aids, including staying fully up to date with new products and services in this space
 * Co-creating, maintaining and evaluating our accessibility tools with the people who will be using them
 * Giving equal or greater weight to our ‘accessible’ versions, with beautiful, thoughtful production, authorship and design
+
+### Labour is recognised and valued, wherever it comes from
+
+This is a bit like hats, but is a separate principle because it's about value, recognition and a driver to different technologies. We see caring as an abundant resource, not scarce. People getting support have valuable skills, time, experience which we shouldn’t waste. They can help others too. Care can consist of anything from a cup of tea and a chat, doing the shopping with/for someone and cooking a meal through to talking about dreams and aspirations and offering specialised clinical expertise to specific client groups.
+
+With a broad definition of who can support others, this opens up people’s spare time from other jobs where they can earn a bit extra or volunteer their support. It also means that people getting support are seen as people able to give it \(hence the crossover with the hats principles\).
+
+Some examples of how this might show up in eccoo are:
+
+* Skillsharing opportunities have a space on the platform. People are able to showcase their skills and experience for others to ask for.
+* The role of volunteering is essential to achieving this, but should not be a poorer cousin to the paid work. To create mass incentive for volunteering, we need a means of exchange – Care Coins. These may be generated through earning shares in the company at the same rate for paid and volunteer work, which could then be exchanged for other forms of labour or for dividend. Hence \(one of\) the reasons for using a distributed ledger.
 
 
 
