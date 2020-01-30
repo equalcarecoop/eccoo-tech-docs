@@ -25,7 +25,7 @@ This should be implemented as a node in the graph database with the following st
 
 The node should be linked with edges to the author and subject people.
 
-![an example graph showing care notes linked to two sets of people](../../../.gitbook/assets/care-notes-graph.png)
+![a graph showing care notes linked to two people](../../../.gitbook/assets/care-notes-graph.png)
 
 The notes will need to be encrypted to prevent data leakage.
 
