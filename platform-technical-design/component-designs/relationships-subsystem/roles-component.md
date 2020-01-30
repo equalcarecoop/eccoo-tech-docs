@@ -4,9 +4,15 @@ This concept allows for 'personalisation' of the core platform based on the role
 
 ## Critical requirements
 
+* Must enable platform users to self select available roles
+* Should be possible to limit the roles available to users based on criteria
+* Could be possible to grant a hat to another user, subject to own permissions
+
 ## Implementation
 
+This will be implemented as an API layer on top of the graph database, in common with other components in this subsystem.
 
+There is a possilbity that this will be better implemented as part of the identity and access subsystem. This depends on the 'hat modelling' that must take place, and on the selection of the technical component underpinning the Identity and Access subsystem.
 
 ![Data Object model for the ur-roles](../../../.gitbook/assets/image%20%281%29.png)
 
