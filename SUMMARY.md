@@ -8,7 +8,7 @@
   * [architecture overview](platform-technical-design/architecture-overview.md)
   * [component designs](platform-technical-design/component-designs/README.md)
     * [channels subsystem](platform-technical-design/component-designs/channels-subsystem/README.md)
-      * [sign-up](platform-technical-design/component-designs/channels-subsystem/sign-up.md)
+      * [sign-up](platform-technical-design/component-designs/channels-subsystem/sign-up-component.md)
       * [individual profile](platform-technical-design/component-designs/channels-subsystem/individual-profile-component.md)
       * [notifications](platform-technical-design/component-designs/channels-subsystem/notification-management.md)
       * [guided performance](platform-technical-design/component-designs/channels-subsystem/guided-performance.md)
