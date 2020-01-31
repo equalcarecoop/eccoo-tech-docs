@@ -33,5 +33,5 @@ The API for the service will need to enable the following actions:
 
 * Create note for person
 * Limit readership
-* Retreive note for person
+* Retrieve note for person
 
