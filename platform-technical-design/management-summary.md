@@ -12,6 +12,8 @@ This document translates the requirements captured in the backlog which define â
 
 * UX designer to define the roles for the MVP
 * Dev Lead to work with Technical Director to specify technology stack to deliver architecture
+* UX designer to define the roles for the MVP
+* Dev Lead to work with Technical Director to specify technology stack to deliver architecture
 
 
 
