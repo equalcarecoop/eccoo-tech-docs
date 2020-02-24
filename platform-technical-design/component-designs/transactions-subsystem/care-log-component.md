@@ -6,21 +6,29 @@ This will be some form of ledger DB.
 
 ## Critical requirements
 
-* Must be a non-repudiable storage of transactions \(i.e. a non-editable and therefore trustworthy record\)
-* Should facilitate the 'eccoo transaction fee' \(?\)
+The care logging component
+
+* must enable users to confirm that the care log record is correct
+* must enable users to confirm the care log record with adjustments \(e.g. to time\)
+* must store an immutable and non-repudiable record of the care log \(i.e. non-editable and therefore trustworthy\)
+* could \(subject to UX design\) progress between pending and confirmed state based on a timer \(i.e. assume agreement if not confirmed within a period of time\)
+* should facilitate the 'eccoo transaction fee' \(?\)
+* won't manage disputes between platform users
 
 ## Implementation
 
-This could be an application for distributed ledger \(blockchain\) technology.
+This is a strong candidate for implementation as a distributed ledger \(blockchain\).
+
+The transaction model implemented in the technology is shown in the diagram below.
+
+![State model for the care logging transaction](../../../.gitbook/assets/ledger-state-transitions.png)
+
+Ultimately, post MVP, this will extend to cover the full scope of required functionality - e.g. include moving from 'pending' to 'dispute' state in the event of disagreement between care giver and care receiver.
 
 Required API:
 
 * Register care transaction
 * Confirm care transaction
 
-## Reference
 
-The following provides a good overview of RDBMS, NoSQL, Ledger DB.
-
-{% embed url="https://hackernoon.com/relational-nosql-ledger-databases-work-not-permissioned-blockchains-9ccaef7b3139" caption="" %}
 

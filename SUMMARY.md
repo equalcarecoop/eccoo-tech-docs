@@ -11,7 +11,7 @@
       * [sign-up](platform-technical-design/component-designs/channels-subsystem/sign-up-component.md)
       * [individual profile](platform-technical-design/component-designs/channels-subsystem/individual-profile-component.md)
       * [notifications](platform-technical-design/component-designs/channels-subsystem/notification-management-component.md)
-      * [guided performance](platform-technical-design/component-designs/channels-subsystem/guided-performance.md)
+      * [guided performance](platform-technical-design/component-designs/channels-subsystem/guided-performance-component.md)
     * [identity and access subsystem](platform-technical-design/component-designs/identity-and-access-subsystem/README.md)
       * [identity](platform-technical-design/component-designs/identity-and-access-subsystem/identity-component.md)
       * [authentication](platform-technical-design/component-designs/identity-and-access-subsystem/authentication.md)

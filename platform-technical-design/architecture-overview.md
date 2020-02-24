@@ -10,7 +10,7 @@ The following diagram provides an at-a-glance view of the platform design. This 
 
 ## System Context \(a.k.a the outside the system boundary\)
 
-The primary system roles, Care Receiver and Care Giver \(two variants: volunteer and paid\), are shown to the top of the diagram. A supporting role of Care Arranger may act on behalf of the Care Receiver. This could be a family or community member, or a care professional. The converse of this role: the facilitator offering guided performance, is an eccoo-provided role connected to new and established relationships, offering telephone-based and face to face support to all those involved in the giving and receiving relationship. They are primarily aligned with the person getting support and both introduce and troubleshoot concerns, issues or help with changes.
+The primary system roles, Care Receiver and Care Giver \(two variants: volunteer and paid\), are shown to the top of the diagram. A supporting role of Care Arranger may act on behalf of the Care Receiver. This could be a family or community member, or a care professional. The converse of this role: the [facilitator ](https://www.equalcare.coop/facilitator)offering guided performance, is an eccoo-provided role connected to new and established relationships, offering telephone-based and face to face support to all those involved in the giving and receiving relationship. They are primarily aligned with the person getting support and both introduce and troubleshoot concerns, issues or help with changes.
 
 System-to-system interactions already identified are:
 
