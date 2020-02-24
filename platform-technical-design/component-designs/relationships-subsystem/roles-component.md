@@ -8,12 +8,6 @@ This concept allows for 'personalisation' of the core platform based on the role
 * Should be possible to limit the roles available to users based on criteria
 * Could be possible to grant a hat to another user, subject to own permissions
 
-For the initial MVP the recommendation would be to limit the hats to: 
-
-* care giver
-* care receiver
-* care arranger \(e.g. relative arranging care on behalf of a care receiver\)
-
 ## Implementation
 
 This will be implemented as an API layer on top of the graph database, in common with other components in this subsystem.
@@ -32,6 +26,4 @@ What that diagram says in English is:
 > * **Case File Access** which is a kind of permission explicitly granted \(**Granted permission**\) to a Care Giver to enable them to discharge their role. This implies that the permission can be revoked. The mechanism for granting and revoking \(and enforcing!\) permissions must be provided by the platform.
 
 You can see why software engineers tend to draw a lot of pictures.
-
-
 
