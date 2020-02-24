@@ -11,5 +11,5 @@ The guided performance component
 
 ## Implementation
 
-This is out of scope for the MVP.
+This may be out of scope for the MVP.
 
