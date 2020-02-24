@@ -1,6 +1,6 @@
 # individual profile
 
-The individual profile is the primary means that platform users will interact with to use the platform. 
+The individual profile is the primary means that platform users will use to interact with the platform. 
 
 ## Critical requirements
 
