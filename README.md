@@ -4,9 +4,9 @@ The platform is critical to our aspiration to spread our vision to make a differ
 
 This book outlines the [platform technical design](platform-technical-design/) and [software engineering](software-engineering/) approaches that will underpin the platform, focussing on the MVP - Minimum Viable Product - that we need to build to support this growth.
 
-The purpose of the MVP is:
+The purpose of the MVP is...
 
-> Our system will match people who require care and support with those who can provide it and facilitate paid booking.
+> ...to match people who require care and support with those who can provide it and facilitate paid booking.
 
 ### Some points of language:
 
