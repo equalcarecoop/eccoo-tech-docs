@@ -4,12 +4,9 @@ On occasion, eccoo employees will perform system actions on behalf of the platfo
 
 ## Critical requirements
 
-The guided performance component
-
-* must allow temporary grant of access to another user's account
-* must limit access to information required to complete the task
+* Temporary grant of access to user account - by challenge?
 
 ## Implementation
 
-This may be out of scope for the MVP.
+TBC
 
