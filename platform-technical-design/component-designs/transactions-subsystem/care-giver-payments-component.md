@@ -37,3 +37,7 @@ Payment partner?
 
 Reconciliation with eccoo bank / accounting
 
+### References
+
+[https://stripe.com/gb/connect](https://stripe.com/gb/connect)
+
