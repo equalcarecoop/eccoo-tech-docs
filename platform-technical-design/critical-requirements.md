@@ -34,4 +34,19 @@ The platform may ultimately be used in multiple countries: as such, all platform
 ### Audit
 
 * All access to data should be logged for later querying.
+* NOTES... Must cover CQC etc
+
+### Privacy
+
+* GDPR legislation
+
+### Security
+
+
+
+### Scalability
+
+
+
+
 
