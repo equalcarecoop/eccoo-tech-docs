@@ -33,7 +33,7 @@
     * [matching](platform-technical-design/component-walkthroughs/matching-walkthrough.md)
     * [appointment arranging](platform-technical-design/component-walkthroughs/appointment-arranging-walkthrough.md)
     * [care logging](platform-technical-design/component-walkthroughs/care-logging-walkthrough.md)
-    * [care worker payment](platform-technical-design/component-walkthroughs/care-worker-payment-walkthrough.md)
+    * [payments](platform-technical-design/component-walkthroughs/payments-walkthrough.md)
   * [infrastructure design](platform-technical-design/infrastructure-design.md)
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
 * [software engineering](software-engineering/README.md)
