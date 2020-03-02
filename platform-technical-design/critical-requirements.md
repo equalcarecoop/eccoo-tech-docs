@@ -6,10 +6,6 @@ description: >-
 
 # critical requirements
 
-## Features
-
-A prioritised set of features is outlined in the [Strategic Product Planning](https://app.asana.com/0/1150454752566641/board) board.
-
 ## Quality attributes
 
 This section outlines the quality \(rather than functional\) characteristics that the platform must meet.
@@ -42,36 +38,17 @@ The platform may ultimately be used in multiple countries: as such, all platform
 
 ### Privacy
 
-The system should adhere to the principles of GDPR legislation as enshrined in the [DPA 2018](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/).
+* GDPR legislation
 
 ### Security
 
-* All data at rest must be encrypted
-* Sensitive personal information must be encrypted at field level
-* The system must enforce access control over secure data
+
 
 ### Scalability
 
-It should be possible to scale the system as load increases.
 
-Data stores should be scalable horizontally \(e.g. by sharding\) rather than just vertically \(i.e. by adding more CPU and memory\).
 
-### Portability
-
-The system must not be tied in to a given hosting platform, using proprietary technologies.
-
-Technologies chosen should either be open source or commodities adopting open standards.
-
-### Availability and Recovery
-
-We are building a system that could be used 24 hours per day, so we aim for no unplanned downtime. There is an expectation that the system must be reliable, and in the event of a failure it can be recovered quickly. We aim for in excess of 99% up time, with no more than 2 outages per month. This would equate to 2 outages of up to 4 hours each.
-
-Recovery objectives, in the event of catastrophic failure:
-
-* Recovery Point Objective: No loss of committed transactions in the event of infrastructure failure
-* Recovery Time Objective: Recreation of state within 4 hours in the event of infrastructure failure
-
-A consistently updated risk log detailed known and predictable issues along with mitigation plans.
+Portability
 
 
 
