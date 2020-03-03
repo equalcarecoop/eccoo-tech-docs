@@ -1,10 +1,14 @@
 # software engineering
 
-This section will ultimately cover standards relating to development operations, for example:
+This section covers required standards relating to development operations
 
-* source code repository
-* code quality tracking
-* deployment processes
-* server infrastructure management
-* security standards
+{% page-ref page="source-code-management.md" %}
+
+{% page-ref page="code-quality.md" %}
+
+{% page-ref page="deployment-processes.md" %}
+
+{% page-ref page="environment-management.md" %}
+
+
 

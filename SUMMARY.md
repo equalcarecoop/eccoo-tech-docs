@@ -37,5 +37,8 @@
   * [infrastructure design](platform-technical-design/infrastructure-design.md)
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
 * [software engineering](software-engineering/README.md)
-  * [delivery standards](software-engineering/delivery-standards.md)
+  * [source code management](software-engineering/source-code-management.md)
+  * [code quality](software-engineering/code-quality.md)
+  * [deployment processes](software-engineering/deployment-processes.md)
+  * [environment management](software-engineering/environment-management.md)
 
