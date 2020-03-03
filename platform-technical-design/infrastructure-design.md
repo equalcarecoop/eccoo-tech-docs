@@ -4,6 +4,12 @@ description: This page describes the design of hosting and IT operations for the
 
 # infrastructure design
 
+**TL;DR** It's Amazon Web Services, but without being locked-in.
+
+The platform will be hosted in AWS in the first instance. Where possible, it will avoid being tied in to AWS components, unless these are based on accepted open standards. The trade-off here is the ability to move to an alternative platform offset against a greater degree of platform engineering required.
+
+Services will be hosted as Docker containers within [Amazon ECS](https://aws.amazon.com/ecs/) \(Elastic Container Services\).
+
 ## Types of hosting
 
 The platform will be hosted on some form of cloud service. This \(rightly\) rules out buying / renting, installing and running physical hardware and managing network provisioning. This would be a costly and risky endeavour, and procuring and installing the hardware would be likely to take a significant period of time. Cloud hosting provides the following benefits:
@@ -118,5 +124,9 @@ The infrastructure must be manageable. This means
 * Management infrastructure should be segregated from main platform \(separate network\)
 * It must not be possible to contravene security controls as a management user
 
-## Recommendations 
+## Recommendations
+
+Due to the desire of Equal Care Coop to build in a portable manner, a containerised / Docker model is recommended. This has the benefit of lending itself to deployment locally for development and user testing.
+
+Amazon Web Services is the market leading cloud service provider. I recommend selecting AWS for the MVP given its maturity and the ease of locating development partners skilled in the platform.
 
