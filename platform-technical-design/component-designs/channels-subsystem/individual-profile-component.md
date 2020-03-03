@@ -27,5 +27,5 @@ This channel will be a web-based platform for the MVP. Ultimately, some of the f
 
 The design of the individual profile will be driven by the UX work.
 
-It may be that this single channel is actually multiple apps - one per feature. As a principle, any components should be designed and deployed in a modular manner to enable this refactoring and splitting. An initial split could be the relationship-focussed features \(matching, appointment arranging, care notes\) and the transaction / payment focussed features \(care 
+It may be that this single channel is actually multiple apps - one per feature. As a principle, any components should be designed and deployed in a modular manner to enable this refactoring and splitting. An initial split could be the relationship-focussed features \(matching, appointment arranging, care notes\) and the transaction / payment focussed features \(care appointment confirmation, taking payment\).
 

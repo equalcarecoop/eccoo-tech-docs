@@ -35,7 +35,7 @@ Some examples of how this might show up in eccoo are:
 * Co-creating, maintaining and evaluating our accessibility tools with the people who will be using them
 * Giving equal or greater weight to our ‘accessible’ versions, with beautiful, thoughtful production, authorship and design
 
-### Labour is recognised and valued, wherever it comes from \(exchange takes many forms\)
+### Labour is recognised and valued, wherever it comes from
 
 This is a bit like hats, but is a separate principle because it's about value, recognition and a driver to different technologies. We see caring as an abundant resource, not scarce. People getting support have valuable skills, time, experience which we shouldn’t waste. They can help others too. Care can consist of anything from a cup of tea and a chat, doing the shopping with/for someone and cooking a meal through to talking about dreams and aspirations and offering specialised clinical expertise to specific client groups.
 
