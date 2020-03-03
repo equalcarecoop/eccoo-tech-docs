@@ -11,6 +11,7 @@ The payments will interface with the following 'external' systems:
 
 More detail is required on the processes surrounding payment to define the data that is required to be managed.
 
+* Must be able to add funds to an account in advance of a booking being managed
 * Must be possible to create invoices \(required for reclaims / payments\)
 * Must be able to track multiple different types of accounts based on platform user role
   * outgoing payment account for care givers
@@ -21,6 +22,8 @@ More detail is required on the processes surrounding payment to define the data 
 ## Implementation
 
 This is likely to be another implementation of Ledger DB technology to manage the transactions in and out of the various accounts / pots.
+
+A payment platform such as [Stripe Connect](https://stripe.com/gb/connect) is a strong candidate, as it offers account-based payment.
 
 ## Reference
 
