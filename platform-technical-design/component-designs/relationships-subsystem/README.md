@@ -16,7 +16,7 @@ NB there is currently some fluidity in the location of the roles component - it 
 
 The core of the subsystem will be a [graph database](https://en.wikipedia.org/wiki/Graph_database) servicing the other components. These are an efficient and scalable means of managing this kind of data. The most popular such database is [Neo4j](https://neo4j.com/). This has an open source Community Edition, as well as a series of [paid subscriptions](https://neo4j.com/subscriptions), including a Startup tier which offers free access to the enterprise-grade features. Cloud platforms also offer graph database services, including Amazon Neptune and Azure Cosmos DB's Gremlin API.
 
-GraphQL is a compelling technology for the constellation of APIs surrounding this data store, as it allows rapid iteration over the features without placing a burden on the API tier.
+GraphQL is a compelling technology for the constellation of APIs surrounding this data store, as it allows rapid iteration over the features without placing a burden on the API tier. Depending on implementation technology, it is possible to extend GraphQL to provide fine-grained access control over parts of the API based on appropriate Javascript Web Token provision, or to limit API calls to authenticated users. This would provide the role-based access control that will be needed.
 
 Each of the other components in this subsystem will be written as an API application exposing a defined interface to wrapper and control access to the graph. Implementation technology is less critical, and will be driven by the hosting and graph database product selected.
 
