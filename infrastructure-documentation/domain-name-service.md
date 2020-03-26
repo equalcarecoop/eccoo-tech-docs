@@ -4,8 +4,9 @@ description: This page describes the Domain Name Service (DNS) configuration.
 
 # domain name service
 
-* Root domain nameserver: Stack CP
-* Registrar: domains.coop
+## Current domain setup
+
+![Current domain structure](../.gitbook/assets/domain.png)
 
 ## Records
 

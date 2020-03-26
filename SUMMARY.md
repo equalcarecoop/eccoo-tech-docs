@@ -41,6 +41,6 @@
   * [code quality](software-engineering/code-quality.md)
   * [deployment processes](software-engineering/deployment-processes.md)
   * [environment management](software-engineering/environment-management.md)
-* [infrastructure documentation](infrastructure-documentation/README.md)
+* [infrastructure](infrastructure-documentation/README.md)
   * [domain name service](infrastructure-documentation/domain-name-service.md)
 

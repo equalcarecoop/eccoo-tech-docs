@@ -1,2 +1,2 @@
-# infrastructure documentation
+# infrastructure
 
