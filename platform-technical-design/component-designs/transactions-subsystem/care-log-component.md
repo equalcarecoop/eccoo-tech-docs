@@ -2,15 +2,13 @@
 
 Care logging is the record of caring interactions that have taken place, and captures the transfer of value enabled by the platform. It is the other half of the platform core along with the [relationships](../relationships-subsystem/relationship-component.md) component.
 
-This will be some form of ledger DB.
-
 ## Critical requirements
 
 The care logging component
 
 * must enable users to confirm that the care log record is correct
 * must enable users to confirm the care log record with adjustments \(e.g. to time\)
-* must store an immutable and non-repudiable record of the care log \(i.e. non-editable and therefore trustworthy\)
+* must store an immutable and non-repudiable record of the care log \(i.e. unchangeable and tamper-proof and therefore trustworthy\)
 * could \(subject to UX design\) progress between pending and confirmed state based on a timer \(i.e. assume agreement if not confirmed within a period of time\)
 * should facilitate the 'eccoo transaction fee' \(?\)
 * won't manage disputes between platform users

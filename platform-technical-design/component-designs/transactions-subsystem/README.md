@@ -12,5 +12,16 @@ Although the initial MVP implementation will likely be a simple network, it is p
 
 ## Candidate technologies
 
-{% embed url="https://www.hyperledger.org/projects/fabric" caption="" %}
+The database technology underpinning the transactions subsystem
+
+* must be able to robustly model state changes
+* must increase trust by ensuring the transactions are immutable \(unchangeable\) and non-repudiable \(tamper-proof\)
+
+This set of requirements points towards a Ledger Database, a class of databases that includes blockchains.
+
+The following provides a good overview of RDBMS, NoSQL, Ledger DB.
+
+{% embed url="https://hackernoon.com/relational-nosql-ledger-databases-work-not-permissioned-blockchains-9ccaef7b3139" caption="" %}
+
+One of the most popular permissioned blockchains is [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric).
 

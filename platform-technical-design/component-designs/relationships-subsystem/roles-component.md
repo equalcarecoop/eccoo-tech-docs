@@ -20,7 +20,7 @@ This will be implemented as an API layer on top of the graph database, in common
 
 There is a possilbity that this will be better implemented as part of the identity and access subsystem. This depends on the 'hat modelling' that must take place, and on the selection of the technical component underpinning the Identity and Access subsystem.
 
-![Data Object model for the ur-roles](../../../.gitbook/assets/image%20%281%29.png)
+![Data Object model for the ur-roles](../../../.gitbook/assets/image%20%282%29.png)
 
 What that diagram says in English is:
 
