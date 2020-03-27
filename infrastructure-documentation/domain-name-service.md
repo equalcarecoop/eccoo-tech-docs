@@ -8,6 +8,17 @@ description: This page describes the Domain Name Service (DNS) configuration.
 
 ![Current domain structure](../.gitbook/assets/domain.png)
 
+## Future domain mapping
+
+| Domain | Service | Comments |
+| :--- | :--- | :--- |
+| equalcare.coop |  |  |
+| www.equalcare.coop | zhs.zohosites.eu | Main website |
+| equalcare.coop | \(Multiple\) | Google setup |
+| mail.equalcare.coop, calendar.equalcare.coop | ghs.googlehosted.com | Google service overrides. See [https://support.google.com/a/answer/53340](https://support.google.com/a/answer/53340) |
+| book.equalcare.coop, www.book.equalcare.coop | connect.vcita.com |  |
+| plan.equalcare.coop, platform.docs.equalcare.coop, policies.equalcare.coop, work.equalcare.coop, www.plan.equalcare.coop, www.policies.equalcare.coop, www.work.equalcare.coop | hosting.gitbook.com | Git book documentation. Should some/all of these really sit under the docs subdomain? |
+
 ## Records
 
 ### nameservers
