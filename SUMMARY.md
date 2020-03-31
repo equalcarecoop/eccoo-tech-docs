@@ -42,5 +42,6 @@
   * [deployment processes](software-engineering/deployment-processes.md)
   * [environment management](software-engineering/environment-management.md)
 * [infrastructure](infrastructure-documentation/README.md)
+  * [email service](infrastructure-documentation/email-service.md)
   * [domain name service](infrastructure-documentation/domain-name-service.md)
 
