@@ -17,7 +17,16 @@ description: This page describes the Domain Name Service (DNS) configuration.
 | equalcare.coop | \(Multiple\) | Google setup |
 | mail.equalcare.coop, calendar.equalcare.coop | ghs.googlehosted.com | Google service overrides. See [https://support.google.com/a/answer/53340](https://support.google.com/a/answer/53340) |
 | book.equalcare.coop, www.book.equalcare.coop | connect.vcita.com |  |
-| plan.equalcare.coop, platform.docs.equalcare.coop, policies.equalcare.coop, work.equalcare.coop, www.plan.equalcare.coop, www.policies.equalcare.coop, www.work.equalcare.coop | hosting.gitbook.com | Git book documentation. Should some/all of these really sit under the docs subdomain? |
+| plan.equalcare.coop, platform.docs.equalcare.coop, policies.equalcare.coop, work.equalcare.coop,  | hosting.gitbook.com | Git book documentation. Should some/all of these really sit under the docs subdomain? |
+| mta-sts.equalcare.coop | eccoo-platform.gitlab.io | MTA-STS configuration file. Hosted as a Gitlab Pages static site. |
+
+## Services
+
+We are using Cloudflare for domain manangement. We are not currently using the advanced capabilities offered by Cloudflare, such as edge-of-network caching.
+
+Emma, Giles or Adam can add users to the Cloudflare account.
+
+The configuration of DNS is managed in the [Gitlab Configuration Management](https://gitlab.com/eccoo-platform/infrastructure/configuration-management) repository.
 
 ## Records
 
@@ -25,10 +34,8 @@ description: This page describes the Domain Name Service (DNS) configuration.
 
 ```text
 ❯ dig +short NS equalcare.coop
-ns3.stackdns.com.
-ns1.stackdns.com.
-ns4.stackdns.com.
-ns2.stackdns.com.
+connie.ns.cloudflare.com.
+robert.ns.cloudflare.com.
 ```
 
 ### whois record
