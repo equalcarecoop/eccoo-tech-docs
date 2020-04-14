@@ -1,7 +1,6 @@
 # Table of contents
 
 * [introduction](README.md)
-* [index of resources](index-of-resources.md)
 * [platform technical design](platform-technical-design/README.md)
   * [management summary](platform-technical-design/management-summary.md)
   * [architectural principles](platform-technical-design/architectural-principles.md)
@@ -47,4 +46,5 @@
   * [password and secret management](infrastructure-documentation/password-and-secret-management.md)
   * [email service](infrastructure-documentation/email-service.md)
   * [domain name service](infrastructure-documentation/domain-name-service.md)
+* [index of resources](index-of-resources.md)
 
