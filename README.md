@@ -6,7 +6,7 @@ This book outlines the [platform technical design](platform-technical-design/) a
 
 The purpose of the MVP is...
 
-> ...to match people who require care and support with those who can provide it and facilitate paid booking.
+> ...to match people who require care and support with those who can provide it and facilitate paid and voluntary bookings.
 
 ### Some points of language:
 

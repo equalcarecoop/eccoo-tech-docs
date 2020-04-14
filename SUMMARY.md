@@ -1,6 +1,7 @@
 # Table of contents
 
 * [introduction](README.md)
+* [index of resources](index-of-resources.md)
 * [platform technical design](platform-technical-design/README.md)
   * [management summary](platform-technical-design/management-summary.md)
   * [architectural principles](platform-technical-design/architectural-principles.md)
