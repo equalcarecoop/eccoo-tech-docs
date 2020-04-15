@@ -6,6 +6,8 @@
   * [architectural principles](platform-technical-design/architectural-principles.md)
   * [critical requirements](platform-technical-design/critical-requirements.md)
   * [architecture overview](platform-technical-design/architecture-overview.md)
+  * [data models](platform-technical-design/data-models/README.md)
+    * [graph schema](platform-technical-design/data-models/graph-schema.md)
   * [component designs](platform-technical-design/component-designs/README.md)
     * [channels subsystem](platform-technical-design/component-designs/channels-subsystem/README.md)
       * [sign-up](platform-technical-design/component-designs/channels-subsystem/sign-up-component.md)
