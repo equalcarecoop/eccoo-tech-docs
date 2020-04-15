@@ -31,6 +31,8 @@ Although our policies site is also driven by our 'current-state' needs, it is a 
 
 #### GDoc Templates
 
+Coming soon
+
 #### Rules and bylaws
 
 [These are found here](https://work.equalcare.coop/). They are not so relevant right now but they will become more and more important as we go beyond MVP. We want strong member engagement with our work and the operation of Equal Care Co-op. One of the biggest ways of getting that is integrating that engagement into the design and development of the platform \(members' area, members' tools etc\). These bylaws also have relevance for the operation of circles and how they make decisions.
@@ -45,7 +47,7 @@ He's a work that shall forever be in progress.
 
 [Journey map](https://www.lucidchart.com/invitations/accept/0c4b9eb2-4943-4c3a-a084-cf92a9893e02) for offering paid care and support \(LucidChart\)
 
-Service experience journey for sign up, matching and goodbye \(Smaply, now expired so PDF\)
+[Service experience](https://drive.google.com/a/equalcare.coop/file/d/1aSR7uoOgacPOFaalDCSNS1uMJZgGF10x/view?usp=sharing) journey for sign up, matching and goodbye \(Smaply, now expired so PDF\)
 
 [Flowchart ](https://www.lucidchart.com/invitations/accept/543dbb30-6dcd-4c1a-bdb5-92d193f3127d)describing how a block contracted service can still offer personal support with scope for gifted care hours \(LucidChart\).
 
