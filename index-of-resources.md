@@ -8,6 +8,8 @@ description: design and development resources - links
 
 #### Platform G Drive
 
+Contains all our research, photos, workshop days, raw materials, analysis, surmises and musings. I will add key folder links here soon.
+
 #### Policies
 
 Although our policies site is also driven by our 'current-state' needs, it is a growing and detailed resource which codifies our approach and practice that incorporates MVP scope and beyond. The site carries many design/dev implications across the policies but key ones which \(often\) do not conform to standard procedural approaches and _must_ be considered in the context of platform development are:
@@ -27,7 +29,7 @@ Although our policies site is also driven by our 'current-state' needs, it is a 
 13. Radical candour \(not written yet tbc\)
 14. [Lone working](https://app.gitbook.com/@eccoo/s/policies/safe-and-well/health-safety-wellbeing/lone-working-and-visiting) \(work in progress - implications for platform and worker safety\)
 
-GDoc Templates
+#### GDoc Templates
 
 #### Rules and bylaws
 
@@ -35,13 +37,15 @@ GDoc Templates
 
 ## Frankenstein
 
+He's a work that shall forever be in progress.
+
 ### Maps
 
-Journey map for signing up to find support \(LucidChart\)
+[Journey map](https://www.lucidchart.com/invitations/accept/657368f1-c877-4cb0-87b5-def579ca44a4) for signing up to find support \(LucidChart\)
 
-Journey map for signing up to offer paid care and support \(LucidChart\)
+[Journey map](https://www.lucidchart.com/invitations/accept/0c4b9eb2-4943-4c3a-a084-cf92a9893e02) for offering paid care and support \(LucidChart\)
 
-Service design experience map for sign up, matching and goodbye \(Smaply, now expired so PDF\)
+Service experience journey for sign up, matching and goodbye \(Smaply, now expired so PDF\)
 
 [Flowchart ](https://www.lucidchart.com/invitations/accept/543dbb30-6dcd-4c1a-bdb5-92d193f3127d)describing how a block contracted service can still offer personal support with scope for gifted care hours \(LucidChart\).
 
@@ -49,7 +53,7 @@ Service design experience map for sign up, matching and goodbye \(Smaply, now ex
 
 [Safeguarding ](https://www.lucidchart.com/invitations/accept/f6b3d75d-8702-440a-a7fa-6a7a15876e8c)flowchart, also in policy site as static image \(LucidChart\)
 
-Learner to teacher flowchart, also in policy site as static image \(learning\)
+[Learner to teacher](https://www.lucidchart.com/invitations/accept/eae36d4b-536a-4198-bfd1-9c32555eeeac) flowchart, also in policy site as static image \(learning\)
 
 ### Asana
 
@@ -99,11 +103,13 @@ In addition to these boards we also have a **concerns tracker** \(for safeguardi
 
 ### Ayup Prototyping Work
 
-Sign up flow
+[Sign up flow](https://projects.invisionapp.com/share/S6SG0M2MAFV#/screens)
 
-Matching
+[Matching](https://projects.invisionapp.com/share/BFT3SRSSD34#/screens)
 
-Dashboard
+[Dashboard](https://projects.invisionapp.com/share/FJP8K5X953U#/screens/332641673_0-3_Dashboard_-_Alt_Layout)
+
+We have the original Sketch files available too.
 
 
 
