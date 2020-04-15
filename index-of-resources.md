@@ -41,7 +41,15 @@ Journey map for signing up to find support \(LucidChart\)
 
 Journey map for signing up to offer paid care and support \(LucidChart\)
 
-Service design experience map for sign up, matching and goodbye \(Smaply\)
+Service design experience map for sign up, matching and goodbye \(Smaply, now expired so PDF\)
+
+[Flowchart ](https://www.lucidchart.com/invitations/accept/543dbb30-6dcd-4c1a-bdb5-92d193f3127d)describing how a block contracted service can still offer personal support with scope for gifted care hours \(LucidChart\).
+
+[Map ](https://www.lucidchart.com/invitations/accept/9b057545-0728-4e96-b60a-0935548d12c7)showing static picture of how teams and circles can work, including membership, responsibilities and data permissions \(LucidChart\)
+
+[Safeguarding ](https://www.lucidchart.com/invitations/accept/f6b3d75d-8702-440a-a7fa-6a7a15876e8c)flowchart, also in policy site as static image \(LucidChart\)
+
+Learner to teacher flowchart, also in policy site as static image \(learning\)
 
 ### Asana
 
