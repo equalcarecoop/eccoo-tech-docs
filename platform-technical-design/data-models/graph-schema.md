@@ -1,5 +1,5 @@
 ---
-description: This page outlines the domain model that will underpin the
+description: This page outlines the domain model that will underpin the Social Graph
 ---
 
 # graph schema
