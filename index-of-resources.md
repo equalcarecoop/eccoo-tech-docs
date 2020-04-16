@@ -10,6 +10,10 @@ description: design and development resources - links
 
 Contains all our research, photos, workshop days, raw materials, analysis, surmises and musings. I will add key folder links here soon.
 
+#### Business Plan
+
+This contains a lot of our personas and user journeys. It should really be in this gitbook but it's a pain to transfer. If you have gitbook access you'll be able to see the plan.
+
 #### Policies
 
 Although our policies site is also driven by our 'current-state' needs, it is a growing and detailed resource which codifies our approach and practice that incorporates MVP scope and beyond. The site carries many design/dev implications across the policies but key ones which \(often\) do not conform to standard procedural approaches and _must_ be considered in the context of platform development are:
