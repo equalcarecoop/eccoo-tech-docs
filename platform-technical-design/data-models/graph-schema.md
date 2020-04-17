@@ -20,19 +20,31 @@ The diagram below shows an overview of the schema which should cover MVP. This i
 
 ### Person
 
-Core to the model is that it models people who are interacting using the platform. All people are modeled as the same type. Their access to features of the system are defined by the Hats they wear \(WEARS\_HAT\) relationship.
+The core of the model is a representation of a person who is then expressed in a series of different ways by the Hats that they wear. These _Hats_ can be seen in the model as they link directly to the 'abstract' Person interface with a dotted line and an open arrowhead.
 
-People will have a HOME\_ADDRESS location, and potentially other locations.
+### Platform User
 
-### Hat
+The platform user is the first 'hat' for every person registered in the system. This enables the creation of the core of the profile, and will be created when any user registers.
 
-Hats define the roles that people take within the system.
+Platform Users will be able to register a HOME\_ADDRESS location amongst other things.
 
-There will be strict controls over who can add and remove hats, based on hats they themselves wear.
+### Care Giver
+
+This hat is applied to people who provide care in the system. There is some discussion about paid vs unpaid Care Givers. This may be resolved by a separate label which segregates these two.
+
+Care Givers support Care Receivers.
+
+### Care Receivers
+
+This hat is worn by people who receive care within the system. 
+
+### Care Arrangers
+
+This hat represents people who are responsible for arranging care for a Care Receiver. They can be said to represent a Care Receiver.
 
 ### Appointment
 
-Appointments INVOLVE two or more people. They OCCUR\_AT a location.
+Appointments INVOLVE two or more Platform Users. They OCCUR\_AT a location. They may result in Expenses to be paid to a Platform User and may enable value exchange from a Care Giver to a Care Receiver.
 
 ### Location
 
@@ -48,7 +60,8 @@ This may not actually form part of the graph - but it is a recognition that the 
 
 The following concepts are likely to be needed, but are as yet ill defined.
 
-### Contact Details
+* Contact Details
+* Notes
 
 
 
