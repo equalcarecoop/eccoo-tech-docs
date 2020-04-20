@@ -2,7 +2,7 @@
 
 The platform is critical to our aspiration to spread our vision to make a difference across care work in the UK and beyond. It will \(eventually\) support every relationship made and every caring interaction by our members.
 
-This book outlines the [platform technical design](platform-technical-design/) and [software engineering](software-engineering/) approaches that will underpin the platform, focussing on the MVP - Minimum Viable Product - that we need to build to support this growth.
+This book outlines the [platform technical design](platform-technical-design/) and [software engineering](software-engineering/) approaches that will underpin the platform, as well as the [user experience design](user-experience-design/) focussing on the MVP - Minimum Viable Product - that we need to build to support this growth.
 
 The purpose of the MVP is...
 
