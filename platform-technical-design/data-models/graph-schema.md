@@ -4,6 +4,16 @@ description: This page outlines the domain model that will underpin the Social G
 
 # graph schema
 
+{% hint style="info" %}
+It might help you to review these web pages before reading this page. I've listed them in approximately increasing order of complexity.
+
+* [https://graphql.org/learn/](https://graphql.org/learn/)
+* [https://graphql.org/learn/thinking-in-graphs/](https://graphql.org/learn/thinking-in-graphs/)
+* [https://neo4j.com/blog/why-graph-databases-are-the-future/](https://neo4j.com/blog/why-graph-databases-are-the-future/)
+* [https://neo4j.com/developer/guide-data-modeling/](https://neo4j.com/developer/guide-data-modeling/)
+* [https://neo4j.com/blog/data-modeling-basics/](https://neo4j.com/blog/data-modeling-basics/)
+{% endhint %}
+
 We use a graph database to represent the relationships managed within the system.
 
 It is important that we get this terminology correct as it will form the common language between the users and developers of the platform.
