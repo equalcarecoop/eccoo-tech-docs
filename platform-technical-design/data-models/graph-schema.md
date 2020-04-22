@@ -24,7 +24,9 @@ Please provide feedback and edits on the terms I am using. None of these are yet
 
 The diagram below shows an overview of the schema which should cover MVP. This is subject to detailed UX and technical design work.
 
-![Graph Schema Overview](../../.gitbook/assets/graph-schema-overview.png)
+![Graph Schema Overview](../../.gitbook/assets/graph-schema-overview-relationships.png)
+
+Please note, the items in a red colour \(namely Value Exchange and Expense\) are not yet implemented.
 
 ## Descriptions
 
@@ -32,11 +34,9 @@ The diagram below shows an overview of the schema which should cover MVP. This i
 
 The core of the model is a representation of a person who is then expressed in a series of different ways by the Hats that they wear. These _Hats_ can be seen in the model as they link directly to the 'abstract' Person interface with a dotted line and an open arrowhead.
 
-### Platform User
+### User
 
-The platform user is the first 'hat' for every person registered in the system. This enables the creation of the core of the profile, and will be created when any user registers.
-
-Platform Users will be able to register a HOME\_ADDRESS location amongst other things.
+The user is the first 'hat' for every person registered in the system. This enables the creation of the core of the profile, and will be assigned when any user registers.
 
 ### Care Giver
 
@@ -54,7 +54,7 @@ This hat represents people who are responsible for arranging care for a Care Rec
 
 ### Appointment
 
-Appointments INVOLVE two or more Platform Users. They OCCUR\_AT a location. They may result in Expenses to be paid to a Platform User and may enable value exchange from a Care Giver to a Care Receiver.
+Appointments are ATTENDED\_BY two or more Users. They OCCUR\_AT a location. They may result in Expenses to be paid to a Platform User and may enable value exchange from a Care Giver to a Care Receiver.
 
 ### Location
 
@@ -63,6 +63,10 @@ A location represents a physical address, and will be modelled with the appropri
 ### Value Exchange
 
 This may not actually form part of the graph - but it is a recognition that the main thing to flow from an appointment is that some value is exchanged in terms of support or care given. This will need to be captured somehow.
+
+### Expense
+
+This is the representation of an out of pocket expense to be paid back to a user. In most cases, this will be a CareGiver.
 
 
 
