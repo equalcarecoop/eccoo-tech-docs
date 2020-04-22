@@ -38,35 +38,37 @@ The core of the model is a representation of a person who is then expressed in a
 
 The user is the first 'hat' for every person registered in the system. This enables the creation of the core of the profile, and will be assigned when any user registers.
 
-### Care Giver
+### Giving
 
-This hat is applied to people who provide care in the system. There is some discussion about paid vs unpaid Care Givers. This may be resolved by a separate label which segregates these two.
+This hat is applied to people who provide care in the system, regardless of whether this is paid or unpaid care and support. This may be resolved by a separate label which segregates these two whilst enabling one person to do both \(for example, giving care for a family member and also offering paid care and support to others\).
 
-Care Givers support Care Receivers.
+People: Giving: Paid or People: Giving: Unpaid.
 
-### Care Receivers
+### Receiving
 
-This hat is worn by people who receive care within the system. 
+This hat is worn by people who receive care and support within the system. 
 
-### Care Arrangers
+### Arranging
 
-This hat represents people who are responsible for arranging care for a Care Receiver. They can be said to represent a Care Receiver.
+This hat represents people who are responsible for arranging care on behalf of a person receiving. They can be said to represent that person and to work in their interests. This role is extremely variable, ranging from an oversight and information access through to active management of the bookings, introductions and reviews. It is best represented by the [Team Co-ordinator](https://app.gitbook.com/@eccoo/s/policies/safe-and-well/roles-and-responsibilities/the-team/team-co-ordinator) role description. 
 
-### Appointment
+Note the person arranging may also be giving care and support to the person receiving and the person receiving may also be arranging their own care and support and giving or arranging support for others.
 
-Appointments are ATTENDED\_BY two or more Users. They OCCUR\_AT a location. They may result in Expenses to be paid to a Platform User and may enable value exchange from a Care Giver to a Care Receiver.
+### Booking
+
+A booking is ATTENDED\_BY two or more Users. They OCCUR\_AT a location. They may result in Expenses to be paid to a Platform User and may enable value exchange from a Person Giving to a Person Receiving and vice versa.
 
 ### Location
 
-A location represents a physical address, and will be modelled with the appropriate attributes.
+A location represents a physical or a virtual address \(WhatsApp group, phone call, zoom link etc\) and will be modelled with the appropriate attributes.
 
 ### Value Exchange
 
-This may not actually form part of the graph - but it is a recognition that the main thing to flow from an appointment is that some value is exchanged in terms of support or care given. This will need to be captured somehow.
+This may not actually form part of the graph - but it is a recognition that the main thing to flow from an appointment is that some value is exchanged in terms of support or care given and transactions made. This will need to be captured somehow.
 
 ### Expense
 
-This is the representation of an out of pocket expense to be paid back to a user. In most cases, this will be a CareGiver.
+This is the representation of an out of pocket expense to be paid back to a user. In most cases, this will be a Person Giving.
 
 
 
@@ -75,7 +77,10 @@ This is the representation of an out of pocket expense to be paid back to a user
 The following concepts are likely to be needed, but are as yet ill defined.
 
 * Contact Details
-* Notes
+* Notes, shared with the person receiving's Team
+* Profile information for both person giving and person receiving
+* Review of how the booking went
+* Messages to other people in the person's Team
 
 
 
