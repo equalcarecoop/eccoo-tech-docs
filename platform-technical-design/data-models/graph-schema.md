@@ -70,8 +70,6 @@ This may not actually form part of the graph - but it is a recognition that the 
 
 This is the representation of an out of pocket expense to be paid back to a user. In most cases, this will be a Person Giving.
 
-
-
 ## Other concepts to explore
 
 The following concepts are likely to be needed, but are as yet ill defined.
