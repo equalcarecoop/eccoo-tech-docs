@@ -2,7 +2,7 @@
 description: This page outlines the domain model that will underpin the Social Graph
 ---
 
-# graph schema
+# domain model
 
 {% hint style="info" %}
 It might help you to review these web pages before reading this page. I've listed them in approximately increasing order of complexity.
