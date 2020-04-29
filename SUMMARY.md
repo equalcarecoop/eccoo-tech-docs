@@ -52,5 +52,6 @@
   * [platform design](user-experience-design/platform-design.md)
   * [wireframes](user-experience-design/wireframes.md)
   * [look & feel](user-experience-design/look-and-feel.md)
+  * [Useful links / interesting reading](user-experience-design/useful-links-interesting-reading.md)
 * [index of resources](index-of-resources.md)
 

@@ -6,3 +6,7 @@ description: >-
 
 # wireframes
 
+## Platform Diagram
+
+**Link:** Low fidelity wireframes
+
