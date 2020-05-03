@@ -8,15 +8,41 @@ description: design and development resources - links
 
 #### Platform G Drive
 
-Contains all our research, photos, workshop days, raw materials, analysis, surmises and musings. I will add key folder links here soon.
+Contains all our research, photos, workshop days, raw materials, analysis, surmises and musings. You should explore this folder anyway - I have given a few pointers below but it doesn't include all of it. Key top-level folders are: [Discovery ](https://drive.google.com/drive/u/0/folders/1-E39YfN05sC6QK_4T-fTzhHRa9xauCmr)\(folders 1, 2 and 3\) and UX / Ayup folder. Go [here ](https://docs.google.com/document/d/1fuhaagfBdAdxlje5lNW3nvfPpkAyjE1yb0tPGCr4wt8/edit#heading=h.p4rrle5frio4)for a description of the whole drive.
+
+Go [here ](https://drive.google.com/drive/u/0/folders/1QIKsa3lRHlgbpdGDxT9XBcwO1vpCUHkc)for our care workers workshop day outputs and one recorded interview.
+
+Go [here ](https://drive.google.com/drive/u/0/folders/13V8jGEEO3ULgG52uJFWCm-IECjzQDpD2)for our workshop day focussed on people getting and arranging support and several interviews.
+
+Go [here ](https://drive.google.com/drive/u/0/folders/1jD1oNjdnJ2XfaVp7a8MBbZlu3TZCSZyE)for user research outputs from the Ayup prototype work \(the final report is in the folder two levels above - don't miss this out!\)
+
+Go [here ](https://drive.google.com/drive/u/0/folders/1-yitidLQzgZrSKPDKSWdugFplVwi3yZq)for individual stories relating to co-ordinating care and support.
+
+Go [here ](https://drive.google.com/drive/u/0/folders/1-yctnkxAOmoH_JNeghvqmKf30Z4ZfMT7)for Care Coins and gifting workshop research \(still relevant to MVP as covers considerations of voluntary work\).
+
+#### Current practice relevant to the platform \(templates / docs\)
+
+Supportive Conversation template
+
+Trust Assessment Template and also see Policy link pt 6 below
+
+Agreement between individuals
+
+Regular volunteer template
+
+All the above are located in the[ template gallery](https://docs.google.com/document/u/0/?tgif=d&ftv=1) under 'New people supported' - the volunteer template is in the 'Recruitment & Welcome' category.
+
+[Workers Promise](https://drive.google.com/drive/u/0/folders/16DQMSBVCQXNJOuFwL2Pu1sechic8HEwQ) \(translating to visual, project in progress\)
+
+[Supported Person and Advocate's Promise](https://docs.google.com/document/d/1RU0BrJgiNlpFJ-fsXqVctO9MEKvnnH6oIzl3eC2mK2M/edit#) \(gdoc, will be translated to visual\)
 
 #### Business Plan
 
-This contains a lot of our personas and user journeys. It should really be in this gitbook but it's a pain to transfer. If you have gitbook access you'll be able to see the plan.
+[This contains](https://plan.equalcare.coop) a lot of our personas and user journeys. It should really be in this gitbook but it's a pain to transfer. If you have gitbook access you'll be able to see the plan.
 
 #### Policies
 
-Although our policies site is also driven by our 'current-state' needs, it is a growing and detailed resource which codifies our approach and practice that incorporates MVP scope and beyond. The site carries many design/dev implications across the policies but key ones which \(often\) do not conform to standard procedural approaches and _must_ be considered in the context of platform development are:
+Although our policies site is also driven by our 'current-state' needs, it is a growing and detailed resource which codifies our approach and practice that incorporates MVP scope and beyond. The site carries many design/dev implications across the policies but key ones which \(often\) do not conform to standard procedural approaches and _**must**_ be considered in the context of platform development are:
 
 1. [Roles and Responsibilities](https://app.gitbook.com/@eccoo/s/policies/safe-and-well/roles-and-responsibilities)
 2. [Safeguarding](https://app.gitbook.com/@eccoo/s/policies/safe-and-well/safeguarding)
@@ -32,10 +58,6 @@ Although our policies site is also driven by our 'current-state' needs, it is a 
 12. Supportive Conversations \(not written yet tbc\)
 13. Radical candour \(not written yet tbc\)
 14. [Lone working](https://app.gitbook.com/@eccoo/s/policies/safe-and-well/health-safety-wellbeing/lone-working-and-visiting) \(work in progress - implications for platform and worker safety\)
-
-#### GDoc Templates
-
-Coming soon
 
 #### Rules and bylaws
 
