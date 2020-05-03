@@ -20,6 +20,10 @@ Go [here ](https://drive.google.com/drive/u/0/folders/1-yitidLQzgZrSKPDKSWdugFpl
 
 Go [here ](https://drive.google.com/drive/u/0/folders/1-yctnkxAOmoH_JNeghvqmKf30Z4ZfMT7)for Care Coins and gifting workshop research \(still relevant to MVP as covers considerations of voluntary work\).
 
+Go [here ](https://docs.google.com/document/d/1SaPSm7ZLzQv49kBITnWD4nbz6F_t6tDuSzhskw-38Lc/edit)for some initial thoughts on how we can integrate co-op governance into the platform.
+
+Go [here ](https://drive.google.com/drive/u/0/folders/1055C-Q4I64HHKNF_zdudDI1YeCmkvfib)for some work we did with a service design consultant.
+
 #### Current practice relevant to the platform \(templates / docs\)
 
 Supportive Conversation template
