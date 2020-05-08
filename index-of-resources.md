@@ -26,19 +26,21 @@ Go [here ](https://drive.google.com/drive/u/0/folders/1055C-Q4I64HHKNF_zdudDI1Ye
 
 #### Current practice relevant to the platform \(templates / docs\)
 
-Supportive Conversation template
+[Supportive Conversation](https://docs.google.com/document/d/1PMQ9tpiGxX70VVuu2LcRCtRNAGKEQiAiOQz5aaHZzOc/edit?usp=sharing) template
 
-Trust Assessment Template and also see Policy link pt 6 below
+[Trust Assessment Template](https://docs.google.com/document/d/16pJIb4uaqOY6UTYq_ikAmRp9ZYkJHGv-5y7x2Js5TNE/edit?usp=sharing) and also see Policy link pt 6 below
 
-Agreement between individuals
+[Agreement between individuals](https://docs.google.com/document/d/1uk7-XKzEo2DdYhTChKL2nyNW-qwQ4J2aICfh1a6RB9M/edit?usp=sharing)
 
-Regular volunteer template
+[Regular volunteer](https://docs.google.com/document/d/12O-W3Fll2W8OlEJpNAwrnul80e0DGf4jVRNYTInOXf4/edit?usp=sharing) template
 
 All the above are located in the[ template gallery](https://docs.google.com/document/u/0/?tgif=d&ftv=1) under 'New people supported' - the volunteer template is in the 'Recruitment & Welcome' category.
 
 [Workers Promise](https://drive.google.com/drive/u/0/folders/16DQMSBVCQXNJOuFwL2Pu1sechic8HEwQ) \(translating to visual, project in progress\)
 
 [Supported Person and Advocate's Promise](https://docs.google.com/document/d/1RU0BrJgiNlpFJ-fsXqVctO9MEKvnnH6oIzl3eC2mK2M/edit#) \(gdoc, will be translated to visual\)
+
+[Content we use](https://docs.google.com/document/d/1goDkVmjRukp0rn8jK3lC8_SuDVP3eYWhCvEpkr28ARA/edit?usp=sharing) in template email responses
 
 #### Business Plan
 
