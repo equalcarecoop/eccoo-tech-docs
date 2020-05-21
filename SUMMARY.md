@@ -1,6 +1,7 @@
 # Table of contents
 
 * [introduction](README.md)
+* [feature roadmap](feature-roadmap.md)
 * [platform technical design](platform-technical-design/README.md)
   * [management summary](platform-technical-design/management-summary.md)
   * [architectural principles](platform-technical-design/architectural-principles.md)
@@ -39,6 +40,7 @@
   * [infrastructure design](platform-technical-design/infrastructure-design.md)
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
 * [software engineering](software-engineering/README.md)
+  * [open source policy](software-engineering/open-source-policy.md)
   * [source code management](software-engineering/source-code-management.md)
   * [code quality](software-engineering/code-quality.md)
   * [deployment processes](software-engineering/deployment-processes.md)
