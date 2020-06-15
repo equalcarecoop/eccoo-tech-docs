@@ -13,5 +13,5 @@ Much of the digital stuff we use these days is built with open source software. 
 * Potential for others to contribute to improve quality of our codebase / componentry
 * No lock in to large software vendors
 
-On the downside, there is a risk of 
+On the downside, there is a risk that intellectual property is inadvertently released, undermining the commercial value of code that has been developed.
 

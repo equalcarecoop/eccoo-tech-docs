@@ -114,7 +114,9 @@ The following table outlines the product selections in each scenario.
       <td style="text-align:left">App Engine / Google Kubernetes Service</td>
     </tr>
   </tbody>
-</table>## Operations
+</table>
+
+## Operations
 
 The infrastructure must be manageable. This means
 
