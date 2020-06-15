@@ -37,6 +37,7 @@
     * [appointment arranging](platform-technical-design/component-walkthroughs/appointment-arranging-walkthrough.md)
     * [care logging](platform-technical-design/component-walkthroughs/care-logging-walkthrough.md)
     * [payments](platform-technical-design/component-walkthroughs/payments-walkthrough.md)
+  * [software stack](platform-technical-design/software-stack.md)
   * [infrastructure design](platform-technical-design/infrastructure-design.md)
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
 * [software engineering](software-engineering/README.md)
