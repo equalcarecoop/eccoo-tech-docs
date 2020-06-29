@@ -41,6 +41,7 @@
   * [infrastructure design](platform-technical-design/infrastructure-design.md)
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
 * [software engineering](software-engineering/README.md)
+  * [development environment](software-engineering/development-environment.md)
   * [open source policy](software-engineering/open-source-policy.md)
   * [source code management](software-engineering/source-code-management.md)
   * [code quality](software-engineering/code-quality.md)
