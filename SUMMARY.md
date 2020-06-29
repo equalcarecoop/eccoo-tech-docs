@@ -47,6 +47,7 @@
   * [code quality](software-engineering/code-quality.md)
   * [deployment processes](software-engineering/deployment-processes.md)
   * [environment management](software-engineering/environment-management.md)
+  * [frameworks, technologies and services](software-engineering/frameworks-technologies-and-services.md)
 * [technical infrastructure](infrastructure-documentation/README.md)
   * [cloud configuration](infrastructure-documentation/cloud-configuration.md)
   * [password and secret management](infrastructure-documentation/password-and-secret-management.md)
