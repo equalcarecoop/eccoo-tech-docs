@@ -18,7 +18,7 @@ Resources:
 
 * [Documentation](https://docs.nestjs.com/)
 * [First Steps](https://docs.nestjs.com/first-steps)
-* The Overview and Fundamentals sections of the documentation provide a good overview of the 
+* The Overview and Fundamentals sections of the documentation provide a good overview of the core of NestJS. Other sections can be dipped into as required.
 
 ### GraphQL
 
