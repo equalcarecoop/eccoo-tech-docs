@@ -42,6 +42,17 @@ Developers will need the following software:
 This section will list a set of recommended configuration for VS Code
 {% endhint %}
 
+To install plugins, either search in the Extensions browser, or use the command line
+
+```text
+code --install-extension <extension id>
+```
+
+We will use the Live Share features to facilitate remote pair working.
+
+* Live Share `ms-vsliveshare.vsliveshare`
+* Live Share Audio `ms-vsliveshare.vsliveshare-audio`
+
 ### Local Development Environment
 
 The whole runtime can be run on a sufficiently well specified machine. This needs a lot of RAM.
