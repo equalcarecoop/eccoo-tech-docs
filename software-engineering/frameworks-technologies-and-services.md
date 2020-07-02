@@ -24,7 +24,7 @@ Resources:
 
 The API within the platform is expressed in [GraphQL](https://graphql.org/). This is a query language which provides a clean structure for querying backend resources, avoiding some of the pitfalls and inefficiencies of alternative approaches such as REST. GraphQL was developed by Facebook and open sourced in 2015. Given we are storing our data in a graph, GraphQL is a great fit.
 
-The UI will query the Graph API using GraphQL. This means that developers in the frontend will need a good handle on the queries and mutations, wheras the API developers will require an understaning of implemetation concepts like schemas, types and resolvers.
+The UI will query the Graph API using GraphQL. This means that developers in the frontend will need a good handle on the queries and mutations, whereas the API developers will require an understanding of implementation concepts like schemas, types and resolvers.
 
 Resources
 
