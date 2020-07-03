@@ -29,6 +29,7 @@ The UI will query the Graph API using GraphQL. This means that developers in the
 Resources
 
 * The [Learning](https://graphql.org/learn/) section of the GraphQL documentation.
+* [How To GraphQL](https://www.howtographql.com/) self-paced learning
 
 ### Sass
 
@@ -36,7 +37,10 @@ Resources
 
 ### Nunjucks
 
+Resources
 
+* [https://mozilla.github.io/nunjucks/getting-started.html](https://mozilla.github.io/nunjucks/getting-started.html)
+* [https://css-tricks.com/killer-features-of-nunjucks/](https://css-tricks.com/killer-features-of-nunjucks/)
 
 ### TypeScript
 
