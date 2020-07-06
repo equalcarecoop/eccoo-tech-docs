@@ -29,14 +29,24 @@ The UI will query the Graph API using GraphQL. This means that developers in the
 Resources
 
 * The [Learning](https://graphql.org/learn/) section of the GraphQL documentation.
+* [How To GraphQL](https://www.howtographql.com/) self-paced learning
 
 ### Sass
 
+For styling, we are using [SASS](https://sass-lang.com/) \(Syntactically Awesome Stylesheets\), a CSS pre-processor. For syntax, we are using sassy css - `.scss` extension.
 
+Resources:
+
+* [Documentation](https://sass-lang.com/documentation)
+* [Getting started](https://code.likeagirl.io/getting-started-with-sass-scss-972c266e96e7) with Sass
+* For VS code a live Sass [extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) is available 
 
 ### Nunjucks
 
+Resources
 
+* [https://mozilla.github.io/nunjucks/getting-started.html](https://mozilla.github.io/nunjucks/getting-started.html)
+* [https://css-tricks.com/killer-features-of-nunjucks/](https://css-tricks.com/killer-features-of-nunjucks/)
 
 ### TypeScript
 
