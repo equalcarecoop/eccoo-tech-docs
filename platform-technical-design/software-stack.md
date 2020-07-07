@@ -25,6 +25,6 @@ The UI Server and Graph API comprise a similar software stack, both being based 
 There are a number of data stores:
 
 * The UI Session cache uses Redis in memory store
-* The Graph API primarily stores data in Neo4j, with any large objects \(such as documnets and images\) being stored in AWS S3 Object store.
-* The Identity and Access server uses a Postgres dataase for persistence.
+* The Graph API primarily stores data in Neo4j, with any large objects \(such as documents and images\) being stored in AWS S3 Object store.
+* The Identity and Access server uses a Postgres database for persistence.
 

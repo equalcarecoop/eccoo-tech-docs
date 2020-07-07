@@ -20,6 +20,9 @@ Resources:
 * [First Steps](https://docs.nestjs.com/first-steps)
 * The Overview and Fundamentals sections of the documentation provide a good overview of the core of NestJS. Other sections can be dipped into as required.
 
+[Helmet](https://github.com/helmetjs/helmet) is used for some Express security features.  
+[Passport](https://www.npmjs.com/package/passport) is used for Express-compatible authentication middleware.
+
 ### GraphQL
 
 The API within the platform is expressed in [GraphQL](https://graphql.org/). This is a query language which provides a clean structure for querying backend resources, avoiding some of the pitfalls and inefficiencies of alternative approaches such as REST. GraphQL was developed by Facebook and open sourced in 2015. Given we are storing our data in a graph, GraphQL is a great fit.
@@ -50,11 +53,19 @@ Resources
 
 ### TypeScript
 
-
+Typescript handbook - [https://www.typescriptlang.org/docs/handbook/intro.html](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ### Keycloak
 
+[https://www.keycloak.org/documentation](https://www.keycloak.org/documentation)
 
+### Redis
+
+Used for UI session cache.
+
+Resources
+
+* [Caching](https://redislabs.com/redis-enterprise/use-cases/caching/)
 
 ### Neo4j
 
@@ -64,7 +75,7 @@ Resources
 
 ### Jest
 
-
+For testing - [https://jestjs.io/docs/en/getting-started.html](https://jestjs.io/docs/en/getting-started.html)
 
 ### GitLab CI
 
