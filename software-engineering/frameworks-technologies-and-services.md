@@ -42,7 +42,8 @@ Resources:
 
 * [Documentation](https://sass-lang.com/documentation)
 * [Getting started](https://code.likeagirl.io/getting-started-with-sass-scss-972c266e96e7) with Sass
-* For VS code a live Sass [extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) is available 
+* For VS code a live Sass [extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) is available
+* [Help](https://sass-lang.com/guide) for using `@extend` in scss 
 
 ### Nunjucks
 
