@@ -41,6 +41,7 @@
   * [infrastructure design](platform-technical-design/infrastructure-design.md)
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
 * [software engineering](software-engineering/README.md)
+  * [feature management](software-engineering/feature-management.md)
   * [design patterns](software-engineering/design-patterns.md)
   * [development environment](software-engineering/development-environment.md)
   * [open source policy](software-engineering/open-source-policy.md)
