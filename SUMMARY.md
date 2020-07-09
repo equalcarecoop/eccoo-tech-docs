@@ -40,6 +40,8 @@
   * [software stack](platform-technical-design/software-stack.md)
   * [infrastructure design](platform-technical-design/infrastructure-design.md)
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
+* [detailed design](detailed-design/README.md)
+  * [sign-up](detailed-design/sign-up.md)
 * [software engineering](software-engineering/README.md)
   * [feature management](software-engineering/feature-management.md)
   * [design patterns](software-engineering/design-patterns.md)
