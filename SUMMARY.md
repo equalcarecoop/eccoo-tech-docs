@@ -40,6 +40,8 @@
   * [software stack](platform-technical-design/software-stack.md)
   * [infrastructure design](platform-technical-design/infrastructure-design.md)
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
+* [spikes](spikes/README.md)
+  * [matching approach](spikes/matching-approach.md)
 * [detailed design](detailed-design/README.md)
   * [sign-up](detailed-design/sign-up.md)
 * [software engineering](software-engineering/README.md)
@@ -63,6 +65,4 @@
   * [look & feel](user-experience-design/look-and-feel.md)
   * [Useful links / interesting reading](user-experience-design/useful-links-interesting-reading.md)
 * [index of resources](index-of-resources.md)
-* [spikes](spikes/README.md)
-  * [matching approach](spikes/matching-approach.md)
 
