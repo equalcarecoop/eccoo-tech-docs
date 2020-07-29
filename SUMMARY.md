@@ -42,6 +42,7 @@
   * [architecture decisions](platform-technical-design/architecture-decisions.md)
 * [spikes](spikes/README.md)
   * [matching approach](spikes/matching-approach.md)
+  * [location matching spike](spikes/location-matching-spike.md)
 * [detailed design](detailed-design/README.md)
   * [sign-up](detailed-design/sign-up.md)
 * [software engineering](software-engineering/README.md)
