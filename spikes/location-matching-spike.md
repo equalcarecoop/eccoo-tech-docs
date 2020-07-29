@@ -1,6 +1,6 @@
 # location matching spike
 
-
+## Experiments
 
 Experiments to conduct
 
@@ -39,4 +39,11 @@ Needs:
 * test data sets derived from postcodes
 * large geographical \(target\) data set
 * run tests multiple times and with varying numbers in target. Plot results.
+
+## Effort estimate
+
+* Location bounding feels like a day's solid effort
+* Location ranking feels like 1-2 days.
+
+This is effort, not elapsed time. Given need to contribute to ongoing dev and other meetings, this is estimated at a week's elapsed time.
 
