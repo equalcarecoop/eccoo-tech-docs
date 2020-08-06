@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1013px" preserveAspectRatio="none" style="width:1101px;height:1013px;" version="1.1" viewBox="0 0 1101 1013" width="1101px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="IBM Plex Sans" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="208" x="453" y="18.45">Equal Care Domain Model</text><!--MD5=[7800e5c124ef25a8d30c52515fe6f662]
+cluster People--><polygon fill="#FFFFFF" points="228.5,426.9,280.5,426.9,287.5,451.1,887,451.1,887,705.9,228.5,705.9,228.5,426.9" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="228.5" x2="287.5" y1="451.1" y2="451.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="46" x="232.5" y="443.25">People</text><!--MD5=[972f3c8f3b546ee79a1ed3f7603344f0]
+cluster Team--><polygon fill="#FFFFFF" points="22,526.9,65,526.9,72,551.1,154,551.1,154,697.9,22,697.9,22,526.9" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="22" x2="72" y1="551.1" y2="551.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="37" x="26" y="543.25">Team</text><!--MD5=[d1b54a43847f8f120cb0b6ed728295e7]
+cluster Requests--><polygon fill="#FFFFFF" points="220.5,737.9,287.5,737.9,294.5,762.1,619,762.1,619,953.9,220.5,953.9,220.5,737.9" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="220.5" x2="294.5" y1="762.1" y2="762.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61" x="224.5" y="754.25">Requests</text><!--MD5=[9176f35019843344fb60e578fa25619a]
+cluster ValueExchange--><polygon fill="#FFFFFF" points="723.5,47.9,829.5,47.9,836.5,72.1,1079.5,72.1,1079.5,277.9,723.5,277.9,723.5,47.9" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="723.5" x2="836.5" y1="72.1" y2="72.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="100" x="727.5" y="64.25">ValueExchange</text><!--MD5=[3c78eaec93e515432a8a26942db734fa]
+cluster Bookings--><polygon fill="#FFFFFF" points="228.5,178.9,294.5,178.9,301.5,203.1,642.5,203.1,642.5,375.9,228.5,375.9,228.5,178.9" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="228.5" x2="301.5" y1="203.1" y2="203.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="232.5" y="195.25">Bookings</text><!--MD5=[dc7b41c68fc92e530333839cee6d3108]
+cluster Locations--><polygon fill="#FFFFFF" points="755,301.9,823,301.9,830,326.1,1079.5,326.1,1079.5,402.9,755,402.9,755,301.9" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="755" x2="830" y1="326.1" y2="326.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62" x="759" y="318.25">Locations</text><!--MD5=[09ce52be0ee7de43c61b6e2d59bf108b]
+class Person--><rect fill="#87CEEB" height="62.2" id="Person" style="stroke: #7B68EE; stroke-width: 1.5;" width="100" x="495" y="534.9"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="37" x="526.5" y="552.2">Person</text><line style="stroke: #7B68EE; stroke-width: 1.5;" x1="496" x2="594" y1="560.5" y2="560.5"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="9" x="501" y="575.775">id</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="28" x="501" y="590.075">name</text><!--MD5=[74a4ff09d10b7ee870d8a6b5df86aae2]
+class PlatformUser--><rect fill="#DDA0DD" height="41.2" id="PlatformUser" style="stroke: #7B68EE; stroke-width: 1.5;" width="100" x="771" y="471.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="30" x="806" y="488.7">«hat»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="70" x="786" y="504.3">PlatformUser</text><!--MD5=[39c5147cb4620a83c3bfb7b032fa483d]
+class GivingSupport--><rect fill="#DDA0DD" height="41.2" id="GivingSupport" style="stroke: #7B68EE; stroke-width: 1.5;" width="100" x="244.5" y="648.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="30" x="279.5" y="665.7">«hat»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="76" x="256.5" y="681.3">GivingSupport</text><!--MD5=[fb520356499ee6633fb00883e16e3e36]
+class GettingSupport--><rect fill="#7FFFD4" height="56.8" id="GettingSupport" style="stroke: #2E8B57; stroke-width: 1.5;" width="100" x="244.5" y="556.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="270.5" y="573.7">«agreed»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="30" x="279.5" y="589.3">«hat»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="82" x="253.5" y="604.9">GettingSupport</text><!--MD5=[12c2df9a3dee5174b4823e73a9f6d66d]
+class ArrangingSupport--><rect fill="#7FFFD4" height="56.8" id="ArrangingSupport" style="stroke: #2E8B57; stroke-width: 1.5;" width="100" x="244.5" y="464.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="270.5" y="481.7">«agreed»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="30" x="279.5" y="497.3">«hat»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="94" x="247.5" y="512.9">ArrangingSupport</text><!--MD5=[219a0dc6cfc6529e8ff008b9cfb31e0d]
+class Facilitator--><rect fill="#FFB6C1" height="56.8" id="Facilitator" style="stroke: #DC143C; stroke-width: 1.5;" width="100" x="495" y="632.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="34" x="528" y="649.7">«TBC»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="30" x="530" y="665.3">«hat»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="53" x="518.5" y="680.9">Facilitator</text><!--MD5=[dfb0845b8492ffe07b1ce50e003034d7]
+class Team--><rect fill="#FFB6C1" height="41.2" id="Team" style="stroke: #DC143C; stroke-width: 1.5;" width="100" x="38" y="564.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="34" x="71" y="581.7">«TBC»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="30" x="73" y="597.3">Team</text><!--MD5=[5d3c9bb25b1b07c105e03cfa5bc0b7ee]
+class Note--><rect fill="#FFB6C1" height="41.2" id="Note" style="stroke: #DC143C; stroke-width: 1.5;" width="100" x="38" y="640.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="34" x="71" y="657.7">«TBC»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="26" x="75" y="673.3">Note</text><!--MD5=[0851f84a889f989e7bb0bebc385d0f09]
+class Request--><rect fill="#87CEEB" height="127.4" id="Request" style="stroke: #7B68EE; stroke-width: 1.5;" width="100" x="244.5" y="783.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="44" x="272.5" y="800.7">Request</text><line style="stroke: #7B68EE; stroke-width: 1.5;" x1="245.5" x2="343.5" y1="809" y2="809"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="72" x="250.5" y="824.275">requestedDate</text><line style="stroke: #7B68EE; stroke-width: 1.5;" x1="245.5" x2="343.5" y1="831.3" y2="831.3"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="45" x="250.5" y="846.575">request()</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="250.5" y="860.875">approve()</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="37" x="250.5" y="875.175">reject()</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="53" x="250.5" y="889.475">withdraw()</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="23" x="250.5" y="903.775">list()</text><!--MD5=[67384a2d3ccfd6450b7be81fd71b125d]
+class HatRequest--><rect fill="#87CEEB" height="47.9" id="HatRequest" style="stroke: #7B68EE; stroke-width: 1.5;" width="100" x="495" y="822.9"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="64" x="513" y="840.2">HatRequest</text><line style="stroke: #7B68EE; stroke-width: 1.5;" x1="496" x2="594" y1="848.5" y2="848.5"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="16" x="501" y="863.775">hat</text><!--MD5=[ff3d20c1112759d46dde2fcead238479]
+class Value--><rect fill="#FFB6C1" height="100.1" id="Value" style="stroke: #DC143C; stroke-width: 1.5;" width="100" x="963.5" y="123.9"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="34" x="996.5" y="141.2">«TBC»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="30" x="998.5" y="156.8">Value</text><line style="stroke: #DC143C; stroke-width: 1.5;" x1="964.5" x2="1062.5" y1="165.1" y2="165.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="26" x="969.5" y="180.375">value</text><line style="stroke: #DC143C; stroke-width: 1.5;" x1="964.5" x2="1062.5" y1="187.4" y2="187.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="47" x="969.5" y="202.675">confirm()</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="45" x="969.5" y="216.975">contest()</text><!--MD5=[1372b0db8a45810a4635c25f853d4d30]
+class Support--><rect fill="#FFB6C1" height="77.8" id="Support" style="stroke: #DC143C; stroke-width: 1.5;" width="163" x="739.5" y="183.9"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="34" x="804" y="201.2">«TBC»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="43" x="799.5" y="216.8">Support</text><line style="stroke: #DC143C; stroke-width: 1.5;" x1="740.5" x2="901.5" y1="225.1" y2="225.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="151" x="745.5" y="240.375">GettingSupport gettingSupport</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="139" x="745.5" y="254.675">GivingSupport givingSupport</text><!--MD5=[a9bc31c27afb0937768fb87875fc7e33]
+class Expenditure--><rect fill="#FFB6C1" height="63.5" id="Expenditure" style="stroke: #DC143C; stroke-width: 1.5;" width="100" x="771" y="85.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="34" x="804" y="102.7">«TBC»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="66" x="788" y="118.3">Expenditure</text><line style="stroke: #DC143C; stroke-width: 1.5;" x1="772" x2="870" y1="126.6" y2="126.6"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="40" x="777" y="141.875">record()</text><!--MD5=[c6c2aa411a70f0170997fbec83374a43]
+class Booking--><rect fill="#FFB6C1" height="143" id="Booking" style="stroke: #DC143C; stroke-width: 1.5;" width="100" x="244.5" y="216.4"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="34" x="277.5" y="233.7">«TBC»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="44" x="272.5" y="249.3">Booking</text><line style="stroke: #DC143C; stroke-width: 1.5;" x1="245.5" x2="343.5" y1="257.6" y2="257.6"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="20" x="250.5" y="272.875">title</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="71" x="250.5" y="287.175">startDateTime</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="66" x="250.5" y="301.475">endDateTime</text><line style="stroke: #DC143C; stroke-width: 1.5;" x1="245.5" x2="343.5" y1="308.5" y2="308.5"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="36" x="250.5" y="323.775">make()</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="56" x="250.5" y="338.075">rearrange()</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="41" x="250.5" y="352.375">cancel()</text><!--MD5=[c9f0b588c4f8b27ec569e2f6961808c1]
+class SupportBooking--><rect fill="#FFB6C1" height="100.1" id="SupportBooking" style="stroke: #DC143C; stroke-width: 1.5;" width="163" x="463.5" y="215.9"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="34" x="528" y="233.2">«TBC»</text><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="87" x="501.5" y="248.8">SupportBooking</text><line style="stroke: #DC143C; stroke-width: 1.5;" x1="464.5" x2="625.5" y1="257.1" y2="257.1"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="151" x="469.5" y="272.375">GettingSupport gettingSupport</text><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="139" x="469.5" y="286.675">GivingSupport givingSupport</text><line style="stroke: #DC143C; stroke-width: 1.5;" x1="464.5" x2="625.5" y1="293.7" y2="293.7"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="55" x="469.5" y="308.975">complete()</text><!--MD5=[4f1f3706c1a355a8488e154afcaed5df]
+class Location--><rect fill="#87CEEB" height="25.6" id="Location" style="stroke: #7B68EE; stroke-width: 1.5;" width="100" x="771" y="355.9"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="47" x="797.5" y="373.2">Location</text><!--MD5=[c8b2415fed4226e7dddfb4b146809889]
+class UKAddress--><rect fill="#87CEEB" height="47.9" id="UKAddress" style="stroke: #7B68EE; stroke-width: 1.5;" width="100" x="963.5" y="338.9"/><text fill="#000000" font-family="IBM Plex Sans" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="61" x="983" y="356.2">UKAddress</text><line style="stroke: #7B68EE; stroke-width: 1.5;" x1="964.5" x2="1062.5" y1="364.5" y2="364.5"/><text fill="#000000" font-family="IBM Plex Sans" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="45" x="969.5" y="379.775">postcode</text><path d="M10.5,890.4 L10.5,1001.8 L165.5,1001.8 L165.5,900.4 L155.5,890.4 L10.5,890.4 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M155.5,890.4 L155.5,900.4 L165.5,900.4 L155.5,890.4 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="120" x="16.5" y="908.725">This requires manual</text><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="122" x="16.5" y="925.625">process intervention.</text><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="134" x="16.5" y="942.525">Assumed that platform</text><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="127" x="16.5" y="959.425">must provide a means</text><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="92" x="16.5" y="976.325">of recording the</text><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="16.5" y="993.225">outcome.</text><!--MD5=[fcf5c2fce80568d332eef48dc06614a5]
+reverse link Person to PlatformUser--><path d="M614.72,547.34 C663.24,534.24 727.1,516.99 770.63,505.23 " fill="none" id="Person&lt;-PlatformUser" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="616.44,554.13,595.3,552.58,612.79,540.61,616.44,554.13" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[288606c901a60d0891ab08ccc073e132]
+reverse link Request to HatRequest--><path d="M364.82,846.9 C406.07,846.9 457.44,846.9 494.58,846.9 " fill="none" id="Request&lt;-HatRequest" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="364.6,853.9,344.6,846.9,364.6,839.9,364.6,853.9" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9bba359604211395151bc6a86ddb3cba]
+link GMN17 to Requests--><path d="M165.73,945.9 C180.01,945.9 194.9994,945.9 209.4842,945.9 C213.1054,945.9 216.6951,945.9 220.2343,945.9 " fill="none" id="GMN17-Requests" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><!--MD5=[565c3a9d549211eec206e7af80679493]
+link GivingSupport to Person--><path d="M344.6,648.55 C382.17,632.98 434.43,611.32 476.02,594.08 " fill="none" id="GivingSupport-&gt;Person" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="473.43,587.57,494.58,586.38,478.79,600.51,473.43,587.57" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5b7c41f6df5331ab34ee891244631c97]
+link GettingSupport to Person--><path d="M344.6,581.15 C381.74,578.31 433.25,574.37 474.61,571.21 " fill="none" id="GettingSupport-&gt;Person" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="474.11,564.22,494.58,569.68,475.17,578.18,474.11,564.22" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5f4aad398818913a21c742f631d5959d]
+link Facilitator to Person--><path d="M545,632.33 C545,627.27 545,622.22 545,617.16 " fill="none" id="Facilitator-&gt;Person" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="538,617.04,545,597.04,552,617.04,538,617.04" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[20338816770bdbbcf1318875a375e9c8]
+reverse link Booking to SupportBooking--><path d="M364.74,281.77 C395.31,279.06 431.43,275.87 463.21,273.05 " fill="none" id="Booking&lt;-SupportBooking" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="365.14,288.76,344.6,283.55,363.9,274.82,365.14,288.76" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5cea42a9f8eae6bb483618b7b4bc5096]
+reverse link Location to UKAddress--><path d="M891.26,366.72 C915.12,365.97 941.34,365.14 963.28,364.45 " fill="none" id="Location&lt;-UKAddress" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="891.27,373.72,871.06,367.35,890.83,359.73,891.27,373.72" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[43f4f49522767a62b956ca49cf24bf08]
+link Support to Value--><path d="M902.51,202.19 C916.27,198.65 930.45,195.01 943.86,191.56 " fill="none" id="Support-&gt;Value" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="942.36,184.71,963.47,186.51,945.84,198.27,942.36,184.71" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4e3d8c52048864cff7098dbf02a2f7b9]
+link Expenditure to Value--><path d="M871.06,131.58 C893.19,138.2 919.72,146.14 943.79,153.34 " fill="none" id="Expenditure-&gt;Value" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="none" points="946.12,146.73,963.28,159.17,942.11,160.14,946.12,146.73" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c105d397d190939bc6c26e1b7dff1008]
+link Team to GettingSupport--><path d="M138.24,584.9 C170.39,584.9 212.2,584.9 244.33,584.9 " fill="none" id="Team-GettingSupport" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a3f7f74963f4e302adb3dd108bc5522d]
+link Team to GivingSupport--><path d="M138.24,605.13 C170.39,618.33 212.2,635.5 244.33,648.7 " fill="none" id="Team-GivingSupport" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2f99e3187ab23b8e2f4845f10d98af47]
+link Team to ArrangingSupport--><path d="M134.64,564.37 C167.25,549.7 211.07,529.98 244.43,514.98 " fill="none" id="Team-ArrangingSupport" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[55de2a768dc3dadc6860e081252511a2]
+link Person to UKAddress--><path d="M595.13,577.08 C668,590.82 806.43,605.8 902.5,547.9 C960.47,512.96 991.48,434.85 1004.65,392.15 " fill="none" id="Person-&gt;UKAddress" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1006.17,387.12,999.7423,394.5823,1004.7267,391.9072,1007.4018,396.8915,1006.17,387.12" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="793.5" y="544.225">postcode</text><!--MD5=[67893df776b34eb36274332e9126e24c]
+link Person to Location--><path d="M589.42,534.68 C648.47,492.22 751.98,417.81 797.47,385.1 " fill="none" id="Person-&gt;Location" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="801.69,382.07,792.0434,384.0558,797.6242,384.9802,796.6998,390.561,801.69,382.07" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="47" x="659.5" y="452.225">address</text><!--MD5=[990cdb5d3d702e8fb9f288b222eb73df]
+link Request to Person--><path d="M344.56,783.52 C371.46,748.18 405.03,703.11 433.5,661.9 C447.58,641.51 445.79,632.24 463.5,614.9 C471.41,607.16 480.76,600.09 490.23,593.87 " fill="none" id="Request-&gt;Person" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="494.59,591.08,484.8541,592.5671,490.3799,593.7773,489.1697,599.3032,494.59,591.08" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="57" x="375.5" y="658.225">requester</text><!--MD5=[cdf4563fa970dbe62b248f41a69b894f]
+link Request to Facilitator--><path d="M344.61,822.64 C371.83,808.27 405.7,788.8 433.5,767.9 C463.16,745.6 493.18,715.98 514.43,693.56 " fill="none" id="Request-&gt;Facilitator" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="518.03,689.75,508.941,693.5435,514.5956,693.3839,514.7552,699.0385,518.03,689.75" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="53" x="377.5" y="764.225">approver</text><!--MD5=[a64af72b230ecc07d91c7ef12eb78bca]
+link Booking to Person--><path d="M336.16,359.67 C347.64,377.73 360.77,396.6 374.5,412.9 C412.3,457.77 463.03,501.89 499.12,531.13 " fill="none" id="Booking-&gt;Person" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="503.45,534.62,498.9522,525.8582,499.5568,531.4826,493.9324,532.0873,503.45,534.62" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="53" x="377.5" y="409.225">attendee</text><!--MD5=[8858cafc189c1ca5186e8d5990514cdf]
+link Booking to Location--><path d="M344.66,310.93 C377.53,325.18 422.17,342.32 463.5,350.9 C568.77,372.74 695.07,373.25 765.57,371.3 " fill="none" id="Booking-&gt;Location" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="770.96,371.15,761.8494,367.4087,765.962,371.2928,762.0779,375.4054,770.96,371.15" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="47" x="521.5" y="347.225">location</text><!--MD5=[a3b12e9fd2eb5ccc97db76e4a3ee56bb]
+link SupportBooking to Support--><path d="M626.73,253.23 C660.58,247.92 699.98,241.73 734.34,236.34 " fill="none" id="SupportBooking-&gt;Support" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="739.38,235.55,729.8708,232.9857,734.4398,236.321,731.1045,240.89,739.38,235.55" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="IBM Plex Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="46" x="660" y="238.225">delivers</text><!--MD5=[9098cf3c022e992fb5663a5d35246484]
+@startuml domain-model
+!include _common.puml
+skinparam monochrome false
+
+left to right direction 
+
+title Equal Care Domain Model
+
+skinparam MinClassWidth 100
+hide empty members
+hide circle
+
+skinparam class {
+  BackgroundColor SkyBlue
+  BorderColor MediumSlateBlue
+
+  BorderColor<<agreed>> SeaGreen
+  BackgroundColor<<agreed>> Aquamarine
+  BackgroundColor<<TBC>> LightPink
+  BorderColor<<TBC>> Crimson
+
+  BackgroundColor<<hat>> Plum
+}
+
+package People {
+  interface Person {
+    id
+    name
+  }
+  class PlatformUser <<hat>> implements Person
+  class GivingSupport <<hat>>
+  class GettingSupport <<agreed>> <<hat>>
+  class ArrangingSupport <<agreed>> <<hat>>
+  class Facilitator <<TBC>> <<hat>>
+}
+
+package Team {
+  class Team <<TBC>>
+  class Note <<TBC>>
+}
+
+package Requests {
+  abstract class Request {
+    requestedDate
+    request()
+    approve()
+    reject()
+    withdraw()
+    list()
+  }
+  class HatRequest implements Request {
+    hat
+  }
+}
+note left of Requests
+This requires manual
+process intervention.
+Assumed that platform
+must provide a means
+of recording the
+outcome.
+end note
+
+package ValueExchange {
+  interface Value <<TBC>> {
+    value
+    confirm()
+    contest()
+  }
+  class Support <<TBC>> {
+    GettingSupport gettingSupport
+    GivingSupport givingSupport
+  }
+  class Expenditure <<TBC>> {
+    record()
+  }
+}
+
+package Bookings {
+  class Booking <<TBC>> {
+    title
+    startDateTime
+    endDateTime
+    make()
+    rearrange()
+    cancel()
+  }
+  class SupportBooking <<TBC>> {
+    GettingSupport gettingSupport
+    GivingSupport givingSupport
+    complete()
+  }
+}
+
+package Locations {
+  interface Location
+  'abstract class Address
+  class UKAddress {
+    postcode
+  }
+}
+ 
+' Implements relationships
+Person <|.up. GivingSupport
+Person <|.up. GettingSupport
+Person <|.left. Facilitator
+
+Booking <|.. SupportBooking
+Location <|.. UKAddress
+
+Value <|.up. Support
+Value <|.up. Expenditure
+
+' Links
+Team - - GettingSupport
+Team - - GivingSupport
+Team - - ArrangingSupport
+
+Person - -> UKAddress : postcode
+Person - -> Location : address
+
+Request - -> Person : requester
+Request - -> Facilitator : approver
+
+Booking - -> Person : attendee
+Booking - -> Location : location
+SupportBooking - -> Support: delivers
+
+@enduml
+
+@startuml domain-model
+hide footbox
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName "IBM Plex Sans"
+
+skinparam participant {
+  BackgroundColor<<infrastructure service>> SlateGrey
+  BackgroundColor<<external service>> silver
+}
+skinparam monochrome false
+
+left to right direction 
+
+title Equal Care Domain Model
+
+skinparam MinClassWidth 100
+hide empty members
+hide circle
+
+skinparam class {
+  BackgroundColor SkyBlue
+  BorderColor MediumSlateBlue
+
+  BorderColor<<agreed>> SeaGreen
+  BackgroundColor<<agreed>> Aquamarine
+  BackgroundColor<<TBC>> LightPink
+  BorderColor<<TBC>> Crimson
+
+  BackgroundColor<<hat>> Plum
+}
+
+package People {
+  interface Person {
+    id
+    name
+  }
+  class PlatformUser <<hat>> implements Person
+  class GivingSupport <<hat>>
+  class GettingSupport <<agreed>> <<hat>>
+  class ArrangingSupport <<agreed>> <<hat>>
+  class Facilitator <<TBC>> <<hat>>
+}
+
+package Team {
+  class Team <<TBC>>
+  class Note <<TBC>>
+}
+
+package Requests {
+  abstract class Request {
+    requestedDate
+    request()
+    approve()
+    reject()
+    withdraw()
+    list()
+  }
+  class HatRequest implements Request {
+    hat
+  }
+}
+note left of Requests
+This requires manual
+process intervention.
+Assumed that platform
+must provide a means
+of recording the
+outcome.
+end note
+
+package ValueExchange {
+  interface Value <<TBC>> {
+    value
+    confirm()
+    contest()
+  }
+  class Support <<TBC>> {
+    GettingSupport gettingSupport
+    GivingSupport givingSupport
+  }
+  class Expenditure <<TBC>> {
+    record()
+  }
+}
+
+package Bookings {
+  class Booking <<TBC>> {
+    title
+    startDateTime
+    endDateTime
+    make()
+    rearrange()
+    cancel()
+  }
+  class SupportBooking <<TBC>> {
+    GettingSupport gettingSupport
+    GivingSupport givingSupport
+    complete()
+  }
+}
+
+package Locations {
+  interface Location
+  class UKAddress {
+    postcode
+  }
+}
+ 
+Person <|.up. GivingSupport
+Person <|.up. GettingSupport
+Person <|.left. Facilitator
+
+Booking <|.. SupportBooking
+Location <|.. UKAddress
+
+Value <|.up. Support
+Value <|.up. Expenditure
+
+Team - - GettingSupport
+Team - - GivingSupport
+Team - - ArrangingSupport
+
+Person - -> UKAddress : postcode
+Person - -> Location : address
+
+Request - -> Person : requester
+Request - -> Facilitator : approver
+
+Booking - -> Person : attendee
+Booking - -> Location : location
+SupportBooking - -> Support: delivers
+
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 10:35:57 BST 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_152-b16
+Operating System: Mac OS X
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>

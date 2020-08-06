@@ -4,17 +4,7 @@ description: This page outlines the domain model that will underpin the Social G
 
 # domain model
 
-{% hint style="info" %}
-It might help you to review these web pages before reading this page. I've listed them in approximately increasing order of complexity.
 
-* [https://graphql.org/learn/](https://graphql.org/learn/)
-* [https://graphql.org/learn/thinking-in-graphs/](https://graphql.org/learn/thinking-in-graphs/)
-* [https://neo4j.com/blog/why-graph-databases-are-the-future/](https://neo4j.com/blog/why-graph-databases-are-the-future/)
-* [https://neo4j.com/developer/guide-data-modeling/](https://neo4j.com/developer/guide-data-modeling/)
-* [https://neo4j.com/blog/data-modeling-basics/](https://neo4j.com/blog/data-modeling-basics/)
-{% endhint %}
-
-We use a graph database to represent the relationships managed within the system.
 
 It is important that we get this terminology correct as it will form the common language between the users and developers of the platform.
 
@@ -24,9 +14,9 @@ Please provide feedback and edits on the terms I am using. None of these are yet
 
 The diagram below shows an overview of the schema which should cover MVP. This is subject to detailed UX and technical design work.
 
-![Graph Schema Overview](../../.gitbook/assets/graph-schema-overview-relationships.png)
+![Domain Model Overview](../../.gitbook/assets/domain-model.svg)
 
-Please note, the items in a red colour \(namely Value Exchange and Expense\) are not yet implemented.
+Please note, the items in a red colour are not yet fully agreed. Those items in a green colour are agreed, but not yet implemented. The items in a blue colour are implemented. Hats are, naturally, purple.
 
 ## Descriptions
 
@@ -62,7 +52,7 @@ A booking is ATTENDED\_BY two or more Users. They OCCUR\_AT a location. They may
 
 A location represents a physical or a virtual address \(WhatsApp group, phone call, zoom link etc\) and will be modelled with the appropriate attributes.
 
-### Value Exchange
+### Support
 
 This may not actually form part of the graph - but it is a recognition that the main thing to flow from an appointment is that some value is exchanged in terms of support or care given and transactions made. This will need to be captured somehow.
 
@@ -70,7 +60,7 @@ This may not actually form part of the graph - but it is a recognition that the 
 I wonder if Value Exchange is a proxy for 'Support' within the system. In which case, this should be named Support!
 {% endhint %}
 
-### Expense
+### Expenditure
 
 This is the representation of an out of pocket expense to be paid back to a user. In most cases, this will be a Person Giving Support.
 
@@ -84,7 +74,22 @@ The following concepts are likely to be needed, but are as yet ill defined.
 * Review of how the booking went
 * Messages to other people in the person's Team
 
+## References
 
+We have selected a set of technologies which enable us to map these concepts into the implementation very closely.
+
+* GraphQL for the API between the backend services and frontend \(UI in the first instance\)
+* A graph database \(Neo4j\) as the primary storage of the relationships managed within the system.
+
+{% hint style="info" %}
+It might help you to review these web pages once you have read this page. I've listed them in approximately increasing order of complexity.
+
+* [https://graphql.org/learn/](https://graphql.org/learn/)
+* [https://graphql.org/learn/thinking-in-graphs/](https://graphql.org/learn/thinking-in-graphs/)
+* [https://neo4j.com/blog/why-graph-databases-are-the-future/](https://neo4j.com/blog/why-graph-databases-are-the-future/)
+* [https://neo4j.com/developer/guide-data-modeling/](https://neo4j.com/developer/guide-data-modeling/)
+* [https://neo4j.com/blog/data-modeling-basics/](https://neo4j.com/blog/data-modeling-basics/)
+{% endhint %}
 
 
 
