@@ -4,12 +4,12 @@ description: This page outlines the domain model that will underpin the Social G
 
 # domain model
 
-
+This model defines the concepts and terminology which will be used as we design and build the Equal Care platform.
 
 It is important that we get this terminology correct as it will form the common language between the users and developers of the platform.
 
 {% hint style="success" %}
-Please provide feedback and edits on the terms I am using. None of these are yet tested or implemented!
+Please provide feedback and edits on the terms I am using. Many of these are not yet tested or implemented!
 {% endhint %}
 
 The diagram below shows an overview of the schema which should cover MVP. This is subject to detailed UX and technical design work.
@@ -20,49 +20,67 @@ Please note, the items in a red colour are not yet fully agreed. Those items in 
 
 ## Descriptions
 
-### Person
+### People
+
+#### Person
 
 The core of the model is a representation of a person who is then expressed in a series of different ways by the Hats that they wear. These _Hats_ can be seen in the model as they link directly to the 'abstract' Person interface with a dotted line and an open arrowhead.
 
-### Platform User
+#### Platform User
 
 The user is the first 'hat' for every person registered in the system. This enables the creation of the core of the profile, and will be assigned when any user registers.
 
-### \(Person\) Giving Support
+#### \(Person\) Giving Support
 
 This hat is applied to people who are giving support in the system, regardless of whether this is paid or unpaid care and support. This may be resolved by a separate label which segregates these two whilst enabling one person to do both \(for example, giving care for a family member and also offering paid care and support to others\).
 
 People: Giving: Paid or People: Giving: Unpaid.
 
-### \(Person\) Receiving Support
+#### \(Person\) Receiving Support
 
 This hat is worn by people who are getting support within the platform. 
 
-### \(Person\) Arranging Support
+#### \(Person\) Arranging Support
 
 This hat represents people who are responsible for arranging care on behalf of a person receiving support. They can be said to represent that person and to work in their interests. This role is extremely variable, ranging from an oversight and information access through to active management of the bookings, introductions and reviews. It is best represented by the [Team Co-ordinator](https://app.gitbook.com/@eccoo/s/policies/safe-and-well/roles-and-responsibilities/the-team/team-co-ordinator) role description. 
 
 Note the person arranging may also be giving care and support to the person receiving and the person receiving may also be arranging their own care and support and giving or arranging support for others.
 
-### Booking
+#### Facilitator
+
+The Equal Care Facilitator is a critical part of the overall support model. There are certain things that only a facilitator can do.
+
+### Bookings
+
+#### Booking
 
 A booking is ATTENDED\_BY two or more Users. They OCCUR\_AT a location. They may result in Expenses to be paid to a Platform User and may enable value exchange from a Person Giving to a Person Receiving and vice versa.
 
-### Location
+### Locations
+
+#### Location
 
 A location represents a physical or a virtual address \(WhatsApp group, phone call, zoom link etc\) and will be modelled with the appropriate attributes.
 
-### Support
+#### UKAddress
 
-This may not actually form part of the graph - but it is a recognition that the main thing to flow from an appointment is that some value is exchanged in terms of support or care given and transactions made. This will need to be captured somehow.
+The platform will initially be developed for the UK, and many parts of the user experience are being designed with UK addresses in mind \(e.g. Postcode check\). This is a concrete specialisation of Location to address this specific concept.
 
-{% hint style="warning" %}
-I wonder if Value Exchange is a proxy for 'Support' within the system. In which case, this should be named Support!
-{% endhint %}
+### ValueExchange
 
-### Expenditure
+This is a grouping of value that is exchanged using the platform.
 
-This is the representation of an out of pocket expense to be paid back to a user. In most cases, this will be a Person Giving Support.
+### Value
+
+This is an abstract concept that tracks the journey of value across the platform. Value has a lifecycle: it is registered, approved or queried, and ultimately 
+
+#### Support
+
+This is a recognition that the main thing to flow from an Booking is that some value is exchanged in terms of support or care given and transactions made. This will need to be captured somehow.
+
+#### Expenditure
+
+This is the representation of an out of pocket expense to be paid back to a user. In most cases, this will be to a Person Giving Support.
 
 ## Other concepts to explore
 
