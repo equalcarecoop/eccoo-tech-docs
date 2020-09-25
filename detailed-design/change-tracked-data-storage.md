@@ -1,6 +1,6 @@
 # change tracked data storage
 
-Users need to be able to be informed of changes to their information in the system. This is commonly acheived using [event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html), whereby the database stores a series of changes. The state of an object is then determined by applying all changes in the order they were created.
+Users need to be able to be informed of changes to their information in the system. This is commonly achieved using [event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html), whereby the database stores a series of changes. The state of an object is then determined by applying all changes in the order they were created.
 
 We have chosen a graph database \(Neo4j\) as our primary data storage platform. This lends itself to modelling changes as a 'git-like' series of changes which can be queried to retrieve the current record state.
 
@@ -9,6 +9,10 @@ We have chosen a graph database \(Neo4j\) as our primary data storage platform. 
 This should be constrained so that there is only a single change path \(i.e. each node is a parent to only one change, and each change has only one parent\).
 
 Given this model every update is a create, and it would be possible to restrict operations that can be performed.
+
+This appears as follows in Neo4j. In each case, the name is being altered. 
+
+![A series of updates on a node](../.gitbook/assets/chain-of-changes.png)
 
 ## Queries
 
