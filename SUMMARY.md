@@ -44,6 +44,7 @@
   * [matching approach](spikes/matching-approach.md)
   * [location matching spike](spikes/location-matching-spike.md)
 * [detailed design](detailed-design/README.md)
+  * [change tracked data storage](detailed-design/change-tracked-data-storage.md)
   * [sign-up](detailed-design/sign-up.md)
 * [software engineering](software-engineering/README.md)
   * [feature management](software-engineering/feature-management.md)
