@@ -31,10 +31,13 @@ The first change could be applied to the root as follows:
 
 ```text
 MATCH (root:TypeLabel) WHERE root.id = '123'
+SET root += change_properties
 CREATE (root)<-[:PARENT]-(change:Change)
-SET change += change_properties
+SET change = change_properties
 RETURN change;
 ```
+
+This both updates the root entity and sets the properties of the change.
 
 This won't work for subsequent additions, as we need to append to the chain. The following Cypher selects the end of the chain or the root if no chain exists. The queries either side of the UNION are a disjoint, so should only return a single item the root or the latest change.
 
