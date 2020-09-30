@@ -36,7 +36,7 @@ SET change += change_properties
 RETURN change;
 ```
 
-This won't work for subsequent additions, as we need to append to the chain. The following Cypher selects the end of the chain or the root if no chain exists. The queries either side of the UNION are a disjoint, so shoud only return a single item the root or the latest change.
+This won't work for subsequent additions, as we need to append to the chain. The following Cypher selects the end of the chain or the root if no chain exists. The queries either side of the UNION are a disjoint, so should only return a single item the root or the latest change.
 
 ```text
 MATCH (root:TypeLabel) WHERE root.id='123'
@@ -77,6 +77,8 @@ CREATE (parent)<-[:PARENT]-(change:Change)
 SET change += change_properties
 RETURN change;
 ```
+
+In practice, I plan to update the root entity at the same time as the event is raised, which will make the following section irrelevant for regular queries. 
 
 ### Collapse all edits
 
@@ -125,6 +127,10 @@ RETURN result;
 * Hashing contents of properties to ensure non-repudiation
 * Constraints on numbers of parents, number of changes that can lead from a given root or change. 
 * Tracking changes to relationships.
+
+## References
+
+{% embed url="https://github.com/lucasmajerowicz/event-sourcing-graph/blob/master/app/js/server/EventRepository.js" %}
 
 
 
