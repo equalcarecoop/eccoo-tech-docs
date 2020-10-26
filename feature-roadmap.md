@@ -44,7 +44,7 @@ We need to deliver a series of features to complete the MVP. This is an attempt 
 * List team bookings
 * T’s & C ’s Pt 3
 * Create booking
-* Rearrange booking
+* Rearrange \(edit\) booking
 * Set / Disable Recurring Booking
 * Cancel Booking
 * Handle booking validation
