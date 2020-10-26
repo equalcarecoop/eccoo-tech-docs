@@ -127,3 +127,5 @@ We need to deliver a series of features to complete the MVP. This is an attempt 
 
 This data was derived from a brainstorm captured in the 3m [Post It App](https://www.post-it.com/3M/en_US/post-it/ideas/app/).
 
+{% file src=".gitbook/assets/eccoo-features.zip" %}
+
