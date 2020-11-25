@@ -67,4 +67,6 @@
   * [look & feel](user-experience-design/look-and-feel.md)
   * [Useful links / interesting reading](user-experience-design/useful-links-interesting-reading.md)
 * [index of resources](index-of-resources.md)
+* [development principles](development-principles/README.md)
+  * [Accessibility](development-principles/accessibility.md)
 
