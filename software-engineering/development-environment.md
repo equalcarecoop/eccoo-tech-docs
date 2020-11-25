@@ -34,7 +34,7 @@ Developers will need the following software:
 
 * IDE \(Integrated Development Environment\). Our recommendation is [Microsoft Visual Studio Code](https://code.visualstudio.com/). \(`brew cask install visual-studio-code`\).
 * Docker containerised runtime. \(`brew cask install docker`\)
-* NodeJS runtime \(`brew cask install node`\)
+* NodeJS runtime \(`brew install node`\)
 
 ### Visual Studio Code Configuration
 
