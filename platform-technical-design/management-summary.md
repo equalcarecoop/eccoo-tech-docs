@@ -16,6 +16,14 @@ The architecture is based on three core elements:
 
 These are accessed by various channels, web-based in the case of the MVP, but ultimately expanding to include other channels such as voice. The web-oriented channels will use the Vue.js framework to provide a flexible, modular Single Page application.
 
+{% hint style="info" %}
+For now, the UI Layer is not currently Vue.js \(or in fact anything heavily client-side\). We're building in a Nest.JS / Express server-side app with pages templated with Nunjucks.
+
+This is largely down to concerns over ensuring we have robust approaches to accessibility.
+
+We may look at augmenting the frontend with something like Svelte - potentially replacing modules with standalone FE apps as appropriate.
+{% endhint %}
+
 The tech stack is shown below:
 
 ![Recommended tech stack for eccoo Platform MVP](../.gitbook/assets/eccoo-stack.png)
