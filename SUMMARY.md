@@ -90,6 +90,8 @@
       * [exploratory](quality-assurance-strategy/testing-types/functional-testing/exploratory.md)
       * [compatibility](quality-assurance-strategy/testing-types/functional-testing/compatibility.md)
       * [UI automation](quality-assurance-strategy/testing-types/functional-testing/ui-automation.md)
+      * [regression](quality-assurance-strategy/testing-types/functional-testing/regression.md)
+      * [smoke test](quality-assurance-strategy/testing-types/functional-testing/smoke-test.md)
     * [non-functional testing](quality-assurance-strategy/testing-types/non-functional-testing/README.md)
       * [accessibility](quality-assurance-strategy/testing-types/non-functional-testing/accessibility.md)
       * [security](quality-assurance-strategy/testing-types/non-functional-testing/security.md)
