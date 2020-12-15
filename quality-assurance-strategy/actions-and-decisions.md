@@ -24,7 +24,7 @@ description: Actions and decisions that need to be taken to formalise our QA pro
       <td style="text-align:left"><a href="qa-process/testing-life-cycle.md">Confluence page</a>
       </td>
       <td style="text-align:left">
-        <p>Adam</p>
+        <p>Adam,</p>
         <p>Giles</p>
       </td>
       <td style="text-align:left">15/12</td>
