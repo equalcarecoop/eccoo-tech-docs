@@ -4,11 +4,9 @@ description: An introduction into the testing lifecycle for features
 
 # testing life cycle
 
+### Testing types and process a lifecycle could include
 
-
-### Testing types and process a lifecycle could include <a id="TestingLifeCycle-1.Planning&amp;Documentation"></a>
-
-#### Planning & Documentation
+#### 1. Planning & Documentation
 
 Planning from QA involves the following activities: 
 
@@ -17,14 +15,14 @@ Planning from QA involves the following activities:
 * Test Design  \(our experience to guess errors e.g. idempotency\)
 * Ensuring there will be sufficient environments 
 
-#### Structural Testing
+#### 2. Structural Testing
 
 Structural testing will test the foundations of what we produce through:
 
 * Unit tests
 * Integrations for any APIs accepting, validating and responding to requests as expected
 
-#### Functional Testing
+#### 3. Functional Testing
 
 Functional testing will be carried out by QA through the following methods:
 
@@ -33,7 +31,7 @@ Functional testing will be carried out by QA through the following methods:
 * Exploratory testing
 * UI Automation
 
-#### Non-Functional Testing
+#### 4. Non-Functional Testing
 
 Non functional testing carried out for the following where appropriate:
 
@@ -42,7 +40,7 @@ Non functional testing carried out for the following where appropriate:
 * Performance & best practice
 * Security & pen testing
 
-#### Test Closure, UAT & Maintenance Testing
+#### 5 .Test Closure, UAT & Maintenance Testing
 
 * Regression testing
 * Document test summary \(any remaining risks\)
@@ -52,5 +50,5 @@ Non functional testing carried out for the following where appropriate:
 
 ### Equal Care Testing Life Cycle
 
-TBC what will we covered for each feature/release
+TBC what will we covered for each feature/release and add to diagram
 

@@ -83,7 +83,7 @@ Relevant documentation has been added to the accompanying GitBook pages.
         on process/tools</td>
       <td style="text-align:left"><a href="planning/test-plan.md">GitBook page</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Jan, Giles, Adam</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">To start</td>
     </tr>
