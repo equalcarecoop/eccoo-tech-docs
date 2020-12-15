@@ -57,6 +57,7 @@
   * [environment management](software-engineering/environment-management.md)
   * [frameworks, technologies and services](software-engineering/frameworks-technologies-and-services.md)
 * [technical infrastructure](infrastructure-documentation/README.md)
+  * [sizing and costing](infrastructure-documentation/sizing-and-costing.md)
   * [cloud configuration](infrastructure-documentation/cloud-configuration.md)
   * [password and secret management](infrastructure-documentation/password-and-secret-management.md)
   * [email service](infrastructure-documentation/email-service.md)
