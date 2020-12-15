@@ -69,4 +69,5 @@
 * [index of resources](index-of-resources.md)
 * [development principles](development-principles/README.md)
   * [Accessibility](development-principles/accessibility.md)
+* [quality assurance strategy](quality-assurance-strategy.md)
 
