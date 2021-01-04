@@ -16,7 +16,7 @@ In most situations a one test suite will be created per Asana ticket.  Therefore
 
 ### Test reports per test case within a test suite
 
-Each test suite will have a spreadsheet similar to the one below whereby you can see the details of every individual test conducted as well as an overview of the status for that test suite.
+Each test suite will have a spreadsheet similar to the one below whereby you can see the details of every individual test conducted as well as an overview of the status for that test suite. If you would like more information you can follow the link in the end column, which will take you to the Gherkin script for that test case.
 
-![](../../.gitbook/assets/test-suite-exampe.png)
+![An example of the spreadsheet for reports on individual test cases. ](../../.gitbook/assets/test-suite-exampe.png)
 
