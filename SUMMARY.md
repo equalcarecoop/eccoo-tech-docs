@@ -76,6 +76,8 @@
     * [development methodology](quality-assurance-strategy/qa-process/methodology.md)
     * [testing life cycle](quality-assurance-strategy/qa-process/testing-life-cycle.md)
     * [QA in our deployments](quality-assurance-strategy/qa-process/qa-in-our-deployments.md)
+    * [manual testing](quality-assurance-strategy/qa-process/manual-testing.md)
+    * [reports from manual tests](quality-assurance-strategy/qa-process/reports-from-manual-tests.md)
   * [planning](quality-assurance-strategy/planning/README.md)
     * [test strategy & plan](quality-assurance-strategy/planning/test-plan.md)
     * [writing tests](quality-assurance-strategy/planning/writing-tests.md)
