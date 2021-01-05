@@ -15,7 +15,8 @@ Before dev starts working on a ticket that would be due for manual testing, ther
 1. To submit a ticket for manual testing a member of dev will move their ticket the`QA manual testing` column in Asana once they have finished their work on it.
 2. Tests will be executed and reports created. 
 3. Ticket updated with a brief summary of the results e.g. coverage, pass/fail rate and any comments. Link will be provided to the test suite should anyone need more information. 
-4. Ticket is discussed in daily scrum and we will decide whether ticket has passed or if due to a few bugs if it needs to return to dev.
+4. Ticket is discussed in daily scrum and we will decide whether ticket has passed or if due to a few bugs if it needs to return to dev. 
+5. why did it fail? defect? lack of clarity in specification or other
 
 
 
