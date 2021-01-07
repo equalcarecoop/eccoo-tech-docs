@@ -4,7 +4,11 @@ description: how to find reports for manual tests
 
 # reports from manual tests
 
-Test reports will be recorded using Google docs and will be available for anyone who wishes to know the progress or quality of a particular ticket that has gone through manual testing.
+Test reports will be recorded using Google docs and will be available for anyone who wishes to know the progress or quality of a particular ticket that has gone through manual testing.  
+A summary of the testing will be added to each ticket, it will explain: the requirements that were tested, what passed/failed and a link to the test relevant test suite.  
+\(A test case is a term used to describe a  single test, a test suite is a collection of tests.\) 
+
+
 
 ### Test reports per Asana ticket/test suite
 

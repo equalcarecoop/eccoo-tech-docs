@@ -10,6 +10,8 @@ There will be 2 phases to the manual testing and reporting process:
 
 Before dev starts working on a ticket that would be due for manual testing, there should be a brief communication between dev and QA to discuss the specification of the ticket so that QA can outline the test basis and design the tests - this will enable QA to complete the testing faster as they would be able to prepare for testing whilst the build is in progress.
 
+
+
 ## After build
 
 1. To submit a ticket for manual testing a member of dev will move their ticket the`QA manual testing` column in Asana once they have finished their work on it.
