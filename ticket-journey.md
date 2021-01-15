@@ -4,7 +4,7 @@ description: Step by step guide on how a ticket goes from development to deploy 
 
 # ticket journey
 
-## Development
+## Development to deploy
 
 1. Developer works on task assigned within ticket, developing locally, on a branch. 
 2. Development finishes and the branch is pushed. 
@@ -14,7 +14,7 @@ description: Step by step guide on how a ticket goes from development to deploy 
 6. Once built, new version deployed to Staging.
 7. Once deployed to Staging, ticket moved to "Ready for Test" column and assigned to QA team \(default Jan\). 
 
-## Quality Assurance Testing 
+## Quality assurance testing
 
 ### Test
 
