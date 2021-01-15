@@ -105,4 +105,5 @@
     * [security basics](quality-assurance-strategy/testing-resources-help-and-training/security-basics.md)
   * [continuous improvement](quality-assurance-strategy/continuous-improvement/README.md)
     * [metrics](quality-assurance-strategy/continuous-improvement/metrics.md)
+* [ticket journey](ticket-journey.md)
 
