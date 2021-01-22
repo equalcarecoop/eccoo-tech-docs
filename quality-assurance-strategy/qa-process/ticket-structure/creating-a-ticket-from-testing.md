@@ -12,7 +12,7 @@ The following outlines how to raise a **bug** that is not covered by acceptance 
 
 **Summary**
 
-Add a quick summary that allows us to identify the bug easily in Jira
+Add a quick summary that allows us to identify the bug easily in Asana
 
 Example: ‘Submit button not working’  
   
