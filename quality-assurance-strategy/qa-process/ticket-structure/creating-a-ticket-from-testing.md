@@ -6,7 +6,7 @@ Bugs, Questions and Change Requests can be raised at any time.
 
 * Bug \(a defect against expected behaviour\)
 * Change Request \(for a new feature\)
-* Question \(for a question that may require group discussion\)
+* Question \(for a detailed question that may require group discussion\)
 
 The following outlines how to raise a **bug** that is not covered by acceptance criteria on a story.
 
