@@ -28,7 +28,7 @@ description: Step by step guide on how a ticket goes from development to deploy 
 
 ### Pass
 
-1. If the ticket passes QA it is then placed into "Ready for Review" column to be reviewed in the next Show & Tell session. 
+1. If the ticket passes QA it is then placed into "UAT" column to be reviewed in the next Show & Tell session. 
 
 
 
