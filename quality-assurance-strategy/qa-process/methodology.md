@@ -30,7 +30,7 @@ In summary:
 
 ### Workflow
 
-TBC how this will work for Equal Care and how detailed we need to be.
+TBC how this will work for Equal Care and how detailed we need to be but this is an example of how that process would work: [https://app.asana.com/0/1177634625229824/1181772304021830](https://app.asana.com/0/1177634625229824/1181772304021830)
 
 Requirement &gt; User Story &gt; AC &gt; AT &gt; Review & Sign Off
 
