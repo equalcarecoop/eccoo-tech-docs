@@ -22,5 +22,13 @@ Before dev starts working on a ticket that would be due for manual testing, ther
 
 
 
+### Responsiveness 
+
+Will test on Android 10, iOS and Windows tablet.
+
+### Browser compatibility
+
+Chrome, Firefox, Safari, Edge and IE.
+
 
 
