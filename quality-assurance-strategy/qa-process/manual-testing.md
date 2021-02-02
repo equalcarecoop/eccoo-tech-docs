@@ -22,28 +22,13 @@ Before dev starts working on a ticket that would be due for manual testing, ther
 
 
 
-### Responsiveness & browser compatibility
+### Responsiveness 
 
-To ensure that users are receiving the same, intended experience of the web app regardless of operating system, device or browser manual testing for the UI will be conducted in the following contexts:  
-  
-Computer:  
-Macbook: Safari,  
-Ubuntu: Chrome,  
-Ubuntu: Firefox,  
-Windows VM: Edge,  
- Windows VM: IE,  
-  
-Tablet:  
-Windows tablet: Edge,   
-Windows tablet: IE,   
-  
-Mobile:  
-Android: Chrome,  
-Android: Firefox,  
-iOS: Safari,  
-iOS: Chrome.
+Will test on Android 10, iOS and Windows tablet.
 
+### Browser compatibility
 
+Chrome, Firefox, Safari, Edge and IE.
 
 
 
