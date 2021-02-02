@@ -45,9 +45,5 @@ iOS: Chrome.
 
 
 
-### Browser compatibility
-
-Chrome, Firefox, Safari, Edge and IE.
-
 
 
