@@ -110,4 +110,5 @@
   * [continuous improvement](quality-assurance-strategy/continuous-improvement/README.md)
     * [metrics](quality-assurance-strategy/continuous-improvement/metrics.md)
 * [ticket journey](ticket-journey.md)
+* [release notes](release-notes.md)
 
