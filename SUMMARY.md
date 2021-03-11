@@ -111,4 +111,6 @@
     * [metrics](quality-assurance-strategy/continuous-improvement/metrics.md)
 * [ticket journey](ticket-journey.md)
 * [release notes](release-notes.md)
+* [documentation](documentation/README.md)
+  * [rocket chat](documentation/rocket-chat.md)
 
