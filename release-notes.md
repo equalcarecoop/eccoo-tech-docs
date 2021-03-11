@@ -1,5 +1,44 @@
 # release notes
 
+## 2021-03-11
+
+```text
+  2020-03-11:
+    keycloak:  v0.10.0
+    graph_api: v0.25.1
+    ui:        v0.24.0
+```
+
+### Features and fixes
+
+* Various fixes including error validation
+
+### Change log for ui-v1 since v0.23.0
+
+```text
+2860a21 0.24.0
+cc41346 Merge branch 'feat/add-new-checkbox-on-enter-or-tab' into 'master'
+8e044d3 Merge branch 'chore/snag-listing' into 'master'
+b5ed543 feat: checkbox entries added by using enter or tab
+c789c72 chore: i18n for TTM error messages
+c1aa5a7 fix: error handling on travel money and time input
+649a830 chore: wip error handling on ttm form
+9d9b390 chore: tidy travel money time summary
+5fff3d8 chore: tidy giving support summary
+0975a02 chore: add error handling on to when form
+8aff674 fix: correct approaches on getting profile
+a85e4db fix: complete blob for needs relationships
+bb37898 fix: remove dead link
+c8bbeef chore: tidy i18n refs
+```
+
+### Change log for graph-api since v0.25.0
+
+```text
+832951b 0.25.1
+0cc94d5 fix: non-nullable preferences array cypher
+```
+
 ## 2021-03-04
 
 ```text
