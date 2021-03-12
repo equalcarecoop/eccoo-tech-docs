@@ -13,7 +13,11 @@
 
 ### Features and fixes
 
-
+* Fix error handling to only display errors from the page
+* Styling fixes for overlapping on modal header, background circle images
+* Check postcode is correct format before submitting and report errors
+* Change checkbox entry to be only on pressing enter not on pressing tab, for accessibility reasons \([https://webaim.org/techniques/keyboard/](https://webaim.org/techniques/keyboard/)\)
+* Limit preferred name to 50 characters \(to avoid exceeding keycloak character limits\)
 
 
 
