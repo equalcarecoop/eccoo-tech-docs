@@ -1,5 +1,59 @@
 # release notes
 
+## 
+
+## 2021-03-12-1
+
+```text
+  2020-03-12-1:
+    keycloak:  v0.10.0
+    graph_api: v0.25.1
+    ui:        v0.24.2  
+```
+
+### Features and fixes
+
+
+
+
+
+### Change log for ui-v1 since v0.24.0
+
+```text
+1ef95a9 Merge branch 'fix/limit-preferred-name-input-for-keycloak' into 'master'
+76174f7 fix: use class-validator for max length
+5afac1f Merge branch 'fix/remove-tab-key-input-for-adding-check-box' into 'master'
+6442547 Merge branch 'Fix--postcode-entry-error-handling' into 'master'
+95d4914 fix: use class-validator to check postcode
+90b1565 chore:set pref name input limit at 50 characters
+4300bc6 chore: improve accessibility
+5ba2a56 0.24.1
+5627df5 chore: errors handling and format update account
+b4dc035 fix: limit input lenght on pref name handle errors
+96ceb55 chore: add maxLength to preferred name input
+cc82830 fix: add check box only on enter from qa feedback
+2f4b74d fix: clean postcode entry prior to postcodejs
+22707df Merge branch 'chore/improve-error-handling' into 'master'
+b0d8a60 chore: add note on why includes to controllers
+5b602f6 fix: handling of errors on page into controllers
+74cd5de fix: do check for page in controller
+8ac896b Merge branch 'bugfix/edit-modals' into 'master'
+c32142b style: Updated FE kit package
+53cf64b fix: Added missing circle divs to modal footer.
+6321dfc fix: Updated fE kit styling to fix bugs with modal header being overlapped and progress blobs issue in Safari.
+464166f chore: replace listerrors with listerrorsonpage
+b689951 feat: only display errors relevant to page
+```
+
+### Change log for graph-api since v0.25.0
+
+```text
+832951b 0.25.1
+0cc94d5 fix: non-nullable preferences array cypher
+```
+
+
+
 ## 2021-03-11
 
 ```text
