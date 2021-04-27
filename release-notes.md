@@ -280,6 +280,16 @@ db51faa feat: alternative phone number
 48de117 feat:enable additional emergency contact fields
 ```
 
+### Change log for identity-access since v0.10.0
+
+```text
+976b3ba chore:copy changes for login pages
+c74a22d chore:sign in options increase font size
+4a3993d Copy for register and log in
+13d8ef3 chore:copy writing register and sign in
+e4ef123 chore: switch from gulp-sass
+```
+
 ## 2021-03-12-1
 
 ```text
