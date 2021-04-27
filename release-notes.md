@@ -2,6 +2,284 @@
 
 ## 
 
+## 2021-04-27
+
+```text
+  2020-04-27:
+    keycloak:  v0.10.1
+    graph_api: v0.31.0
+    ui:        v0.32.6
+```
+
+### Features and fixes
+
+* UI
+  * \(ANN - PLEASE ADD STUFF HERE\)
+  * Multiple changes related to build optimisation
+  * Rocket chat login management
+* Graph
+  * Add database setup / migrations control
+  * Change API to cover additional profile elements required via the content changes
+
+### Change log for ui-v1 since v0.24.2
+
+```text
+9770a20 0.32.6
+f9c7802 chore: adding back ght actual build step
+2223ea9 0.32.5
+3587a01 chore: revert to original docker build
+4f5bb98 0.32.4
+c604091 chore: fix tags
+c49c7bd 0.32.3
+f0d6e82 build: switch to kaniki builder
+b114bdb 0.32.2
+92f972c chore: fix the build
+07908bc 0.32.1
+6f4cf27 chore: attempt to speed up builds
+a4ad413 chore: fix more security advisories in npm modules
+dd42f8a chore: update security issues
+d325bfb chore: change to @mr-hope/gulp-sass
+f532139 fix:change support I need to support I get
+7329390 fix: open policy pages in new window
+d7f0d24 0.32.0
+6a5904d fix:correct order of add/display qualifications
+98a28f6 chore:code tidy
+af9e746 feat:travel moeny time functionality and display
+b7529d8 feat:travel money time functionality
+f0b9f45 0.31.0
+53dd095 feature: initialise primary location with postcode
+0a39ff6 fix: redirect from /messages/sso if not in iframe
+0f007c4 feature: switch to oauth login for Rocket Chat
+059134d feat:additional travel money time functionality
+c17d2ea chore:remove debug easter egg
+5ac73de feat:qualifications date achieved plus tech debt
+f0a8112 0.30.2
+bca57ae fix: clean up chat auth flow
+42057d7 0.30.1
+bdb1b35 fix: turning off report only CSP
+dfc5bb2 0.30.0
+39465b1 feature: add csp report endpoint
+56ad6ab chore:copy update giving preferences
+ad3e0d1 chore:copy update giving approach
+65bedf8 chore:copy update giving whats important
+d5464fa chore:copy changes surrounding
+ef9e0a4 fix:pull through existing relationship choices
+9777338 chore:copy changes relationships community
+c4cde9d chore:copy changes physical mental wellbeing
+a3d0e52 chore:giving experience copy and tech debt
+c3c4672 chore:giving expertise copy and tech debt
+5e2cc6d chore:remove avatar from giving summary
+4fc0ba0 Merge branch 'master' of gitlab.com:eccoo-platform/services/user-interface-v1
+2735209 chore:giving introduction copy update & tech debt
+4a2c881 fix: enable rocket chat sign-in
+bf21551 fix: allow image-src from any equalcare.coop site
+3e00890 Merge branch 'chore/giving-support-summary-page-copy-changes'
+02212d7 0.29.0
+5438d4e feat:implement supporting me section & update
+b341d62 chore: make tests relative to origin/master
+f54f6e4 fix: allow rocket chat in content security policy
+c3cfd36 chore:start supporting me form construction
+f577958 feat:supporting me set up on giving
+d6092cf feat:disable availability section
+59a6805 chore:section title changes
+2a84c51 chore:remove summary reformat intro
+4c4e868 chore:changes to giving summary information
+4c964e8 chore: prevent Google tracking with FLoC
+cbad6fb chore: updates helmet middleware
+44fd943 Merge branch 'feat/show-fields-on-select' into 'master'
+dbc3222 fix: rendering of other location details
+2bd5ad2 feat:dependent fields medicine mobility support
+b8fabd0 chore:change input to single line text
+8262781 feat: dependent inputs on location page
+b4867a8 Fix for update account details when no locations
+6880a37 fix:handling empty address
+fd81ca1 Display all location combinations properly in profile summary
+bfe2cbe fix:all location combinations and internationalise
+16e6788 chore:internationalise location options
+94d39e3 fix: additional location combinations
+f04719a fix: all location combinations
+964773d 0.28.0
+7493923 Merge branch 'feature/copywriting-and-implementation-for-getting-profile-builder' into 'master'
+7408d18 Merge branch 'feature/additional-getting-location-options' into 'master'
+fa88ccc Merge branch 'feature/copy-writing-for-follow-up-pages' into 'master'
+1fe67b7 feat: embed leave details jotform in follow up
+09b4d6c chore: fix borken tests
+4ef619c chore: limit tests for git push
+0502b82 Merge branch 'feature/additional-fields-and-toggles-for-physical-mental-wellbeing' into 'master'
+b951283 fix: sort message logic
+c2d6b2f feat:additional location options
+6c8c2d9 chore:swap labels for led vs led axis
+1f6e143 feat:support from others field added to getting
+2a1eef7 chore:additional field support needs relationships
+b787e7d 0.27.1
+b7723af Merge branch 'fix/address-details-persist-on-vlaidation-error' into 'master'
+af14e31 chore:code tidy
+731712c fix:address details not lost on validation errors
+96f2088 chore:remove txt field if toggle unset tidy format
+f1a71aa feat/physical and mental wellbeing per copy matrix
+dafd462 chore:create fields on form with copy from matrix
+05807a7 fix: move contextual help to right and box
+f481118 chore:copy for personal care  in a bit about me
+706b806 chore: copy for personal care requirements
+7ac166e chore: hide key documents section for first drop
+08de1ad chore: profile summary - preferred name as title
+4ef5283 fix: error message email link correction
+8951b39 fix: invalid invitation code follow up
+7269518 0.27.0
+29d9f66 Merge branch 'feat-implement-GDS-style-date-picker' into 'master'
+661a8a9 fix: add error messages lost in merge
+0a97bb9 fix: merge conflicts
+089a0f5 Merge branch 'feat-implement-GDS-style-date-picker' of gitlab.com:eccoo-platform/services/user-interface-v1 into feat-implement-GDS-style-date-picker
+6bd9eee fix: clear all merge conflicts
+31397ad fix:conditional validation of alternative number
+1bc74cd fix: correct layout from merge conflict
+0fecf48 fix: resolve merge conflicts
+ed1a2dd fix: error handling for min age 16 years
+6576db0 wip: try catch tb completed
+45c35b0 feat:implement (GDS pattern) 3 box date input
+520be5f chore:sorting out handling and validation
+01809a9 chore:wire in dob date picker
+5d50c91 chore: implement required fields validation errors
+9ca26c4 feat: add optional alternative phone number field
+13194cd fix: error handling for min age 16 years
+4477d3a wip: try catch tb completed
+97ef47f wip: pipe transformer exception age less than 16
+408417a chore: fix tests
+5a72e78 fix: correct date of birth map for errors
+962c449 fix: correct year handling on 3 box date input
+1d548a8 feat:implement (GDS pattern) 3 box date input
+f0ca483 chore:sorting out handling and validation
+1fb76a9 chore:wire in dob date picker
+5922b8e Merge branch 'feature/208-further-copywriting' into 'master'
+2824ba3 fix: error handling for min age 16 years
+00b5808 wip: try catch tb completed
+04a05c7 wip: pipe transformer exception age less than 16
+8497073 chore: tidy unused code
+2d62f77 feat: copy and layout updates for account sections
+3b42f85 chore: call all cancel buttons from same json
+09f675a chore: tidy policies page with secondary buttons
+0dc4ddb chore: change order of LH links
+e72b62f chore: add example to date of birth label
+4fc646e chore; remove uneditable fields from form
+07a3c8c fix:make alternative number optional but validated
+15cfcce chore: fix tests
+bbf364a fix: correct date of birth map for errors
+1bb4cd0 Merge branch 'feat/enable-additional-phone-number' into 'master'
+54c1ea2 chore: implement required fields validation errors
+0c27da8 feat: add optional alternative phone number field
+6e58ffb chore: pull through email address from keycloak
+a200f9d fix: correct year handling on 3 box date input
+a65afe7 feat:implement (GDS pattern) 3 box date input
+9d498dd chore:sorting out handling and validation
+48ebeff chore:wire in dob date picker
+1e6f93b Added time input picker and three and four columns for form layouts
+180895c Merge branch 'feature/colums-and-circles' into 'master'
+abf6095 feat: Added time input to form macro and implemented three and four columns for form layouts.
+86e9617 account layout updates, new date picker, initial copywriting
+577edf8 Merge branch 'feature/valid-forms' into 'master'
+b55e00e feat: Added date inputs to form macro and implemented valid forms with labels.
+74d046c feat:move adding personal care needs into intro
+ba231a4 chore:copywriting getting where
+becb782 chore:copywriting getting preferences
+a239f30 chore:copywriting approach guidance
+ce54d5b feat:add common choices - support with environment
+274f335 chore:copywriting support needs relationships
+bea0079 chore:copywriting support needs person
+aeeb720 feat:wip key documents instead of essentials
+7f6e480 chore:change to where personal care needs captured
+6372ebf chore:update hats title and contextual help
+5596ece chore: copywriting getting summary  as paragraph
+624b4b0 chore:copywriting whats important
+da23429 chore:copywriting intro guidance
+b43e3bb chore:disable getting when as copy matrix comments
+03a04a1 chore: copywriting getting support profile page
+be0de29 chore: copywriting follow up pages
+6cb9933 chore: copywriting for hats
+37c3c01 chore: copywriting for policies
+e838c17 chore: copy and formatting for policies link
+e8a442d chore: account and update copy writing
+83a8ce0 chore:i18n of suppport summary page
+193847c chore: copy writing 404 error page
+751215f chore: copy writing for first sign up stages
+8abe282 chore: copy for hello page
+4cb20c6 chore: amend nav bar sections
+f638f5d Merge branch 'fix/issues-with-travel-money-time' into 'master'
+d80ec96 style: Tidied up support and account form layouts and added ability to have two col form inputs to save vertical space, also fixed bug that was hiding close link for account edit page.
+0e7adf8 chore:keep exisiting data if validation erros
+f5012a5 fix:correctly display minimum booking duration
+bc4d41e 0.26.4
+8b0ae69 fix: ensure rocket chat and ui users in sync
+fc5318d fix: ensure rocket chat and ui users in sync
+f2631e6 chore: remove dependency on deprecated function
+0121bfe fix: chat interceptor tests
+8e68337 0.26.3
+eb3892c fix: make JWT module global
+3d90b93 0.26.2
+9fc8ae4 fix: require authentication to access messages
+468d282 0.26.1
+ff64004 chore: externalise config for rocket chat
+c6456fd 0.26.0
+ed7f0ab feature: Implement SSO for rocket chat
+4a6be61 feature: add iframe embed of rocket chat
+60df174 styling improvements and enhanced emergency contact details
+2c51cef Merge branch 'feat/668-additional-emergency-contact-fields' into 'master'
+431a8ec Merge branch 'chore--i18n-experience-macro' into 'master'
+315337f Merge branch 'master' into 'chore--i18n-experience-macro' Resolve conflicts # Conflicts: #   views/macros/profile-summary.njk #   views/partials/profile/giving-support/experience.njk
+4530737 Merge branch 'feature/form-layouts' into 'master'
+439fb5b feat: Updated FE kit version.
+21ff89f Merge branch 'master' into feature/form-layouts
+b0588d1 style: Updated edit forms for giving and getting and updated output formatting.
+2b43cbb chore: implement i18n on display experience
+dfa81a4 feat: additional emergency contact fields
+6d50977 0.24.4
+f8250c7 Merge branch 'bugfix/mobile-forms' into 'master'
+433ec93 fix:merge conflict
+f5e4157 fix: fixing merge conflicts
+8432b4b fix: Fixed spacing issues with date edit form on mobile and other mobile styling fixes, with updated FE kit.
+17ed207 0.24.3
+4585c89 Merge branch 'chore/field-validation-for-phone-number-and-emergency-number' into 'master'
+906c63a chore:remove commented code
+88cf97d fix: change is phone number region to GB
+d21f50f Merge branch 'fix/update-FE-toolkit' into 'master'
+b7a6cda Merge branch 'chore-validation-for-start-end-times' into 'master'
+d56085a Merge branch 'fix/preferred-name-input-issue' into 'master'
+236e7dd fix:update emergency contact label  per QA comment
+e82e191 chore: code lint
+4cb65a1 fix: update npm to allow lockfileVersion 2
+bd5f1e1 Fix:Update to latest version of FE kit
+c814b23 chore: cross validation so end must be after start
+e7edace chore:lint code
+fe2aff8 fix:correct classes so input editable in mid size
+```
+
+### Change log for graph-api since v0.25.1
+
+```text
+6612bb3 Add travel money time fields
+f3bad23 fix:quallifcation date acheived can be nullable
+f1360c8 feat:travel money time additional fields
+96c90e8 0.30.0
+a99b84a feat:qualifications date achieved
+6e87ceb 0.29.0
+82084dc feat:enable supportingMe field on giving
+284d509 0.28.0
+c5ce221 Merge branch 'feat/additional-toggles-for-getting' into 'master'
+7a83860 feat: additional getting fields implementation
+7170adb feat:additional field in relationship needs
+0a82a3c feat:enable additional toggles and fields getting
+e40d82f refactor: move keycloak jwt to libs
+3519bf9 Fix driver close in migration
+af12735 fix: leave driver open during migration
+90755fc Add neo4j migrations
+97618e3 feature: add migrations to startup
+a1f2216 refactor: move neo4j to NestJS library
+2ffb140 Merge branch 'feat/add-alternative-number-to-contact-details-enum' into 'master'
+db51faa feat: alternative phone number
+5cc7ad2 0.26.0
+168cc4e Merge branch 'feature/668-additional-emergency-contact-fields' into 'master'
+48de117 feat:enable additional emergency contact fields
+```
+
 ## 2021-03-12-1
 
 ```text

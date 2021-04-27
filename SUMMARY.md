@@ -62,6 +62,7 @@
   * [password and secret management](infrastructure-documentation/password-and-secret-management.md)
   * [email service](infrastructure-documentation/email-service.md)
   * [domain name service](infrastructure-documentation/domain-name-service.md)
+  * [data restoration test](infrastructure-documentation/data-restoration-test.md)
 * [user experience design](user-experience-design/README.md)
   * [platform design](user-experience-design/platform-design.md)
   * [wireframes](user-experience-design/wireframes.md)
