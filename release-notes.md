@@ -15,7 +15,7 @@
 
 ### Status of Rocket Chat
 
-This release includes integration with a vanilla instance of Rocket Chat, which has some of the styling that Austin worked on applied via a supported Rocket Chat mechanism. The approach that we trialled with Austin would have liklely resulted in a maintenance overhead, and significant version drift from the latest Rocket Chat.
+This release includes integration with a vanilla instance of Rocket Chat, which has some of the styling that Austin worked on applied via a supported Rocket Chat mechanism. The approach that we trialled with Austin would have likely resulted in a maintenance overhead, and significant version drift from the latest Rocket Chat.
 
 Users log in with their EqualCare identities \(i.e. keycloak identities\) and are allocated RC roles based on groups set up in Keycloak. At the moment, this is limited to Emma and Giles being admins, but we can broaden this out to as many roles as we need within RC. Discussion required around this.
 
