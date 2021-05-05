@@ -20,6 +20,10 @@ In this release, no channels are automatically created. This would be a useful s
 ### Change log for ui-v1 since v0.32.6
 
 ```text
+09f1d55 fix handling rates rounding on new profile
+a0170e3 fix:handling of rates in view when none entered
+acc423f fix error on rates plus move cancel button into update account form
+8b3c609 fix:handling rates when none yet entered
 d8165f8 fix:move cancel button onto update account form
 d8c8f29 chore: style the guidance boxes
 1a3194a 0.33.2
@@ -44,7 +48,7 @@ d7a2ca8 fix:update guidance with links
 ### Change log for graph-api since v0.31.0
 
 ```text
-(NONE)
+
 ```
 
 ### Change log for identity-access since v0.10.1
