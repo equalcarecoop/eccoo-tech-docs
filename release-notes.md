@@ -1,6 +1,65 @@
 # release notes
 
-## 
+## 2021-05-06
+
+### Features and fixes
+
+* Identity and access / Keycloak
+  * Styling changes to login pages
+* UI
+  * Further fixes to copy etc
+
+### Status of Rocket Chat
+
+This release includes integration with a vanilla instance of Rocket Chat, which has some of the styling that Austin worked on applied via a supported Rocket Chat mechanism. The approach that we trialled with Austin would have liklely resulted in a maintenance overhead, and significant version drift from the latest Rocket Chat.
+
+Users log in with their EqualCare identities \(i.e. keycloak identities\) and are allocated RC roles based on groups set up in Keycloak. At the moment, this is limited to Emma and Giles being admins, but we can broaden this out to as many roles as we need within RC. Discussion required around this.
+
+In this release, no channels are automatically created. This would be a useful spike to look at \(Create channels for team chat and manage user membership of the channel\). There is a question over automation vs manual management of groups. I suspect this will end up being a hybrid model.
+
+### Change log for ui-v1 since v0.32.6
+
+```text
+d8165f8 fix:move cancel button onto update account form
+d8c8f29 chore: style the guidance boxes
+1a3194a 0.33.2
+35b9dbb fix: clear rocket chat session
+a7d1bd5 correctly handle rates with more than 2 decimal places
+795b7ce fix:handling rate rounding errors
+d51105a 0.33.0
+8307ebb feature: add info route to report version of code
+24f5587 fix:radio button formatting
+a7375b2 fix:progress complete sections for giving
+bb18221 fix:progress complete sections for getting
+361e294 fix:correct summary  location details, clear unset
+0d1f7d1 0.32.7
+d7a2ca8 fix:update guidance with links
+45e6808 fix:retain areas covered entries on form errors
+0bf10ed fix:copy typo
+8cbfbdc fix:display currency with 2 decimal places
+1916d52 fix:update to rates rather than adding additional
+7326b2d fix: handle decimal input to minutes fields
+```
+
+### Change log for graph-api since v0.31.0
+
+```text
+(NONE)
+```
+
+### Change log for identity-access since v0.10.1
+
+```text
+80ecaf6 0.11.2
+a459ecf fix:layout of hyphen on register page
+e3d90c0 0.11.1
+d1b34ef fix:change styling to gradient tick circle
+79289dc chore:update verify email copy
+cdf0db3 0.11.0
+b63620d chore: add name to package.json
+976b3ba chore:copy changes for login pages
+c74a22d chore:sign in options increase font size
+```
 
 ## 2021-04-27
 
