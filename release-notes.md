@@ -7,7 +7,11 @@
 * Identity and access / Keycloak
   * Styling changes to login pages
 * UI
-  * Further fixes to copy etc
+  * Further fixes to copy and to correctly display all location options in getting summary narrative.
+  * Fix profile builder progress completed sections logic.
+  * Fix rates handling from QA issues.
+  * Move cancel button for update account details onto form.
+  * Move contextual to right hand side within appropriately formatted box.
 
 ### Status of Rocket Chat
 
@@ -77,7 +81,11 @@ c74a22d chore:sign in options increase font size
 ### Features and fixes
 
 * UI
-  * \(ANN - PLEASE ADD STUFF HERE\)
+  * Account details - correct validation of phone numbers; additional emergency contact details; correct amending of preferred name; improved layout allowing multiple columns on form and display; add alternative phone number field, date of birth date picker to GDS style three box input with appropriate validation; persistence of address details on validation errors. My account and update copywriting as per matrix.
+  * Account section - change ordering and layout for policies and roles sections; including open policy links in new window.
+  * Copywriting and layout changes for hello pages, invitation code, postcode and giving getting selection pages. Embed leave details jotform.
+  * Getting support profile - hide when section and key documents section; add personal care question to introduction to enable conditional questions; add additional fields as per copy matrix to physical & mental wellbeing, relationships & community, where support takes place; update copy and layout for all forms as per matrix. Update getting profile summary with narrative introductory paragraph and pulling through all additional or modified fields from forms.
+  * Giving support profile - hide availability section and add in supporting me section; add free text date achieved field for qualifications; add checkbox copy/options for expertise, physical & mental wellbeing, relationships & community, surroundings; add and amend fields in travel, money & time. Include icons with profile summary introductory paragraph.
   * Multiple changes related to build optimisation
   * Rocket chat login management
 * Graph
