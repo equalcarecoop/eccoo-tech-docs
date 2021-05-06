@@ -21,6 +21,11 @@ Users log in with their EqualCare identities \(i.e. keycloak identities\) and ar
 
 In this release, no channels are automatically created. This would be a useful spike to look at \(Create channels for team chat and manage user membership of the channel\). There is a question over automation vs manual management of groups. I suspect this will end up being a hybrid model.
 
+#### Known Defects
+
+* Rocket Chat mobile app \(iOS / Android\) is not yet working. This appears to be a known issue that has been solved by some people implementing. Investigations continue.
+* Rocket Chat can under certain circumstances show the messages of a previously logged in user. This will only occur if the current user is on the same physical device using the same browser as the previous user.
+
 ### Change log for ui-v1 since v0.32.6
 
 ```text
