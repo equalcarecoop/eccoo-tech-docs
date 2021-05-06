@@ -13,10 +13,6 @@
   * Move cancel button for update account details onto form.
   * Move contextual to right hand side within appropriately formatted box.
 
-**Known defects**
-
-* The contextual help is boxed and to the right of the forms but the flow for breakpoints is not quite right and will be picked up in an overall review of layout post 1st drop.
-
 ### Status of Rocket Chat
 
 This release includes integration with a vanilla instance of Rocket Chat, which has some of the styling that Austin worked on applied via a supported Rocket Chat mechanism. The approach that we trialled with Austin would have likely resulted in a maintenance overhead, and significant version drift from the latest Rocket Chat.
