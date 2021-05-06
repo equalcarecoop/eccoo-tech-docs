@@ -12,9 +12,10 @@
   * Fix rates handling from QA issues.
   * Move cancel button for update account details onto form.
   * Move contextual to right hand side within appropriately formatted box.
-* Known defects
-  * The contextual help is boxed and to the right of the forms but the flow for breakpoints is not quite right and will be picked up in an overall review of layout post 1st drop.
-  * There is an edge case issue with Rocket Chat where it is possible to be logged into the app and RocketChat with different accounts at the same time. This is under investigation and will be resolved but will not block release of the first drop to the initial user cohort.
+
+**Known defects**
+
+* The contextual help is boxed and to the right of the forms but the flow for breakpoints is not quite right and will be picked up in an overall review of layout post 1st drop.
 
 ### Status of Rocket Chat
 
