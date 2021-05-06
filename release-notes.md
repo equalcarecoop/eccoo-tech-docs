@@ -13,6 +13,10 @@
   * Move cancel button for update account details onto form.
   * Move contextual to right hand side within appropriately formatted box.
 
+**Known defects**
+
+* The contextual help is boxed and to the right of the forms but the flow for breakpoints is not quite right and will be picked up in an overall review of layout post 1st drop.
+
 ### Status of Rocket Chat
 
 This release includes integration with a vanilla instance of Rocket Chat, which has some of the styling that Austin worked on applied via a supported Rocket Chat mechanism. The approach that we trialled with Austin would have likely resulted in a maintenance overhead, and significant version drift from the latest Rocket Chat.
@@ -24,7 +28,7 @@ In this release, no channels are automatically created. This would be a useful s
 #### Known Defects
 
 * Rocket Chat mobile app \(iOS / Android\) is not yet working. This appears to be a known issue that has been solved by some people implementing. Investigations continue.
-* Rocket Chat can under certain circumstances show the messages of a previously logged in user. This will only occur if the current user is on the same physical device using the same browser as the previous user.
+* ~~Rocket Chat can under certain circumstances show the messages of a previously logged in user. This will only occur if the current user is on the same physical device using the same browser as the previous user.~~ **Fixed**
 
 ### Change log for ui-v1 since v0.32.6
 
