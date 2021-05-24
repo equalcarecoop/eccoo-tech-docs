@@ -114,5 +114,6 @@
 * [ticket journey](ticket-journey.md)
 * [release notes](release-notes.md)
 * [documentation](documentation/README.md)
+  * [AWS environment](documentation/aws-environment.md)
   * [rocket chat](documentation/rocket-chat.md)
 
