@@ -136,5 +136,5 @@ Rocket Chat has started when the following shows in the cloudwatch logs for the 
 
 Login to the base chat url for the environment, and follow the set-up steps.
 
-Once that is complete, follow the setup as per [the Rocket Chat instructions](rocket-chat.md).
+Once that is complete, follow the setup as per [the Rocket Chat instructions](rocket-chat/).
 

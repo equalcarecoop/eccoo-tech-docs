@@ -115,5 +115,6 @@
 * [release notes](release-notes.md)
 * [documentation](documentation/README.md)
   * [AWS environment](documentation/aws-environment.md)
-  * [rocket chat](documentation/rocket-chat.md)
+  * [rocket chat](documentation/rocket-chat/README.md)
+    * [Rocket Chat User Guide](documentation/rocket-chat/rocket-chat-user-guide.md)
 
