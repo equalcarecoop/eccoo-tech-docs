@@ -68,4 +68,5 @@ From desktop:
 * Click on the person’s username and select Direct Message
 * Type your message and then click the arrow to send
 * Any messages you have sent will be listed by the recipient name in the left hand column 
+* Alternatively, click on the write icon above the channel list and select Direct Messages from here
 
