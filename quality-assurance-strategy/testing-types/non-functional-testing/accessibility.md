@@ -60,6 +60,10 @@ WAVE, pa11y, HTML CodeSniffer \(These were chosen based on the data in this tabl
 * Alt text is present and appropriate
 * Links have appropriate descriptions
 
+#### Accessibility UAT
+
+Request feedback on the platform from any members who use any of the assistive technology devices listed above.
+
 
 
 
