@@ -2,7 +2,7 @@
 
 ### Aim
 
-To meet WCAG 2.1 AA
+To meet WCAG 2.1 AAA
 
 ### Accessibility Audit
 
@@ -14,8 +14,24 @@ This needs knowledge of accessibility as well as being able to use screen reader
 
 ### Plan
 
+#### Assistive technology
+
+For the platform to be accessible across our chosen devices and browsers by people using the following technology:
+
+* Mouse
+* Keyboard 
+* Screenreader
+* Screen magnifier
+* Speech recognition
+* Switch
+* Eyetracker
+
+
+
 #### Manual testing 
 
+  
+  
 Steering with keyboard - can users navigate entire app, accessing all elements using default keys such as tab, shift + tab, enter, space, arrow keys. Ensure that 'skip to content' links consistent throughout the app.
 
 Screen readers - navigate site with monitor off using NVDA \(Windows\), VoiceOver \(mac and iOS\), \(need to research most popular Android screenreader - possibly Talkback\)
