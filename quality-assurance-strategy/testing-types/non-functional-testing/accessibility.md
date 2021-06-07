@@ -12,35 +12,55 @@ A full accessibility audit will need to be carried out to see if the site. Examp
 
 This needs knowledge of accessibility as well as being able to use screen readers efficiently.
 
-### Plan
+### Assistive technology
 
-#### Assistive technology
-
-For the platform to be accessible across our chosen devices and browsers by people using the following technology:
+For the platform to be accessible across [our chosen devices and browsers](https://app.gitbook.com/@equalcare/s/the-platform/quality-assurance-strategy/testing-types/functional-testing/compatibility) by people using the following technology:
 
 * Mouse
 * Keyboard 
-* Screenreader
+* Screenreader \(NVDA, Narrator, TalkBack and VoiceOver\)
 * Screen magnifier
 * Speech recognition
 * Switch
 * Eyetracker
 
+The current compatibility status of the platform with the devices can be viewed in the [Accessibility testing matrix](https://docs.google.com/spreadsheets/d/1MFj9DnfQN2x-YWWaSMi910DBlae2IDALr8h6krspOuw/edit?usp=sharing)
 
 
-#### Manual testing 
 
-  
-  
-Steering with keyboard - can users navigate entire app, accessing all elements using default keys such as tab, shift + tab, enter, space, arrow keys. Ensure that 'skip to content' links consistent throughout the app.
+#### Covered by manual testing 
 
-Screen readers - navigate site with monitor off using NVDA \(Windows\), VoiceOver \(mac and iOS\), \(need to research most popular Android screenreader - possibly Talkback\)
+Keyboard and mouse navigation - can users navigate entire app, accessing all elements using default keys such as tab, shift + tab, enter, space, arrow keys. Ensure that 'skip to content' links consistent throughout the app.
+
+Screen readers - navigate site with monitor off using NVDA, Narrator \(Windows\), VoiceOver \(macOS and iOS\), TalkBack \(Android\) {research screen reader for Linux}
 
 Magnification - Layout and design is still coherent when user has magnified \(research typical maximum magnification level\)
 
-#### Automated tools
+Speech recognition - {needs research}
+
+Switch - all Apple products have built-in switch support. {research Windows and Android}
+
+Eye tracker - {needs research}
+
+Skip links
+
+No flashing content \(if so, is it less than 3 flashes per second?\)
+
+The flow of the HTML is logical for a person using screenreader - screen readers interact with the HTML, not CSS. Is the flow, layout and sequence of content  when viewed as unstyled HTML coherent and sensible?
+
+#### Covered using automated tools
 
 WAVE, pa11y, HTML CodeSniffer \(These were chosen based on the data in this table: [https://alphagov.github.io/accessibility-tool-audit/index.html](https://alphagov.github.io/accessibility-tool-audit/index.html)\)
+
+* Colour contrast
+* HTML tree structure
+* ARIA labels
+* Alt text is present and appropriate
+* Links have appropriate descriptions
+
+
+
+
 
 
 
