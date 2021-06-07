@@ -48,6 +48,8 @@ No flashing content \(if so, is it less than 3 flashes per second?\)
 
 The flow of the HTML is logical for a person using screenreader - screen readers interact with the HTML, not CSS. Is the flow, layout and sequence of content  when viewed as unstyled HTML coherent and sensible?
 
+Buttons vs &lt;a&gt; links - are they being used appropriately? A button is for performing an in-site action, a link is to redirect user,
+
 #### Covered using automated tools
 
 WAVE, pa11y, HTML CodeSniffer \(These were chosen based on the data in this table: [https://alphagov.github.io/accessibility-tool-audit/index.html](https://alphagov.github.io/accessibility-tool-audit/index.html)\)
