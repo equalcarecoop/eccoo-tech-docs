@@ -37,7 +37,7 @@ To be defined, but at least the following:
 
 #### Iframe
 
-* Set to enables
+* Set to enabled
 * Iframe URL - https://&lt;platform url&gt;/messages/sso
 * API URL - https://&lt;platform url&gt;/messages/sso
 * API Method - POST
