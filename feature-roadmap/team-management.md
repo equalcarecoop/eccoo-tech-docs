@@ -19,10 +19,14 @@ There are three parts to team formation:
 In each case, this is a two-part activity, either invite-accept \(initiated by the person getting support\), or request-approve \(initiated by the person giving support\).
 
 1. The system **must** present lists of pending invitations and requests to all relevant parties, enabling acceptance / approval as appropriate.
+2. 3. The system **should** notify the all parties via direct message of changes in state.
+4. The system **should** keep Rocket Chat team membership aligned to the confirmed team members.
+
+### Assumptions
+
+1. No time limitations on request
 2. The system **will** only allow a person getting support or their advocate \(albeit that in reality this is being 'faked' by current users given lack of a specific arranging support hat\) to approve requests.
 3. The system **will** only allow a person giving support to accept their own invitations.
-4. The system **should** notify the all parties via direct message of changes in state.
-5. The system **should** keep Rocket Chat team membership aligned to the confirmed team members.
 
 ## Use cases
 
@@ -98,14 +102,20 @@ Team arranger is the team owner \(person getting support\) or the person arrangi
 
 #### Preconditions
 
-
+* A request has been made to join a team
 
 #### Steps
 
-
+1. System presents a list of requests to join their team
+2. Team Arranger selects a request for detailed review
+3. System displays the summary details of the request, including information about the Person Giving Support
+4. Team Arranger approves the request
+5. System confirms that the request has been approved
 
 #### Postconditions
 
+* System has added the Person Giving Support to the team
+* 
 
 
 
