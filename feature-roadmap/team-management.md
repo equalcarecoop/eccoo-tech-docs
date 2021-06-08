@@ -139,6 +139,26 @@ Team arranger is the team owner \(person getting support\) or the person arrangi
 * System has added the Person Giving Support to the team
 * Person Giving Support has been notified of the outcome of their request
 
+## Sequence Diagrams
+
+### Invite new team member
+
+![Invite new team member sequence diagram](../.gitbook/assets/invite-team-member.png)
+
+### Accept team invitation
+
+![Accept team invitation sequence diagram](../.gitbook/assets/accept-team-invitation.png)
+
+## Implementation notes
+
+Should make use of events for notifications and other asynchronous activities \(such as adding users to a team\). See [https://docs.nestjs.com/techniques/events](https://docs.nestjs.com/techniques/events) for details. Propose that the event is `notify.user`. Payload includes userid, message, link.
+
+We might also want to consider the backend application employing a CQRS pattern. See [https://docs.nestjs.com/recipes/cqrs](https://docs.nestjs.com/recipes/cqrs) for more info.
+
+
+
+
+
 
 
 
