@@ -139,6 +139,10 @@ Team arranger is the team owner \(person getting support\) or the person arrangi
 * System has added the Person Giving Support to the team
 * Person Giving Support has been notified of the outcome of their request
 
+## Additional Wireframe Sketches
+
+
+
 ## Sequence Diagrams
 
 ### Invite new team member
