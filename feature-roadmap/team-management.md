@@ -19,8 +19,8 @@ There are three parts to team formation:
 In each case, this is a two-part activity, either invite-accept \(initiated by the person getting support\), or request-approve \(initiated by the person giving support\).
 
 1. The system **must** present lists of pending invitations and requests to all relevant parties, enabling acceptance / approval as appropriate.
-2. 3. The system **should** notify the all parties via direct message of changes in state.
-4. The system **should** keep Rocket Chat team membership aligned to the confirmed team members.
+2. The system **should** notify the all parties via direct message of changes in state.
+3. The system **should** keep Rocket Chat team membership aligned to the confirmed team members.
 
 ### Assumptions
 
