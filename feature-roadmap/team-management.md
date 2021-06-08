@@ -76,9 +76,35 @@ Team arranger is the team owner \(person getting support\) or the person arrangi
 
 ### Person giving support requests access to join an existing team
 
+#### Preconditions
+
+* A team exists
+* Person Giving Support has been granted hat
+
+#### Steps
+
+1. System presents a search form for teams
+2. Person Giving Support searches for a team by team owner name
+3. System presents a list of matching teams
+4. Person Giving Support selects the team they wish to join
+5. System confirms that the request has been made
+
+#### Postconditions
+
+* System has created a record of the request to join a team
+* The team owner / arranger has been notified of the request
+
 ### Team arranger approves request to join a team
 
+#### Preconditions
 
+
+
+#### Steps
+
+
+
+#### Postconditions
 
 
 
