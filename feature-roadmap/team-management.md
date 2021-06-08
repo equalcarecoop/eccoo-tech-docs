@@ -34,6 +34,27 @@ In each case, this is a two-part activity, either invite-accept \(initiated by t
 The use cases below assume that invitations/requests are either accepted/approved or ignored. The sunny-day scenario is the only one presented. Logically, there may also be alternative scenarios which enable declined/rejected outcomes.
 {% endhint %}
 
+### &lt;SOMEONE&gt; approves a hat request
+
+#### Preconditions
+
+* A hat request exists in the system
+* A profile has been 'completed' \(for some definition of complete - TBD\) for the person requesting the hat
+* Someone has a suitable level of permissions to grant hat requests within the system
+
+#### Steps
+
+1. The system presents a \(filtered???\) list of pending hat requests
+2. &lt;SOMEONE&gt; selects one of them
+3. The System presents the appropriate profile for the hat request
+4. &lt;SOMEONE&gt; approves the hat request
+5. The system notifies &lt;SOMEONE&gt; that the hat request has been approved
+
+#### Postconditions
+
+* The hat request has been granted
+* The person requesting the hat is notified of the hat grant
+
 ### Team arranger adds a new person giving support to the team
 
 Team arranger is the team owner \(person getting support\) or the person arranging support on their behalf.
@@ -115,7 +136,8 @@ Team arranger is the team owner \(person getting support\) or the person arrangi
 #### Postconditions
 
 * System has added the Person Giving Support to the team
-* 
+* Person Giving Support has been notified of the outcome of their request
+
 
 
 
