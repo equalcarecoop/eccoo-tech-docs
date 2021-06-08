@@ -21,7 +21,7 @@ In each case, this is a two-part activity, either invite-accept \(initiated by t
 1. The system **must** present lists of pending invitations and requests to all relevant parties, enabling acceptance / approval as appropriate.
 2. The system **will** only allow a person getting support or their advocate \(albeit that in reality this is being 'faked' by current users given lack of a specific arranging support hat\) to approve requests.
 3. The system **will** only allow a person giving support to accept their own invitations.
-4. The system **should** notify the all parties via direct message of changes instate.
+4. The system **should** notify the all parties via direct message of changes in state.
 5. The system **should** keep Rocket Chat team membership aligned to the confirmed team members.
 
 ## Use cases
@@ -74,7 +74,7 @@ Team arranger is the team owner \(person getting support\) or the person arrangi
 * Team members can see one another's profiles on the team page
 * Team Arranger is notified that invitation has been accepted
 
-### Person giving support requests access to join an exising team
+### Person giving support requests access to join an existing team
 
 ### Team arranger approves request to join a team
 
