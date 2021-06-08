@@ -53,6 +53,7 @@ The use cases below assume that invitations/requests are either accepted/approve
 #### Postconditions
 
 * The hat request has been granted
+* The system allocates the hat to the person
 * The person requesting the hat is notified of the hat grant
 
 ### Team arranger adds a new person giving support to the team
