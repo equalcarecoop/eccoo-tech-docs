@@ -153,6 +153,9 @@ Team arranger is the team owner \(person getting support\) or the person arrangi
 
 ![Accept team invitation sequence diagram](../.gitbook/assets/accept-team-invitation.png)
 
+* [ ] "Display invitation details" should show a short summary profile of the person making the invite. 
+* [ ] Add in the ability to see a list of all team members \(and full profiles\) once the approval to join the team has completed. 
+
 ## Implementation notes
 
 Should make use of events for notifications and other asynchronous activities \(such as adding users to a team\). See [https://docs.nestjs.com/techniques/events](https://docs.nestjs.com/techniques/events) for details. Propose that the event is `notify.user`. Payload includes userid, message, link.
