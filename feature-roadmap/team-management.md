@@ -58,7 +58,12 @@ The use cases below assume that invitations/requests are either accepted/approve
 
 ### Team arranger adds a new person giving support to the team
 
-Team arranger is the team owner \(person getting support\) or the person arranging support on their behalf.
+Team members that are authorised to add a team member are: 
+
+* Team owner \(person getting support\) 
+* Family member 
+* Equal Care Team Builder / Facilitator
+* Existing Team Member who has been given permission
 
 #### Preconditions
 
