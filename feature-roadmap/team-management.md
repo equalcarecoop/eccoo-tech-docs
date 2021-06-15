@@ -161,6 +161,7 @@ Team members that are authorised to add a team member are:
 * [ ] "Display invitation details" should show a short summary profile of the person making the invite. 
 * [ ] Add in the ability to see a list of all team members \(and full profiles\) once the approval to join the team has completed. 
 * [ ] "Summary support page" not "Profile landing page"
+* [ ] Refer to Hat Permissions doc - [https://docs.google.com/spreadsheets/d/1rdZXrx92LIvPUbM0\_6y9wOeGqIGDHpN85LeFyqyDcHs/edit\#gid=0](https://docs.google.com/spreadsheets/d/1rdZXrx92LIvPUbM0_6y9wOeGqIGDHpN85LeFyqyDcHs/edit#gid=0)
 
 ## Implementation notes
 
