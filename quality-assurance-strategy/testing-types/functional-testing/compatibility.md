@@ -29,8 +29,9 @@ Screenreader performance is influenced by the browser. It would take a lot of ti
 - NVDA with Firefox and Chrome  
 - VoiceOver with Safari
 
-  
-  
+####  Resources
+
+WebAIM screenreader survey: [https://webaim.org/projects/screenreadersurvey7/](https://webaim.org/projects/screenreadersurvey7/)  
   
 
 
