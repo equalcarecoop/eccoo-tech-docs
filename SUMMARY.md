@@ -46,6 +46,7 @@
   * [location matching spike](spikes/location-matching-spike.md)
   * [rocket chat api integration](spikes/rocket-chat-api-integration.md)
 * [detailed design](detailed-design/README.md)
+  * [role-based access control](detailed-design/role-based-access-control.md)
   * [change tracked data storage](detailed-design/change-tracked-data-storage.md)
   * [sign-up](detailed-design/sign-up.md)
 * [software engineering](software-engineering/README.md)
