@@ -70,7 +70,7 @@ Resources
 
 ### Neo4j
 
-
+This is a good introduction to Neo4j [https://www.youtube.com/c/neo4j/featured](https://www.youtube.com/c/neo4j/featured)
 
 ## CI / CD
 
