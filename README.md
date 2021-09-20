@@ -10,5 +10,5 @@ The purpose of the MVP is...
 
 ### Some points of language:
 
-For glossary stuff go [here ](https://policies.equalcare.coop/-LeSN56IfWNpY00mY12i/glossary)\(work in progress like everything else\). For more style and content stuff go [here ](https://policies.equalcare.coop/-LeSN56IfWNpY00mY12i/writing-policy/content)\(mostly aimed at policy-writing but we're going for a style that doesn't really care whether you're writing a policy or a blog or an email\).
+For glossary stuff go [here ](https://app.gitbook.com/@equalcare/s/policies/glossary)\(work in progress like everything else\). For more style and content stuff go [here ](https://policies.equalcare.coop/-LeSN56IfWNpY00mY12i/writing-policy/content)\(mostly aimed at policy-writing but we're going for a style that doesn't really care whether you're writing a policy or a blog or an email\).
 
