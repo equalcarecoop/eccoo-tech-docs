@@ -4,7 +4,7 @@ description: An introduction into the methodology we will be using going forward
 
 # development methodology
 
-#### Acceptance Test Drive Development
+#### Acceptance Test Driven Development
 
 #### What is ATDD?
 
