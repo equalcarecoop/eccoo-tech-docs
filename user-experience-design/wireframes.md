@@ -28,6 +28,8 @@ Richard
 1. Story: [https://docs.google.com/document/d/1KJmADGJSR1iA08vdCy-jK9oaZolIKSLLjrZcC4M\_8aw/edit?usp=sharing](https://docs.google.com/document/d/1KJmADGJSR1iA08vdCy-jK9oaZolIKSLLjrZcC4M_8aw/edit?usp=sharing)
 2. Wireframe: [https://xd.adobe.com/view/a939e614-4908-4bb1-6c4f-de00825fa125-df08/](https://xd.adobe.com/view/a939e614-4908-4bb1-6c4f-de00825fa125-df08/)
 
+**Password:** Eccoo123
+
 Ellie**:**
 
 1. Story: [https://docs.google.com/document/d/1psF3YgjYKucq6TFen7vybvqiY2Jd8yDXvI1VsBeQ-Nw/edit](https://docs.google.com/document/d/1psF3YgjYKucq6TFen7vybvqiY2Jd8yDXvI1VsBeQ-Nw/edit)
