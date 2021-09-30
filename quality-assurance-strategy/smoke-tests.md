@@ -113,9 +113,10 @@ Emergency contact details - name is free text field, phone must be 11 digits lon
 
 ## **Message people on rocket.chat**
 
-Sign in, then visit
+I use Equal Care to message other people in Equal Care.  
+Sign in, then click 'messages' in navbar.
 
-Join a channel for my team so that we can co-ordinate and organise the care and support for the team leader 
+If I am in a Team, a team member will invite me to join the channel for that team.
 
-Join public channels so that I can communicate with rest of Equal Care
+I should be automatically added to the open, public channels. These are called 'everyone', 'help'.
 
