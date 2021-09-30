@@ -103,13 +103,13 @@ This will make the button on the current page to move to either  'Hats you have'
 I can add and update my personal details by hovering the mouse over/tabbing to my name in the navigation bar, then selecting account.  
 Click edit to edit the form. I can edit my:
 
-Preferred name  
-Gender  
-DOB  
-Preferred phone number  
-Alternative phone number  
-Address  
-Emergency contact details \(name, phone number, email\)
+Preferred name - can enter letters and numbers  
+Gender - can enter letters and numbers  
+DOB - only numbers  
+Preferred phone number - must be 11 digits long and begin with 0  
+Alternative phone number - must be 11 digits long and begin with 0  
+Address - all free text fields  
+Emergency contact details - name is free text field, phone must be 11 digits long and start with 0, email must have 'characters@characters.validextension'
 
 ## **Message people on rocket.chat**
 
