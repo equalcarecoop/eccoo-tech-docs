@@ -10,7 +10,7 @@ Visit the home page.
 Click the 'Join up' link.  
 Enter the invitation code _HATSTAND_  
 Choose to either get support or give support  
-Enter a halifax postcode \(HX\_\_ \_\_\_\)
+Enter a Halifax postcode \(HX\_\_ \_\_\_\)
 
 Enter my account details:  
 1. First name  
@@ -21,14 +21,41 @@ Enter my account details:
 
 Visit my email and click the link.
 
-## **Login**
+## **Sign in**
 
-* **Can use email or username**
-* **Password is reset by email**
+Click 'login' in the navigation bar.  
+Enter username or email.  
+Enter password.  
+Click sign in.
 
-## **Create a getting-support** 
+## Reset password
 
-* **Share information about my care and support needs**
+Click 'login' in the navigation bar.  
+Click 'Forgot password?'  
+I will be taken to another page.  
+Enter username or email.  
+Open my email and click on the link within 5 minutes.  
+Enter new password.  
+Confirm new password.  
+Submit.  
+I will be logged in.
+
+## **Create a getting-support profile**
+
+I am sharing information about my care and support needs. I need to do this before I can get care through the platform. The profile is broken down into 8 small forms, each form has 1-4 questions:  
+  
+A bit about me - 1 free text box, 1 tickbox   
+What's important to you? - 1 free text box  
+Your physical and mental wellbeing - 2 tickboxes, 2 free text boxes  
+Your relationships and community - 2 free text boxes  
+Your surroundings - 1 multiple choice, 1 free text box  
+Support approach - 6 sliders on a scale of 1 to 5  
+My preferences for getting support - 1 free text box  
+Where support will take place - 3 checkboxes, 1 free textbox  
+  
+To save an answer I press 'save' or 'next'. 'Save' will close the form and return me to the profile overview page. 'Next' will save the answer and open the next form. 'Cancel' will close the form without saving. 
+
+
 
 ## **Create a giving-support profile**
 
