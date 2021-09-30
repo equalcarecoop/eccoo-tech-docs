@@ -84,8 +84,26 @@ My preferences - 1 free text box
 Supporting you - 1 free text box  
 Travel, money and time - 1 multiple choice, 3 that require a number as an answer, 2 free text boxes  
   
+
+
+## Request another hat
+
+I can request another hat by hovering the mouse over/tabbing over to my name in the navigation bar, then selecting account.  
   
 
+
+## Account details
+
+I can add and update my person details hovering the mouse over/tabbing over to my name in the navigation bar, then selecting account.  
+Click edit to edit the form. I can edit my:
+
+Preferred name  
+Gender  
+DOB  
+Preferred phone number  
+Alternative phone number  
+Address  
+Emergency contact details \(name, phone number, email\)
 
 ## **Message people on rocket.chat**
 
