@@ -88,13 +88,19 @@ Travel, money and time - 1 multiple choice, 3 that require a number as an answer
 
 ## Request another hat
 
-I can request another hat by hovering the mouse over/tabbing over to my name in the navigation bar, then selecting account.  
+I can request another hat by hovering the mouse over/tabbing to my name in the navigation bar, then selecting 'account'.   
+On the next page, click 'hats'.  
+In the table titled 'Your hats and the option to acquire some more', I can see which hats are available to me.  
+I request a hat by clicking on the correct button in the 'Available hats' column.  
+This button will move to the request hats column.  
+An admin will then approve or decline my hat request.  
+This will make the button on the current page to move to either  'Hats you have' or 'Available hats'.  
   
 
 
 ## Account details
 
-I can add and update my person details hovering the mouse over/tabbing over to my name in the navigation bar, then selecting account.  
+I can add and update my personal details by hovering the mouse over/tabbing to my name in the navigation bar, then selecting account.  
 Click edit to edit the form. I can edit my:
 
 Preferred name  
