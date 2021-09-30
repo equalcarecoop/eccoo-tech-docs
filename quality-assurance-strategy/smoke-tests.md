@@ -59,7 +59,21 @@ To save an answer I press 'save' or 'next'. 'Save' will close the form and retur
 
 ## **Create a giving-support profile**
 
-* **Share information about my skills, experience and knowledge of giving care.** 
+Sharing information about my skills, knowledge, experience and hourly rate. I need to do this before I can be considered to give care through the platform. There are 12 sections to this profile, each form has 1-6 questions:  
+  
+Introduce yourself - 1 free text box  
+Your experience - 1 multiple choice, 1 free text  
+Areas of expertise - 1 multiple choice  
+Your qualifications and training - 3 fields to submit details about qualifications. No limit on how many qualifications can be added.  
+Physical and mental wellbeing - 1 multiple choice, 1 free text box  
+Relationships and community - 1 multiple choice, 1 free text box  
+Surroundings - 1 multiple choice, 1 free text box  
+What's important to you - 1 free text box  
+Your approach to support - 6 sliders on a scale of 1 to 5  
+My preferences - 1 free text box  
+Supporting you - 1 free text box  
+Travel, money and time - 1 multiple choice, 3 that require a number as an answer, 2 free text boxes  
+
 
 ## **Message people on rocket.chat**
 
