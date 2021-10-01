@@ -67,6 +67,8 @@ Where support will take place - 3 checkboxes, 1 free textbox
 
 ## **Create a giving support profile**
 
+I can only do this if I have requested and been granted a giving support hat.
+
 Sign in, under the heading 'Support you give', click 'Go to your profile'.  
   
 Sharing information about my skills, knowledge, experience and hourly rate. I need to do this before I can be considered to give care through the platform. There are 12 sections to this profile, each form has 1-6 questions:  
