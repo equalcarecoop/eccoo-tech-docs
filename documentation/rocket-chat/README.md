@@ -37,6 +37,8 @@ To be defined, but at least the following:
 
 #### Iframe
 
+Iframe settings currently disabled, but would be...
+
 * Set to enabled
 * Iframe URL - https://&lt;platform url&gt;/messages/sso
 * API URL - https://&lt;platform url&gt;/messages/sso
@@ -61,25 +63,7 @@ NB This should probably be tightened up
 
 #### Custom CSS
 
-Add the following custom CSS
-
-```css
-@import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
-
-:root {
-  --rcx-font-family-sans: 'Public Sans',Helvetica,Arial,sans-serif;
-}
-
-html {
-  font-size: 20px;
-}
-
-iframe {
-  background: white;
-}
-```
-
-NB More to come on this
+Can be found in [this repo](https://gitlab.com/eccoo-platform/common/rocketchat-css).
 
 ### Message
 
@@ -104,7 +88,7 @@ Create a new Custom OAuth Provider with the folliowing settings:
 | Param Name for access\_token | access\_token |
 | Id | web |
 | Secret | &lt;OAuth secret&gt; |
-| Login style | Redirect |
+| Login style | Popup |
 | Key Field | Email |
 | Email field | email |
 | Name field | nickname |
