@@ -61,7 +61,25 @@ NB This should probably be tightened up
 
 #### Custom CSS
 
-Can be found in [this repo](https://gitlab.com/eccoo-platform/common/rocketchat-css).
+Add the following custom CSS
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
+
+:root {
+  --rcx-font-family-sans: 'Public Sans',Helvetica,Arial,sans-serif;
+}
+
+html {
+  font-size: 20px;
+}
+
+iframe {
+  background: white;
+}
+```
+
+NB More to come on this
 
 ### Message
 
