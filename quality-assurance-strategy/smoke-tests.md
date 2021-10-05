@@ -121,14 +121,58 @@ Emergency contact details - name is free text field, phone must be 11 digits lon
 
 I can view links to relevant Equal Care policies by hovering the mouse over/tabbing to my name in the navigation bar, then selecting account. Click Policies and from here it is possible to follow links to the whole policies site or specific policies sections. All links open in a new tab.
 
-## **Message people on rocket.chat**
+## **Rocket Chat in a web  browser**
 
-I use Equal Care to message other people in Equal Care.  
+I can use Rocket Chat on the Equal Care website to message other people in Equal Care.  
+  
+Visit the Equal Care website.  
 Sign in, then click 'Messages' in navbar.
 
 If I am in a Team, a team member will invite me to join the channel for that team.
 
 I should be automatically added to the open, public channels. These are called 'everyone', 'help'.
+
+## Rocket Chat app
+
+I can use the Rocket.Chat app to message people on my mobile, tablet or computer.  
+I need to have created an account on [Equal Care's platform](https://beta.equalcare.coop) before I can do this. 
+
+### Device requirements
+
+To use the app my device needs to meet these requirements:  
+  
+iPhones need to be on iOS 11 or above  
+Android phones need to be on Android 6.0 or above.  
+  
+macOS computers need to be on OS X 11.0 or above.  
+Windows computers need to be on Windows 8 or above.
+
+### Using it
+
+Download the Rocket Chat app from the app store on my device.  
+Apple's app store is called 'App Store'.  
+Google's app store is called 'Google Play'.
+
+Install the app.
+
+Open the app.  
+I need to enter the following internet address to join Equal Care's Rocket Chat space:  
+[https://chat.equalcare.coop](https://chat.equalcare.coop)  
+  
+Press login.  
+Continue with Login with Equal Care ID  
+  
+Login using my Equal Care account username and password.  
+  
+After logging in I will be taken to a view of all of the chats , groups and channels that I am a member of.  
+  
+I can open a chat, by clicking/tapping on it.  
+  
+There is a text box at the bottom of the chat where I can type a message.  
+  
+  
+  
+
 
 ## Admin
 
