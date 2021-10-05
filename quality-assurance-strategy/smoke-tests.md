@@ -171,7 +171,7 @@ I can open a chat, by clicking/tapping on it.
 There is a text box at the bottom of the chat where I can type a message.  
   
   
-  
+There is also a review of the first team's use of Rocket Chat here - [https://app.gitbook.com/@equalcare/s/platform/detailed-design/rocket-chat-review](https://app.gitbook.com/@equalcare/s/platform/detailed-design/rocket-chat-review) which may be a useful model for future teams.  
 
 
 ## Admin
@@ -187,7 +187,16 @@ Click on 'View profile' to see full profile information for the hat request. The
   
 All profile section titles will be visible even if no information has yet been added. If compulsory information has not yet been completed, this will be displayed in red with the text 'This has not yet been completed by the user. For optional information, this will be displayed in black with the text "Optional information not added'.  
   
-An action box will allow the admin user to grant or decline the hat request. Once a hat has been granted or declined, the admin user will automatically return to the paginated list of hat requests.  
-  
+An action box will allow the admin user to grant or decline the hat request. Once a hat has been granted or declined, the admin user will automatically return to the paginated list of hat requests.
+
+## Sign out
+
+I need to be signed in before I can sign out.
+
+My name will be at the top right corner of the screen if I am logged in. 
+
+To logout I tap/hover my mouse over my name. A menu will appear.
+
+Tap/click sign out.  
 
 
