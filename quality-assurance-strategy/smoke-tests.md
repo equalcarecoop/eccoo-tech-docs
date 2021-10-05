@@ -197,6 +197,15 @@ My name will be at the top right corner of the screen if I am logged in.
 
 To logout I tap/hover my mouse over my name. A menu will appear.
 
-Tap/click sign out.  
+Tap/click sign out.
 
+## Static Pages when signed out
+
+### About Us
+
+lorem
+
+### Home page
+
+a couple of buttons
 
