@@ -126,3 +126,11 @@ Set the following OAuth Group Channel Map
 
 To Document passing roles from keycloak and mapping to 
 
+## Notification Channels
+
+We need to set up some standard channels that act as notification hubs:
+
+`notify-hat-requests`
+
+For each of these newly created channels, invite Discobot. Then configure the relevant environment variable to point to the channel name.
+
