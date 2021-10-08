@@ -60,6 +60,7 @@
   * [deployment processes](software-engineering/deployment-processes.md)
   * [environment management](software-engineering/environment-management.md)
   * [frameworks, technologies and services](software-engineering/frameworks-technologies-and-services.md)
+  * [getting started](software-engineering/getting-started.md)
 * [technical infrastructure](infrastructure-documentation/README.md)
   * [sizing and costing](infrastructure-documentation/sizing-and-costing.md)
   * [cloud configuration](infrastructure-documentation/cloud-configuration.md)
