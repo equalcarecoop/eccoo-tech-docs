@@ -21,18 +21,18 @@
 
 This release includes integration with a vanilla instance of Rocket Chat, which has some of the styling that Austin worked on applied via a supported Rocket Chat mechanism. The approach that we trialled with Austin would have likely resulted in a maintenance overhead, and significant version drift from the latest Rocket Chat.
 
-Users log in with their EqualCare identities \(i.e. keycloak identities\) and are allocated RC roles based on groups set up in Keycloak. At the moment, this is limited to Emma and Giles being admins, but we can broaden this out to as many roles as we need within RC. Discussion required around this.
+Users log in with their EqualCare identities (i.e. keycloak identities) and are allocated RC roles based on groups set up in Keycloak. At the moment, this is limited to Emma and Giles being admins, but we can broaden this out to as many roles as we need within RC. Discussion required around this.
 
-In this release, no channels are automatically created. This would be a useful spike to look at \(Create channels for team chat and manage user membership of the channel\). There is a question over automation vs manual management of groups. I suspect this will end up being a hybrid model.
+In this release, no channels are automatically created. This would be a useful spike to look at (Create channels for team chat and manage user membership of the channel). There is a question over automation vs manual management of groups. I suspect this will end up being a hybrid model.
 
 #### Known Defects
 
-* Rocket Chat mobile app \(iOS / Android\) is not yet working. This appears to be a known issue that has been solved by some people implementing. Investigations continue.
-* ~~Rocket Chat can under certain circumstances show the messages of a previously logged in user. This will only occur if the current user is on the same physical device using the same browser as the previous user.~~ **Fixed**
+* Rocket Chat mobile app (iOS / Android) is not yet working. This appears to be a known issue that has been solved by some people implementing. Investigations continue.
+* ~~Rocket Chat can under certain circumstances show the messages of a previously logged in user. This will only occur if the current user is on the same physical device using the same browser as the previous user.~~** Fixed**
 
 ### Change log for ui-v1 since v0.32.6
 
-```text
+```
 09f1d55 fix handling rates rounding on new profile
 a0170e3 fix:handling of rates in view when none entered
 acc423f fix error on rates plus move cancel button into update account form
@@ -60,13 +60,12 @@ d7a2ca8 fix:update guidance with links
 
 ### Change log for graph-api since v0.31.0
 
-```text
-
+```
 ```
 
 ### Change log for identity-access since v0.10.1
 
-```text
+```
 80ecaf6 0.11.2
 a459ecf fix:layout of hyphen on register page
 e3d90c0 0.11.1
@@ -80,7 +79,7 @@ c74a22d chore:sign in options increase font size
 
 ## 2021-04-27
 
-```text
+```
   2020-04-27:
     keycloak:  v0.10.1
     graph_api: v0.31.0
@@ -103,7 +102,7 @@ c74a22d chore:sign in options increase font size
 
 ### Change log for ui-v1 since v0.24.2
 
-```text
+```
 9770a20 0.32.6
 f9c7802 chore: adding back ght actual build step
 2223ea9 0.32.5
@@ -334,7 +333,7 @@ fe2aff8 fix:correct classes so input editable in mid size
 
 ### Change log for graph-api since v0.25.1
 
-```text
+```
 6612bb3 Add travel money time fields
 f3bad23 fix:quallifcation date acheived can be nullable
 f1360c8 feat:travel money time additional fields
@@ -362,7 +361,7 @@ db51faa feat: alternative phone number
 
 ### Change log for identity-access since v0.10.0
 
-```text
+```
 976b3ba chore:copy changes for login pages
 c74a22d chore:sign in options increase font size
 4a3993d Copy for register and log in
@@ -372,7 +371,7 @@ e4ef123 chore: switch from gulp-sass
 
 ## 2021-03-12-1
 
-```text
+```
   2020-03-12-1:
     keycloak:  v0.10.0
     graph_api: v0.25.1
@@ -384,14 +383,14 @@ e4ef123 chore: switch from gulp-sass
 * Fix error handling to only display errors from the page
 * Styling fixes for overlapping on modal header, background circle images
 * Check postcode is correct format before submitting and report errors
-* Change checkbox entry to be only on pressing enter not on pressing tab, for accessibility reasons \([https://webaim.org/techniques/keyboard/](https://webaim.org/techniques/keyboard/)\)
-* Limit preferred name to 50 characters \(to avoid exceeding keycloak character limits\)
+* Change checkbox entry to be only on pressing enter not on pressing tab, for accessibility reasons ([https://webaim.org/techniques/keyboard/](https://webaim.org/techniques/keyboard/))
+* Limit preferred name to 50 characters (to avoid exceeding keycloak character limits)
 
 
 
 ### Change log for ui-v1 since v0.24.0
 
-```text
+```
 1ef95a9 Merge branch 'fix/limit-preferred-name-input-for-keycloak' into 'master'
 76174f7 fix: use class-validator for max length
 5afac1f Merge branch 'fix/remove-tab-key-input-for-adding-check-box' into 'master'
@@ -419,7 +418,7 @@ b689951 feat: only display errors relevant to page
 
 ### Change log for graph-api since v0.25.0
 
-```text
+```
 832951b 0.25.1
 0cc94d5 fix: non-nullable preferences array cypher
 ```
@@ -428,7 +427,7 @@ b689951 feat: only display errors relevant to page
 
 ## 2021-03-11
 
-```text
+```
   2020-03-11:
     keycloak:  v0.10.0
     graph_api: v0.25.1
@@ -441,7 +440,7 @@ b689951 feat: only display errors relevant to page
 
 ### Change log for ui-v1 since v0.23.0
 
-```text
+```
 2860a21 0.24.0
 cc41346 Merge branch 'feat/add-new-checkbox-on-enter-or-tab' into 'master'
 8e044d3 Merge branch 'chore/snag-listing' into 'master'
@@ -460,14 +459,14 @@ c8bbeef chore: tidy i18n refs
 
 ### Change log for graph-api since v0.25.0
 
-```text
+```
 832951b 0.25.1
 0cc94d5 fix: non-nullable preferences array cypher
 ```
 
 ## 2021-03-04
 
-```text
+```
   2020-03-04:
     keycloak:  v0.10.0
     graph_api: v0.25.1
@@ -476,9 +475,9 @@ c8bbeef chore: tidy i18n refs
 
 ### Features
 
-* Error page \(custom for 404, with a default 'something went wrong'\)
+* Error page (custom for 404, with a default 'something went wrong')
 * Background blobs
-* Complete Giving Support edit pages \(preferences and what's on\)
+* Complete Giving Support edit pages (preferences and what's on)
 * Added modal template to more Giving Support edit pages
 
 ### Fixes
@@ -495,7 +494,7 @@ c8bbeef chore: tidy i18n refs
 
 #### ui-v1 since v0.21.0
 
-```text
+```
 808c529 0.22.0
 9700f2e chore: fix a broken test in profile editor
 a47860c Merge branch 'feature/background-shapes' into 'master'
@@ -536,14 +535,14 @@ c78ef8e chore: preferences revert to testingModuleFactory
 
 #### graph-api since v0.25.0
 
-```text
+```
 832951b 0.25.1
 0cc94d5 fix: non-nullable preferences array cypher
 ```
 
 #### Change log for graph-api since v0.24.0
 
-```text
+```
 832951b 0.25.1
 0cc94d5 fix: non-nullable preferences array cypher
 56bce3d 0.25.0
@@ -557,7 +556,7 @@ fe761a1 fix: remove incorrect gql mapping to cypher
 
 ## 2021-03-03
 
-```text
+```
   2020-03-03:
     keycloak:  v0.10.0
     graph_api: v0.24.2
@@ -567,7 +566,7 @@ fe761a1 fix: remove incorrect gql mapping to cypher
 ### Major Changes
 
 * Added Person / Relationships / Environment forms for both Giving and Getting support
-* Added invitation code and follow-up screens for sign-up \(both need reviewing\). Refactored the sign-up process to enforce valid code and covered postcode. \(It was previously possible to leap steps in the process. No longer!\)
+* Added invitation code and follow-up screens for sign-up (both need reviewing). Refactored the sign-up process to enforce valid code and covered postcode. (It was previously possible to leap steps in the process. No longer!)
 * Added field-level validation to Giving Support Travel Money Time page
 
 ### Minor fixes:
@@ -583,7 +582,7 @@ fe761a1 fix: remove incorrect gql mapping to cypher
 
 ### Sign-up script
 
-1. Visit [https://staging.equalcare.coop/](https://staging.equalcare.coop/)
+1. Visit [https://staging.equalcare.coop/](https://staging.equalcare.coop)
 2. Click on Join
 3. Enter the code 'HATSTAND'
 4. Select a hat
@@ -600,7 +599,7 @@ I currently suspect there is a defect whereby if you reach the follow-up screen 
 
 Output of `git log --branches=master --oneline v0.20.0..v0.21.0`
 
-```text
+```
 3cfd183 0.21.0
 c770030 chore: revert setting jest roots
 af8d044 chore: add validation to travel money time
@@ -639,7 +638,7 @@ b786ab3 Internationalization, further update to the sigup section
 
 Output of `git log --branches=master --oneline v0.24.0..v0.24.2`
 
-```text
+```
 90b191f 0.24.2
 fe761a1 fix: remove incorrect gql mapping to cypher
 2840a72 0.24.1
@@ -650,7 +649,7 @@ fe761a1 fix: remove incorrect gql mapping to cypher
 
 ## 2020-03-02
 
-```text
+```
   2020-03-02:
     keycloak:  v0.10.0
     graph_api: v0.24.0
@@ -667,9 +666,9 @@ fe761a1 fix: remove incorrect gql mapping to cypher
 
 ### Change log
 
-#### UI Log \(v0.19.0 -&gt; v0.20.0\)
+#### UI Log (v0.19.0 -> v0.20.0)
 
-```text
+```
 6ebf867 (HEAD -> master, tag: v0.20.0, origin/master) 0.20.0
 1ea77e5 chore: fixing husky
 938389e test: fix failures in sign-up test
@@ -714,13 +713,12 @@ ef6d6be fix: sequencing issues on proces
 b47da73 feature: getting support support times
 ```
 
-#### Graph \(v0.23.0 -&gt; v0.24.0\)
+#### Graph (v0.23.0 -> v0.24.0)
 
-```text
+```
 b4117e6 (HEAD -> master, tag: v0.24.0, origin/master) 0.24.0
 70c2c11 feature: add fields & mutations to Giving Support
 877a0ed chore: fix tests
 4d15b30 feature: add getting support needs to profile
 f21c70b feature: add support approach updater
 ```
-

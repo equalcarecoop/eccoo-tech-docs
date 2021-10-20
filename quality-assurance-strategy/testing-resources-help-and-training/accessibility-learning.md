@@ -8,9 +8,7 @@
 
 {% embed url="https://www.gov.uk/service-manual/helping-people-to-use-your-service/testing-for-accessibility" %}
 
-**Free Google Web Accessibility course:** 
+**Free Google Web Accessibility course: **
 
 {% embed url="https://www.udacity.com/course/web-accessibility--ud891" %}
-
-
 

@@ -2,32 +2,32 @@
 
 **Issue Types**
 
-* Bug \(a defect against expected behaviour\)
-* Change Request \(for a new feature\)
-* Question \(for a question\)
+* Bug (a defect against expected behaviour)
+* Change Request (for a new feature)
+* Question (for a question)
 
-  
+\
 **Summary**
 
 Add a quick summary that allows us to identify the bug easily
 
 Example: ‘Submit button not working’
 
-  
+\
 **Description**
 
 This needs to cover:
 
-* How the bug can be recreated with test steps \(ideally with GIVEN, WHEN, THEN scenarios\)
-* What the ‘desired behaviour’ is \(i.e. what should actually happen\)
-* What environment and device the bug occurred in \(URL, operating system, browser version\)
+* How the bug can be recreated with test steps (ideally with GIVEN, WHEN, THEN scenarios)
+* What the ‘desired behaviour’ is (i.e. what should actually happen)
+* What environment and device the bug occurred in (URL, operating system, browser version)
 * Any screenshots or video recordings that can help reproduce or identify the issue easily
 
-Example: 
+Example:&#x20;
 
-‘On the homepage under the signup for newsletter section the button is not working’. 
+‘On the homepage under the signup for newsletter section the button is not working’.&#x20;
 
-A user can enter their email address in the field but when the submit button is clicked there is no response message and they are not added to the newsletter list in Mailchimp. 
+A user can enter their email address in the field but when the submit button is clicked there is no response message and they are not added to the newsletter list in Mailchimp.&#x20;
 
 Steps to reproduce:
 
@@ -36,14 +36,12 @@ Steps to reproduce:
 * WHEN I click submit on the newsletter sign up
 * THEN no action occurs
 
-\[Screenshot\]
+\[Screenshot]
 
-Expected functionality: The button should submit with a ‘thank you’ response message being displayed and the user being added to the Mailchimp list. 
+Expected functionality: The button should submit with a ‘thank you’ response message being displayed and the user being added to the Mailchimp list.&#x20;
 
-Tested on: \[URL\]
+Tested on: \[URL]
 
-Device: \[Windows 10 / Chrome Version X’\]
+Device: \[Windows 10 / Chrome Version X’]
 
-Priority: High, medium or low in accordance with the defined priority levels/.  
-
-
+Priority: High, medium or low in accordance with the defined priority levels/.\
