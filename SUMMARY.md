@@ -71,6 +71,7 @@
 * [user experience design](user-experience-design/README.md)
   * [user journeys](user-experience-design/user-journeys/README.md)
     * [sign-up & first team](user-experience-design/user-journeys/sign-up-and-first-team.md)
+    * [ease](user-experience-design/user-journeys/ease.md)
   * [platform design](user-experience-design/platform-design.md)
   * [wireframes](user-experience-design/wireframes.md)
   * [look & feel](user-experience-design/look-and-feel.md)
