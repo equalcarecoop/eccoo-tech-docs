@@ -1,4 +1,8 @@
-# ease
+---
+description: making it easy
+---
+
+# co-ordination
 
 0\.       Pre-match, the customer can ask for a free targeted advocacy service. This is for people who have had a support package approved and would like to receive support from eccoo but are experiencing delays in implementation. Some common issues are: not getting their personal budget through in time, providers being slow to respond and get them support, social worker not contactable or not assigned. This service includes:
 
