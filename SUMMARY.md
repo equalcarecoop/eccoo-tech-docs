@@ -69,6 +69,8 @@
   * [domain name service](infrastructure-documentation/domain-name-service.md)
   * [data restoration test](infrastructure-documentation/data-restoration-test.md)
 * [user experience design](user-experience-design/README.md)
+  * [user journeys](user-experience-design/user-journeys/README.md)
+    * [sign-up & first team](user-experience-design/user-journeys/sign-up-and-first-team.md)
   * [platform design](user-experience-design/platform-design.md)
   * [wireframes](user-experience-design/wireframes.md)
   * [look & feel](user-experience-design/look-and-feel.md)
@@ -122,4 +124,3 @@
   * [AWS environment](documentation/aws-environment.md)
   * [rocket chat](documentation/rocket-chat/README.md)
     * [Rocket Chat User Guide](documentation/rocket-chat/rocket-chat-user-guide.md)
-
