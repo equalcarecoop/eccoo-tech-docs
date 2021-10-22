@@ -23,19 +23,19 @@ Jane:
 1. Story: [https://docs.google.com/document/d/15JL0sEo1at3whbBYxZvLQooSEyG9YmxAQpwNzXK2Hs8/edit#](https://docs.google.com/document/d/15JL0sEo1at3whbBYxZvLQooSEyG9YmxAQpwNzXK2Hs8/edit#)
 2. Wireframe: [https://xd.adobe.com/view/6d34c9a8-bd59-4541-a977-3f07db76d9bb-3867/](https://xd.adobe.com/view/6d34c9a8-bd59-4541-a977-3f07db76d9bb-3867/)
 
-Richard
+[Richard](user-research/arranging-support/richard.md)
 
 1. Story: [https://docs.google.com/document/d/1KJmADGJSR1iA08vdCy-jK9oaZolIKSLLjrZcC4M\_8aw/edit?usp=sharing](https://docs.google.com/document/d/1KJmADGJSR1iA08vdCy-jK9oaZolIKSLLjrZcC4M\_8aw/edit?usp=sharing)
 2. Wireframe: [https://xd.adobe.com/view/a939e614-4908-4bb1-6c4f-de00825fa125-df08/](https://xd.adobe.com/view/a939e614-4908-4bb1-6c4f-de00825fa125-df08/)
 
 **Password:** Eccoo123
 
-Ellie**:**
+[Ellie](user-research/giving-support/ellie.md)**:**
 
 1. Story: [https://docs.google.com/document/d/1psF3YgjYKucq6TFen7vybvqiY2Jd8yDXvI1VsBeQ-Nw/edit](https://docs.google.com/document/d/1psF3YgjYKucq6TFen7vybvqiY2Jd8yDXvI1VsBeQ-Nw/edit)
 2. Wireframe: [https://xd.adobe.com/view/ec9d1b78-fdba-4a36-be2d-f1d242543e87-b9ce/](https://xd.adobe.com/view/ec9d1b78-fdba-4a36-be2d-f1d242543e87-b9ce/)
 
-Caroline:
+[Caroline](user-research/getting-support/caroline.md):
 
 1. Story: [https://docs.google.com/document/d/1KJRGusOY0NPfFUv7Pe8r1B2t7a1FXiEgo6vCwpR6lSU/edit](https://docs.google.com/document/d/1KJRGusOY0NPfFUv7Pe8r1B2t7a1FXiEgo6vCwpR6lSU/edit)
 2. Wireframe: [https://xd.adobe.com/view/73192100-d808-42d4-8c1a-dcf3f767aad4-264a/](https://xd.adobe.com/view/73192100-d808-42d4-8c1a-dcf3f767aad4-264a/)
