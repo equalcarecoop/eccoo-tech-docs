@@ -100,7 +100,7 @@ a.       Up to 90 minutes (tbc) of advocacy time where your advocate can:
 
 2.11.1.     Outline diagram describing how team networks interface with geographies
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 2.11.2.     Structure diagram showing how workers group and the function of each grouping (condition-specific, geography, person, buddying/support/mentoring)
 

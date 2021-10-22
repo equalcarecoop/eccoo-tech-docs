@@ -1,0 +1,26 @@
+# Nina
+
+![](<../../../.gitbook/assets/image (13).png>)
+
+**Screening Question**: How long have you been working in the care sector and what qualifications do you have? \[Less than one year & in training/ just qualified]
+
+> "You only find out if you did something wrong."
+
+Nina is 19 years old. Her little brother has cerebral palsy and she grew up caring for him with her parents. She is very familiar with how the system works and is acutely aware that, without a supportive, loving family to keep life active and fun, her little brother would be in a very difficult place. She’s seen how other people at his school have had a much harder time of it, struggling to make ends meet and live a full life despite the disease.
+
+Nina works with a domiciliary care agency as well as with a few private clients. The agency is training her in basic skills and she’s been with them for four months. Nina has aspirations for her career in care. She is currently working toward her QCF level 1 in Health and Social Care and intends to train up to Level 4, yet she doesn’t want to go into management. She knows she needs to specialise if she’s going to keep working directly with people but isn’t yet sure where her passion lies. She’s decided she’s okay to work near minimum wage for the next couple of years to build her experience but wants to have a family at some point and knows she needs to earn more to be comfortable. She has seen at the agency that lots of people with much more experience than she has are still earning very low wages and she has learnt how much of a struggle it is for them. It is shaking her belief in her own abilities and potential to succeed. She's gradually realising that many of the expectations she had when starting a care work job are not proving true and that she won't be given the time and resources to train or specialise in anything.&#x20;
+
+
+
+|            |                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Thinks** | I may not ever earn enough to support a family and buy a house if people with five or ten years’ experience are only earning £1 more than I am per hour.                                                                                                                                                                                                                                                     |
+| **Sees**   | I see people who need more care and support than they’re getting but who are mostly extremely grateful for what little they can get. I see care workers who are more distracted by their own problems and don’t focus on the job in hand.                                                                                                                                                                    |
+| **Feels**  | I have a core of self-belief which convinces me that I won’t end up in the position of my colleagues, but I don’t see a clear path ahead to succeed in care – not unless I go into management or into the NHS. My hours of work are very complicated and confusing – I’m scared I’m doing something wrong and I don’t know what to do about tax (though I feel resentful about it because I make so little). |
+| **Does**   | I’m earning £7.54 an hour when I’m working with clients. I earn a bit more with my private clients - £9 an hour. My day is very long, but very varied.                                                                                                                                                                                                                                                       |
+
+
+
+| **Problem Scenarios**                                                  | **Current Alternatives**                                                                                                                                                               | **Our Value Proposition**                         |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| I am earning at the bottom of the wage scale for a very demanding job. | <p>Change career or train as a specialist of some sort.</p><p>Get into management.</p><p>Work more hours.</p><p>Get into the NHS</p><p>Become self-employed and charge by the hour</p> | Increased wages and opportunities for progression |
