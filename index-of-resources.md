@@ -24,6 +24,8 @@ Go [here ](https://docs.google.com/document/d/1SaPSm7ZLzQv49kBITnWD4nbz6F\_t6tDu
 
 Go [here ](https://drive.google.com/drive/u/0/folders/1055C-Q4I64HHKNF\_zdudDI1YeCmkvfib)for some work we did with a service design consultant.
 
+Go [here ](https://lucid.app/lucidchart/ef887418-99b4-4541-a885-c348895a5bbc/edit?viewport\_loc=-546%2C-179%2C2953%2C1243%2C0\_0\&invitationId=inv\_3eac2d9b-39f5-46f1-b80c-e236ebc56021)for how the platform would interact with a block contracted service.
+
 #### Current practice relevant to the platform (templates / docs)
 
 [Supportive Conversation](https://docs.google.com/document/d/1PMQ9tpiGxX70VVuu2LcRCtRNAGKEQiAiOQz5aaHZzOc/edit?usp=sharing) template
@@ -44,7 +46,7 @@ All the above are located in the[ template gallery](https://docs.google.com/docu
 
 #### Business Plan
 
-[This contains](https://plan.equalcare.coop) a lot of our personas and user journeys. It should really be in this gitbook but it's a pain to transfer. If you have gitbook access you'll be able to see the plan.
+[This contains](https://plan.equalcare.coop) all the things you might expect a business plan to have.
 
 #### Policies
 
@@ -88,6 +90,10 @@ He's a work that shall forever be in progress.
 [Safeguarding ](https://www.lucidchart.com/invitations/accept/f6b3d75d-8702-440a-a7fa-6a7a15876e8c)flowchart, also in policy site as static image (LucidChart)
 
 [Learner to teacher](https://www.lucidchart.com/invitations/accept/eae36d4b-536a-4198-bfd1-9c32555eeeac) flowchart, also in policy site as static image (learning)
+
+[Circle Structure ](https://lucid.app/lucidchart/2024e908-f117-47b8-97fc-92cf161b6f35/edit?invitationId=inv\_59193312-b267-4d50-8b6b-db16703cb888)for how the operational and shared circles interact plus teams.
+
+[Teams and Circles ](https://lucid.app/lucidchart/6bbd9ded-7f03-48ca-a92b-b9f59d8396e7/edit?viewport\_loc=-102%2C344%2C2285%2C962%2C0\_0\&invitationId=inv\_50931018-ea92-4a63-95ec-7cc8ed967bd7)more details of the relationship between Circles and Teams.
 
 ### Asana
 
