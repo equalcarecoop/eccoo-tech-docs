@@ -68,6 +68,7 @@
   * [email service](infrastructure-documentation/email-service.md)
   * [domain name service](infrastructure-documentation/domain-name-service.md)
   * [data restoration test](infrastructure-documentation/data-restoration-test.md)
+  * [Restoring chat-db backups](infrastructure-documentation/restoring-chat-db-backups.md)
 * [user experience design](user-experience-design/README.md)
   * [user journeys](user-experience-design/user-journeys/README.md)
     * [sign-up & first team](user-experience-design/user-journeys/sign-up-and-first-team.md)
