@@ -28,7 +28,7 @@ In this release, no channels are automatically created. This would be a useful s
 #### Known Defects
 
 * Rocket Chat mobile app (iOS / Android) is not yet working. This appears to be a known issue that has been solved by some people implementing. Investigations continue.
-* ~~Rocket Chat can under certain circumstances show the messages of a previously logged in user. This will only occur if the current user is on the same physical device using the same browser as the previous user.~~** Fixed**
+* ~~Rocket Chat can under certain circumstances show the messages of a previously logged in user. This will only occur if the current user is on the same physical device using the same browser as the previous user.~~ **Fixed**
 
 ### Change log for ui-v1 since v0.32.6
 
@@ -582,7 +582,7 @@ fe761a1 fix: remove incorrect gql mapping to cypher
 
 ### Sign-up script
 
-1. Visit [https://staging.equalcare.coop/](https://staging.equalcare.coop)
+1. Visit [https://staging.equalcare.coop/](https://staging.equalcare.coop/)
 2. Click on Join
 3. Enter the code 'HATSTAND'
 4. Select a hat

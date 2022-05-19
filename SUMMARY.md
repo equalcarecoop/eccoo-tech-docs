@@ -145,4 +145,5 @@
   * [AWS environment](documentation/aws-environment.md)
   * [rocket chat](documentation/rocket-chat/README.md)
     * [Rocket Chat User Guide](documentation/rocket-chat/rocket-chat-user-guide.md)
-* [Worker Recruitment Site](worker-recruitment-site.md)
+* [Worker Recruitment Site](worker-recruitment-site/README.md)
+  * [Editing the job description](worker-recruitment-site/editing-the-job-description.md)

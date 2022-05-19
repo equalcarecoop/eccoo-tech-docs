@@ -1,6 +1,6 @@
 # Ellie
 
-![](<../../../.gitbook/assets/image (15).png>)
+<img src="../../../.gitbook/assets/image (15).png" alt="" data-size="original">
 
 **Screening Question**: How long have you been working in the care sector and what qualifications do you have?
 

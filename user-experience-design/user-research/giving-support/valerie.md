@@ -2,7 +2,7 @@
 
 ![](<../../../.gitbook/assets/image (16).png>)
 
-**Screening Question: **What community volunteering are you doing?
+**Screening Question:** What community volunteering are you doing?
 
 > "I want to help out locally. I know there are people who aren't getting any help at the moment and I'm here and ready to give back."
 

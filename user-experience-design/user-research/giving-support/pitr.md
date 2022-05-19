@@ -2,7 +2,7 @@
 
 ![](<../../../.gitbook/assets/image (12).png>)
 
-**Screening question: **What lived experience are you drawing upon to help others?
+**Screening question:** What lived experience are you drawing upon to help others?
 
 > "Helping others is a way to help myself. It's a win-win :-)"
 

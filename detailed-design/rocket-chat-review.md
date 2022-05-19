@@ -60,7 +60,7 @@ The following instructions were used to support a new (giving support) member of
 
 These are the steps you need to go through to sign up for the platform and then access rocket chat from your phone. (If you have access to a computer, these initial steps are a little easier to go through via computer but you will only need to do it once).
 
-* &#x20;Go to [https://beta.equalcare.coop/](https://beta.equalcare.coop)
+* &#x20;Go to [https://beta.equalcare.coop/](https://beta.equalcare.coop/)
 * Enter the invitation code \*\*\*\*\*\*\*\*\* (it needs to be in capitalised as detailed)
 * Select ‘Give support’
 * Enter your postcode

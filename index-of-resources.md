@@ -40,7 +40,7 @@ All the above are located in the[ template gallery](https://docs.google.com/docu
 
 [Workers Promise](https://drive.google.com/drive/u/0/folders/16DQMSBVCQXNJOuFwL2Pu1sechic8HEwQ) (translating to visual, project in progress)
 
-[Supported Person and Advocate's Promise](https://docs.google.com/document/d/1RU0BrJgiNlpFJ-fsXqVctO9MEKvnnH6oIzl3eC2mK2M/edit#) (gdoc, will be translated to visual)
+[Supported Person and Advocate's Promise](https://docs.google.com/document/d/1RU0BrJgiNlpFJ-fsXqVctO9MEKvnnH6oIzl3eC2mK2M/edit) (gdoc, will be translated to visual)
 
 [Content we use](https://docs.google.com/document/d/1goDkVmjRukp0rn8jK3lC8\_SuDVP3eYWhCvEpkr28ARA/edit?usp=sharing) in template email responses
 
@@ -50,7 +50,7 @@ All the above are located in the[ template gallery](https://docs.google.com/docu
 
 #### Policies
 
-Although our policies site is also driven by our 'current-state' needs, it is a growing and detailed resource which codifies our approach and practice that incorporates MVP scope and beyond. The site carries many design/dev implications across the policies but key ones which (often) do not conform to standard procedural approaches and _**must **_be considered in the context of platform development are:
+Although our policies site is also driven by our 'current-state' needs, it is a growing and detailed resource which codifies our approach and practice that incorporates MVP scope and beyond. The site carries many design/dev implications across the policies but key ones which (often) do not conform to standard procedural approaches and _**must**_ be considered in the context of platform development are:
 
 1. [Roles and Responsibilities](https://app.gitbook.com/@eccoo/s/policies/safe-and-well/roles-and-responsibilities)
 2. [Safeguarding](https://app.gitbook.com/@eccoo/s/policies/safe-and-well/safeguarding)
@@ -69,7 +69,7 @@ Although our policies site is also driven by our 'current-state' needs, it is a 
 
 #### Rules and bylaws
 
-[These are found here](https://work.equalcare.coop). They are not so relevant right now but they will become more and more important as we go beyond MVP. We want strong member engagement with our work and the operation of Equal Care Co-op. One of the biggest ways of getting that is integrating that engagement into the design and development of the platform (members' area, members' tools etc). These bylaws also have relevance for the operation of circles and how they make decisions.
+[These are found here](https://work.equalcare.coop/). They are not so relevant right now but they will become more and more important as we go beyond MVP. We want strong member engagement with our work and the operation of Equal Care Co-op. One of the biggest ways of getting that is integrating that engagement into the design and development of the platform (members' area, members' tools etc). These bylaws also have relevance for the operation of circles and how they make decisions.
 
 ## Frankenstein
 

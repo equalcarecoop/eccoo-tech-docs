@@ -89,7 +89,7 @@ CSS Combinators [CSS Combinators](https://www.w3schools.com/css/css\_combinators
 
 z-index [Understanding CSS z-index - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Positioning/Understanding\_z\_index)
 
-Cubic Beziers [cubic-bezier.com](https://cubic-bezier.com)
+Cubic Beziers [cubic-bezier.com](https://cubic-bezier.com/)
 
 ### Git
 
@@ -113,7 +113,7 @@ To create a local branch from an upstream branch `git fetch` `git checkout —tr
 
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
-[Home // Think Like (a) Git](http://think-like-a-git.net)
+[Home // Think Like (a) Git](http://think-like-a-git.net/)
 
 Use `git pull --rebase` whenever pulling which will place any changes you’ve made after the updates in the main repo. [https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase](https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase)
 
@@ -175,13 +175,13 @@ Events handling
 
 [Alternatives of hamburger menu. When it comes to controversial UI, the… | by CanvasFlip | UX Planet](https://uxplanet.org/alternatives-of-hamburger-menu-a8b0459bf994)
 
-[Online Referral Form | Vision Australia. Blindness and low vision services](https://visionaustralia.org/referral/medical-professionals/form#)
+[Online Referral Form | Vision Australia. Blindness and low vision services](https://visionaustralia.org/referral/medical-professionals/form)
 
-[AccessibilityOz](https://www.accessibilityoz.com)
+[AccessibilityOz](https://www.accessibilityoz.com/)
 
 [Solved with CSS! Dropdown Menus | CSS-Tricks](https://css-tricks.com/solved-with-css-dropdown-menus/)
 
-[https://a11ysupport.io/](https://a11ysupport.io)
+[https://a11ysupport.io/](https://a11ysupport.io/)
 
 [https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/](https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas/)
 
