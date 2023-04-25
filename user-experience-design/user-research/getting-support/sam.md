@@ -10,7 +10,7 @@ Sam is very conscious of keeping in shape and goes to the gym four times a week 
 
 [Day in the Life](https://drive.google.com/drive/u/0/folders/129Vky5A3d796z0k\_ZHUQZ00c3Bp3qsnI) Research.
 
-| ****       |                                                                                                                                                                                                                                                |
+|            |                                                                                                                                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Thinks** | I really like having control over when and how my carers support me, and the ability to choose my carers is fundamental to my satisfaction with my care. I really don’t like the admin side of things and still struggle when things go wrong. |
 | **Sees**   | Too many forms and lots of hoops to jump through to ensure I’m employing people within the law.                                                                                                                                                |

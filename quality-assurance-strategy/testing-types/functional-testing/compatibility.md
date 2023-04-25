@@ -4,7 +4,7 @@
 
 Compatibility testing is used to ensure features are working across a variety of browsers and devices.
 
-### Cross-Browser Testing <a href="defaultcompatibilitytest-crossbrowsertesting" id="defaultcompatibilitytest-crossbrowsertesting"></a>
+### Cross-Browser Testing <a href="#defaultcompatibilitytest-crossbrowsertesting" id="defaultcompatibilitytest-crossbrowsertesting"></a>
 
 The default cross-browser compatibility of sites are usually be carried out through the following browsers:
 
@@ -15,7 +15,7 @@ The default cross-browser compatibility of sites are usually be carried out thro
 * Firefox (latest version on Ubuntu/Linux)
 * Chrome (latest version on Ubuntu/Linux)
 
-### Device Testing <a href="defaultcompatibilitytest-devicetesting" id="defaultcompatibilitytest-devicetesting"></a>
+### Device Testing <a href="#defaultcompatibilitytest-devicetesting" id="defaultcompatibilitytest-devicetesting"></a>
 
 The default mobile and tablet devices for internal testing are:
 
@@ -35,4 +35,3 @@ WebAIM screenreader survey: [https://webaim.org/projects/screenreadersurvey7/](h
 \
 
 
-__

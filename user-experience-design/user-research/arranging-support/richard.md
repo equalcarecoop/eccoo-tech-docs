@@ -8,7 +8,7 @@ The diagnosis, however, has left her completely shattered and the local authorit
 
 
 
-| ****       |                                                                                                                                                                                                                                                                   |
+|            |                                                                                                                                                                                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Thinks** | This shouldn’t be so complicated or take so long! I’m losing track of which carers are going to the house, who has got the keys and who knows what about mum and dad’s conditions.                                                                                |
 | **Sees**   | Increasing distress from my mum and dad and a big bureaucracy which seems to be constantly waiting for confirmation from another department to act.                                                                                                               |

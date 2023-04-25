@@ -9,8 +9,8 @@ description: The major functionality of the system. These things should never br
 Visit the home page.\
 Click the 'Join up' link.\
 Enter the invitation code 'HATSTAND'\
-__Choose to either get support or give support\
-Enter a valid Halifax postcode (HX\_\_ \__\_) or a valid OL16 postcode.
+Choose to either get support or give support\
+Enter a valid Halifax postcode (HX\_\_ \_\_\_) or a valid OL16 postcode.
 
 Enter my account details:\
 1\. First name\
@@ -131,9 +131,9 @@ Emergency contact details - name is free text field, phone must be 11 digits lon
 
 ## Policies
 
-I can view links to relevant Equal Care policies by hovering the mouse over/tabbing to my name in the navigation bar, then selecting account. 
+I can view links to relevant Equal Care policies by hovering the mouse over/tabbing to my name in the navigation bar, then selecting account.&#x20;
 
-Click Policies and from here it is possible to follow links to the whole policies site or specific policies sections. 
+Click Policies and from here it is possible to follow links to the whole policies site or specific policies sections.&#x20;
 
 All links open in a new tab.
 
@@ -151,7 +151,7 @@ I should be automatically added to the open, public channels. These are called '
 ## Rocket Chat app
 
 I can use the Rocket.Chat app to message people on my mobile, tablet or computer.\
-I need to have created an account on [Equal Care's platform](https://beta.equalcare.coop) before I can do this. 
+I need to have created an account on [Equal Care's platform](https://beta.equalcare.coop) before I can do this.&#x20;
 
 ### Device requirements
 
@@ -209,7 +209,7 @@ An action box will allow the admin user to grant or decline the hat request. Onc
 
 I need to be signed in before I can sign out.
 
-My name will be at the top right corner of the screen if I am logged in. 
+My name will be at the top right corner of the screen if I am logged in.&#x20;
 
 To logout I tap/hover my mouse over my name. A menu will appear.
 

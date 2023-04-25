@@ -2,7 +2,7 @@
 
 ## **Hyper accessibility & AAA**
 
-****
+
 
 ### Specifics
 

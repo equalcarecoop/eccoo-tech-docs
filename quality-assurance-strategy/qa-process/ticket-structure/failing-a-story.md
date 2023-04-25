@@ -17,4 +17,3 @@ See [creating a ticket from testing for more info on how to raise a bug](https:/
 
 
 
-****
