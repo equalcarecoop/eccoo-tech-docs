@@ -2,7 +2,7 @@
 
 **Screening Question**: What care and support services have you commissioned in the past year?
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 Clifford is the lead commissioner for health and social care services in his authority, including mental health and older care. He has recently taken on child obesity management – a subject he knows nothing about but he’s confident his experience will see him through.
 

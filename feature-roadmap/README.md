@@ -2,7 +2,7 @@
 
 We need to deliver a series of features to complete the MVP. This is an attempt to lay out the critical features as a roadmap. There is a significant linkage between this and the various Asana boards that we are using to manage the work.
 
-![](../.gitbook/assets/eccoo-features.png)
+![](<../.gitbook/assets/Eccoo features.png>)
 
 
 
@@ -44,7 +44,7 @@ We need to deliver a series of features to complete the MVP. This is an attempt 
 * List team bookings
 * T’s & C ’s Pt 3
 * Create booking
-* Rearrange \(edit\) booking
+* Rearrange (edit) booking
 * Set / Disable Recurring Booking
 * Cancel Booking
 * Handle booking validation
@@ -53,7 +53,7 @@ We need to deliver a series of features to complete the MVP. This is an attempt 
 ### Sign in
 
 * Sign in
-* User federation \(to Equal Care GSuite\)
+* User federation (to Equal Care GSuite)
 
 ### Team
 
@@ -66,7 +66,7 @@ We need to deliver a series of features to complete the MVP. This is an attempt 
 * Comments on notes
 * Support notes
 * Photo of Notes
-* Upload of Document \(Variety of Formats\)
+* Upload of Document (Variety of Formats)
 
 ### Messaging
 
@@ -94,7 +94,7 @@ We need to deliver a series of features to complete the MVP. This is an attempt 
 
 ### Agreements
 
-* Person to Person - support terms giving &lt;-&gt; getting
+* Person to Person - support terms giving <-> getting
 
 ### Website
 
@@ -107,10 +107,9 @@ We need to deliver a series of features to complete the MVP. This is an attempt 
 ### Back office
 
 * Back Office
-* Site Analytics
+*   Site Analytics
 
-  GA Console / Tagging
-
+    GA Console / Tagging
 * Storage
 * Reporting
 * Finance Management and reconciliation
@@ -119,13 +118,12 @@ We need to deliver a series of features to complete the MVP. This is an attempt 
 
 ### Requests
 
-* Hat Management \(Requests\)
+* Hat Management (Requests)
 * Request list
 * Action Buttons
 
 ## References
 
-This data was derived from a brainstorm captured in the 3m [Post It App](https://www.post-it.com/3M/en_US/post-it/ideas/app/).
+This data was derived from a brainstorm captured in the 3m [Post It App](https://www.post-it.com/3M/en\_US/post-it/ideas/app/).
 
-{% file src="../.gitbook/assets/eccoo-features.zip" %}
-
+{% file src="../.gitbook/assets/Eccoo features.zip" %}

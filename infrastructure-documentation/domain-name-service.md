@@ -6,19 +6,19 @@ description: This page describes the Domain Name Service (DNS) configuration.
 
 ## Current domain setup
 
-![Current domain structure](../.gitbook/assets/domain-v2.png)
+![Current domain structure](<../.gitbook/assets/Domain V2.png>)
 
 ## Future domain mapping
 
-| Domain | Service | Comments |
-| :--- | :--- | :--- |
-| equalcare.coop |  |  |
-| www.equalcare.coop | zhs.zohosites.eu | Main website |
-| equalcare.coop | \(Multiple\) | Google setup |
-| mail.equalcare.coop, calendar.equalcare.coop | ghs.googlehosted.com | Google service overrides. See [https://support.google.com/a/answer/53340](https://support.google.com/a/answer/53340) |
-| book.equalcare.coop, www.book.equalcare.coop | connect.vcita.com | Can be retired. Does not work |
-| plan.equalcare.coop, platform.docs.equalcare.coop, policies.equalcare.coop, work.equalcare.coop,  | hosting.gitbook.com | Git book documentation. Should some/all of these really sit under the docs subdomain? |
-| mta-sts.equalcare.coop | eccoo-platform.gitlab.io | MTA-STS configuration file. Hosted as a Gitlab Pages static site. |
+| Domain                                                                                            | Service                  | Comments                                                                                                             |
+| ------------------------------------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| equalcare.coop                                                                                    |                          |                                                                                                                      |
+| www.equalcare.coop                                                                                | zhs.zohosites.eu         | Main website                                                                                                         |
+| equalcare.coop                                                                                    | (Multiple)               | Google setup                                                                                                         |
+| mail.equalcare.coop, calendar.equalcare.coop                                                      | ghs.googlehosted.com     | Google service overrides. See [https://support.google.com/a/answer/53340](https://support.google.com/a/answer/53340) |
+| book.equalcare.coop, www.book.equalcare.coop                                                      | connect.vcita.com        | Can be retired. Does not work                                                                                        |
+| plan.equalcare.coop, platform.docs.equalcare.coop, policies.equalcare.coop, work.equalcare.coop,  | hosting.gitbook.com      | Git book documentation. Should some/all of these really sit under the docs subdomain?                                |
+| mta-sts.equalcare.coop                                                                            | eccoo-platform.gitlab.io | MTA-STS configuration file. Hosted as a Gitlab Pages static site.                                                    |
 
 ## Services
 
@@ -32,7 +32,7 @@ The configuration of DNS is managed in the [Gitlab Configuration Management](htt
 
 ### nameservers
 
-```text
+```
 ❯ dig +short NS equalcare.coop
 connie.ns.cloudflare.com.
 robert.ns.cloudflare.com.
@@ -40,7 +40,7 @@ robert.ns.cloudflare.com.
 
 ### whois record
 
-```text
+```
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
@@ -187,6 +187,4 @@ http://wdprs.internic.net/
 
 
 ```
-
-
 

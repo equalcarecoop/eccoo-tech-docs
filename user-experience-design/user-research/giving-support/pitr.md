@@ -1,6 +1,6 @@
 # Pitr
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (16).png>)
 
 **Screening question:** What lived experience are you drawing upon to help others?
 

@@ -1,6 +1,6 @@
 # Caroline
 
-![](<../../../.gitbook/assets/image (9) (1).png>)
+![](<../../../.gitbook/assets/image (2).png>)
 
 **Screening Question**: What paid-for care and support have you received in the past month?
 

@@ -29,7 +29,7 @@ We may look at augmenting the frontend with something like Svelte - potentially 
 
 The tech stack is shown below:
 
-![Recommended tech stack for eccoo Platform MVP](../.gitbook/assets/eccoo-stack.png)
+![Recommended tech stack for eccoo Platform MVP](<../.gitbook/assets/eccoo stack.png>)
 
 Grey boxes are subject to final validation. In particular, the transaction log selection of blockchain technology is being considered in the context of the Gartner Hype Curve: Equal Care Coop will not just be another blockchain bandwagon jumper.
 

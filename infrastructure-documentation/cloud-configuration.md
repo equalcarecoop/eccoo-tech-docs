@@ -8,9 +8,7 @@ We will ultimately need to create a number of VPCs for different purposes. The f
 
 The diagram below shows the Development VPC
 
-![Development VPC](../.gitbook/assets/dev-vpc.png)
-
-
+![Development VPC](<../.gitbook/assets/Dev VPC.png>)
 
 
 

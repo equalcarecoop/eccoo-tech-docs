@@ -12,11 +12,11 @@ Equal Care Facilitators are taking a large amount of time managing teams in the 
 
 There are three parts to team formation:
 
-* Creating a team when the person getting support \(or the person acting on their behalf\) invites the first person giving support
+* Creating a team when the person getting support (or the person acting on their behalf) invites the first person giving support
 * Extending a team by inviting additional team members
 * Joining an existing team by requesting access
 
-In each case, this is a two-part activity, either invite-accept \(initiated by the person getting support\), or request-approve \(initiated by the person giving support\).
+In each case, this is a two-part activity, either invite-accept (initiated by the person getting support), or request-approve (initiated by the person giving support).
 
 1. The system **must** present lists of pending invitations and requests to all relevant parties, enabling acceptance / approval as appropriate.
 2. The system **should** notify the all parties via direct message of changes in state.
@@ -25,7 +25,7 @@ In each case, this is a two-part activity, either invite-accept \(initiated by t
 ### Assumptions
 
 1. No time limitations on request
-2. The system **will** only allow a person getting support or their advocate \(albeit that in reality this is being 'faked' by current users given lack of a specific arranging support hat\) to approve requests.
+2. The system **will** only allow a person getting support or their advocate (albeit that in reality this is being 'faked' by current users given lack of a specific arranging support hat) to approve requests.
 3. The system **will** only allow a person giving support to accept their own invitations.
 
 ## Use cases
@@ -34,21 +34,21 @@ In each case, this is a two-part activity, either invite-accept \(initiated by t
 The use cases below assume that invitations/requests are either accepted/approved or ignored. The sunny-day scenario is the only one presented. Logically, there may also be alternative scenarios which enable declined/rejected outcomes.
 {% endhint %}
 
-### &lt;SOMEONE&gt; approves a hat request
+### \<SOMEONE> approves a hat request
 
 #### Preconditions
 
 * A hat request exists in the system
-* A profile has been 'completed' \(for some definition of complete - TBD\) for the person requesting the hat
+* A profile has been 'completed' (for some definition of complete - TBD) for the person requesting the hat
 * Someone has a suitable level of permissions to grant hat requests within the system
 
 #### Steps
 
-1. The system presents a \(filtered???\) list of pending hat requests
-2. &lt;SOMEONE&gt; selects one of them
+1. The system presents a (filtered???) list of pending hat requests
+2. \<SOMEONE> selects one of them
 3. The System presents the appropriate profile for the hat request
-4. &lt;SOMEONE&gt; approves the hat request
-5. The system notifies &lt;SOMEONE&gt; that the hat request has been approved
+4. \<SOMEONE> approves the hat request
+5. The system notifies \<SOMEONE> that the hat request has been approved
 
 #### Postconditions
 
@@ -58,10 +58,10 @@ The use cases below assume that invitations/requests are either accepted/approve
 
 ### Team arranger adds a new person giving support to the team
 
-Team members that are authorised to add a team member are: 
+Team members that are authorised to add a team member are:&#x20;
 
-* Team owner \(person getting support\) 
-* Family member 
+* Team owner (person getting support)&#x20;
+* Family member&#x20;
 * Equal Care Team Builder / Facilitator
 * Existing Team Member who has been given permission
 
@@ -81,9 +81,9 @@ Team members that are authorised to add a team member are:
 
 #### Postcondition
 
-* System has created a record for team \(if one did not exist\)
+* System has created a record for team (if one did not exist)
 * System has registered invitation for potential team member
-* System \(potentially\) notifies potential team member via Rocket Chat.
+* System (potentially) notifies potential team member via Rocket Chat.
 
 ### Person giving support accepts invitation to team
 
@@ -156,20 +156,18 @@ Team members that are authorised to add a team member are:
 
 ### Accept team invitation
 
-![Accept team invitation sequence diagram](../.gitbook/assets/accept-team-invitation.png)
+![Accept team invitation sequence diagram](../.gitbook/assets/accept-team-Invitation.png)
 
-* [ ] "Display invitation details" should show a short summary profile of the person making the invite. 
-* [ ] Add in the ability to see a list of all team members \(and full profiles\) once the approval to join the team has completed. 
+* [ ] "Display invitation details" should show a short summary profile of the person making the invite.&#x20;
+* [ ] Add in the ability to see a list of all team members (and full profiles) once the approval to join the team has completed.&#x20;
 * [ ] "Summary support page" not "Profile landing page"
-* [ ] Refer to Hat Permissions doc - [https://docs.google.com/spreadsheets/d/1rdZXrx92LIvPUbM0\_6y9wOeGqIGDHpN85LeFyqyDcHs/edit\#gid=0](https://docs.google.com/spreadsheets/d/1rdZXrx92LIvPUbM0_6y9wOeGqIGDHpN85LeFyqyDcHs/edit#gid=0)
+* [ ] Refer to Hat Permissions doc - [https://docs.google.com/spreadsheets/d/1rdZXrx92LIvPUbM0\_6y9wOeGqIGDHpN85LeFyqyDcHs/edit#gid=0](https://docs.google.com/spreadsheets/d/1rdZXrx92LIvPUbM0\_6y9wOeGqIGDHpN85LeFyqyDcHs/edit#gid=0)
 
 ## Implementation notes
 
-Should make use of events for notifications and other asynchronous activities \(such as adding users to a team\). See [https://docs.nestjs.com/techniques/events](https://docs.nestjs.com/techniques/events) for details. Propose that the event is `notify.user`. Payload includes userid, message, link.
+Should make use of events for notifications and other asynchronous activities (such as adding users to a team). See [https://docs.nestjs.com/techniques/events](https://docs.nestjs.com/techniques/events) for details. Propose that the event is `notify.user`. Payload includes userid, message, link.
 
 We might also want to consider the backend application employing a CQRS pattern. See [https://docs.nestjs.com/recipes/cqrs](https://docs.nestjs.com/recipes/cqrs) for more info.
-
-
 
 
 

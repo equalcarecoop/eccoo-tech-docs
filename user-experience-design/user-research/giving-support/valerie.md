@@ -1,6 +1,6 @@
 # Valerie
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (12).png>)
 
 **Screening Question:** What community volunteering are you doing?
 

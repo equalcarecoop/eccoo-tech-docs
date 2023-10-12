@@ -1,6 +1,6 @@
 # Sam
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (14).png>)
 
 **Screening Question**: How many care workers / PAs do you employ?
 
